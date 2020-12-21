@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 45.78 % en WeTek Hub Android y Smart TV box Bluetoo'
+title: 'Discount of 45.78 % for WeTek Hub Android y Smart TV box Bluetoo'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31MaBEDgoOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '45.78'
 average: '37.9'
 ---
 
-Tienes [WeTek Hub Android y Smart TV box Bluetooth 4.0 Ultra HD 4k ultracompacto y discreto](https://www.amazon.es/dp/B01HC35QEM/?tag=tolees-21) con un 45.78 % de descuento con precio de oferta de 37.9 EUR (original: 69.9 EUR) en el siguiente enlace!
+You've got [WeTek Hub Android y Smart TV box Bluetooth 4.0 Ultra HD 4k ultracompacto y discreto](https://www.amazon.es/dp/B01HC35QEM/?tag=tolees-21) with a  45.78 % discount, with final price of 37.9 EUR (original: 69.9 EUR) at the following link:
 
 [![WeTek Hub Android y Smart TV box Bluetoo](https://images-eu.ssl-images-amazon.com/images/I/31MaBEDgoOL._SL200_.jpg)](https://www.amazon.es/dp/B01HC35QEM/?tag=tolees-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01HC35QEM/?tag=tolees-21)
+[Check the deal!!](https://www.amazon.es/dp/B01HC35QEM/?tag=tolees-21)

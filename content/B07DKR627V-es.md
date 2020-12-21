@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panasonic TX-55FZ800E - Televisor OLED d al 50.03 % de descuento'
+title: 'Panasonic TX-55FZ800E - Televisor OLED d at 50.03 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31F0sultxmL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.03'
 average: '998.9'
 ---
 
-Ahora mismo tienes [Panasonic TX-55FZ800E - Televisor OLED de 55"  Color Negro](https://www.amazon.es/dp/B07DKR627V/?tag=tolees-21) a 998.9 EUR (original: 1999 EUR) (50.03 %  de descuento) en el siguiente enlace!
+With a final price of 998.9 EUR (original: 1999 EUR) you can find [Panasonic TX-55FZ800E - Televisor OLED de 55"  Color Negro](https://www.amazon.es/dp/B07DKR627V/?tag=tolees-21) with a  50.03 % discount here:
 
 [![Panasonic TX-55FZ800E - Televisor OLED d](https://images-eu.ssl-images-amazon.com/images/I/31F0sultxmL._SL200_.jpg)](https://www.amazon.es/dp/B07DKR627V/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DKR627V/?tag=tolees-21)
+[Buy it!!](https://www.amazon.es/dp/B07DKR627V/?tag=tolees-21)

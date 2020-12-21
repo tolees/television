@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2018 Última versión-Mini M8S Pro Android al 25.00 % de descuento'
+title: '2018 Última versión-Mini M8S Pro Android at 25.00 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CAfDG-YuL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.00'
 average: '59.99'
 ---
 
-Ahora mismo tienes [2018 Última versión-Mini M8S Pro Android 7.1 TV Box S912 Octa Core Arm Cortex-A53 con DDR3 3GB + eMMC Flash 32G Micro SD Card hasta 32GB 4K HDMI/ 2 * USB 2.0 /WiFi 2.4G+5.8G / BT 4.0 Smart TV Box](https://www.amazon.es/dp/B07FNJBRGZ/?tag=tolees-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
+With a final price of 59.99 EUR (original: 79.99 EUR) you can find [2018 Última versión-Mini M8S Pro Android 7.1 TV Box S912 Octa Core Arm Cortex-A53 con DDR3 3GB + eMMC Flash 32G Micro SD Card hasta 32GB 4K HDMI/ 2 * USB 2.0 /WiFi 2.4G+5.8G / BT 4.0 Smart TV Box](https://www.amazon.es/dp/B07FNJBRGZ/?tag=tolees-21) with a  25.00 % discount here:
 
 [![2018 Última versión-Mini M8S Pro Android](https://images-eu.ssl-images-amazon.com/images/I/41CAfDG-YuL._SL200_.jpg)](https://www.amazon.es/dp/B07FNJBRGZ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07FNJBRGZ/?tag=tolees-21)
+[Buy it!!](https://www.amazon.es/dp/B07FNJBRGZ/?tag=tolees-21)

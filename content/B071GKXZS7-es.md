@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SAMSUNG 50MU6172 Smart TV LED WIFI Ultra al 21.69 % de descuento'
+title: 'Discount of 21.69 % for SAMSUNG 50MU6172 Smart TV LED WIFI Ultra'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ngbjX2nzL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '21.69'
 average: '509'
 ---
 
-Ahora mismo tienes [SAMSUNG 50MU6172 Smart TV LED WIFI Ultra HD 4K HDR 50 POLLICI](https://www.amazon.es/dp/B071GKXZS7/?tag=tolees-21) a 509 EUR (original: 650 EUR) (21.69 %  de descuento) en el siguiente enlace!
+You've got [SAMSUNG 50MU6172 Smart TV LED WIFI Ultra HD 4K HDR 50 POLLICI](https://www.amazon.es/dp/B071GKXZS7/?tag=tolees-21) with a  21.69 % discount, with final price of 509 EUR (original: 650 EUR) at the following link:
 
 [![SAMSUNG 50MU6172 Smart TV LED WIFI Ultra](https://images-eu.ssl-images-amazon.com/images/I/51ngbjX2nzL._SL200_.jpg)](https://www.amazon.es/dp/B071GKXZS7/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B071GKXZS7/?tag=tolees-21)
+[Check the deal!!](https://www.amazon.es/dp/B071GKXZS7/?tag=tolees-21)

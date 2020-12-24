@@ -25,10 +25,10 @@ With a final price of 12.74 EUR (original: 14.99 EUR) you can find [Rii K22 Tecl
 
 ℹ️:
 
+- Compatible con PC, portátiles, Raspberry PI2/3, MacOS, Linux HTPC, IPTV, Google Android SmartTV Box, XBMC/KODI, Windows XP/2000/7/8/8.1/10.
 - Cubierta protectora de aleación de aluminio resistente a golpes. Teclado QWERTY español con touchpad integrado.
 - Teclado ultradelgado inalámbrico 2.4Ghz. Touchpad incluído, Perfecto para usar con SmartTV, ordenador conectado a monitor o television, PC, MacBook y Raspberry
 - Batería de Ion-Litio recargable incluída. Se carga a través de un Puerto USB estándar
-- Compatible con PC, portátiles, Raspberry PI2/3, MacOS, Linux HTPC, IPTV, Google Android SmartTV Box, XBMC/KODI, Windows XP/2000/7/8/8.1/10.
 - Diseño ergonómico compacto, fino y ligero. Fácil y cómodo de usar en cualquier posición ya que no pesa ni ocupa casi espacio. Receptor USB incluído.
 
 [Buy it!!](https://www.amazon.es/dp/B07VDJS1B8/?tag=tolees-21)

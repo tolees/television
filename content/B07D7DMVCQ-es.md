@@ -25,9 +25,9 @@ There's a deal [Zerone Mando a Distancia Universal EN2B27 para Hisense TV  Mando
 
 ℹ️:
 
+- 【Alta calidad】: Hecho de material ABS, resistente y duradero.
 - 【Fuente de alimentación】: alimentado por 2 pilas AAA (no incluidas).
 - 【Fácil de usar】: no necesita programación o configuración, se puede utilizar directamente después de instalar pilas.
-- 【Alta calidad】: Hecho de material ABS, resistente y duradero.
 - 【10 m de distancia remota】: la distancia a distancia es de hasta 10 m (distancia real a distancia depende del modelo de tu TV).
 - 【Reemplazo perfecto】: este mando a distancia puede reemplazar la mayoría de televisores inteligentes Hisense.
 

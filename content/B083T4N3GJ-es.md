@@ -25,14 +25,14 @@ You've got [SAMSUNG Crystal UHD 2020 75TU8005 - Smart TV de 75\" con Resolución
 
 ℹ️:
 
-- Smart tv con tizen y guía universal: descubre una amplia plataforma de contenidos y accede fácilmente a ellos de forma personalizada
-- Multi view: permite ver la pantalla de tu smartphone en el televisor a la vez que se reproduce el contenido en él
-- Crystal uhd: capaz de reproducir con mayor pureza más de mil millones de colores
-- Procesador crystal 4k: impresionante calidad de imagen, gracias a al procesador que optimiza el color y el alto rango dinámico (hdr)
-- Hdr 10+: la tecnología hdr crea negros más profundos y potencía el nivel de detalle de cada escena
 - Sonido inteligente: ajusta el sonido al detectar variaciones, adaptándose al tipo de escena gracias a la inteligencia
-- One remote control: accede a todas las aplicaciones de tu smart tv, decodificador o consola desde un solo mando
-- Ambient mode: olvida las pantallas y personaliza tu televisor con fotos o tu música favorita
+- Hdr 10+: la tecnología hdr crea negros más profundos y potencía el nivel de detalle de cada escena
 - Asistentes de voz: accede a tu contenido favorito a través de los asistentes de voz, como alexa, ahora integrados en el propio televisor. Puedes hablar con Alexa y controlar tu tele. Con Alexa, puedes reproducir música, escuchar noticias, conocer la previsión del tiempo, controlar dispositivos de Hogar digital y más.
+- Ambient mode: olvida las pantallas y personaliza tu televisor con fotos o tu música favorita
+- One remote control: accede a todas las aplicaciones de tu smart tv, decodificador o consola desde un solo mando
+- Crystal uhd: capaz de reproducir con mayor pureza más de mil millones de colores
+- Multi view: permite ver la pantalla de tu smartphone en el televisor a la vez que se reproduce el contenido en él
+- Smart tv con tizen y guía universal: descubre una amplia plataforma de contenidos y accede fácilmente a ellos de forma personalizada
+- Procesador crystal 4k: impresionante calidad de imagen, gracias a al procesador que optimiza el color y el alto rango dinámico (hdr)
 
 [Check the deal!!](https://www.amazon.es/dp/B083T4N3GJ/?tag=tolees-21)

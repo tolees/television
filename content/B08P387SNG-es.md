@@ -25,10 +25,10 @@ There's a deal [Disco duro externo portátil de 2 TB – HDD externo ultra delga
 
 ℹ️:
 
+- ✔ Qué incluye: disco duro externo portátil, cable de unidad externa USB 3.0 de 19 pulgadas (48,26 cm), manual del usuario (idioma español no garantizado).
+- ✔ Una unidad de juego fiable: este disco duro externo de juego cuenta con un rendimiento estable y rápido para Xbox One, Xbox 360, PS4, PS4 Pro y PS4 Slim, no rechazar ni borrar un juego. Compatible con Microsoft Windows y Mac OS (requiere reformato en FAT 32).
 - ✔ Diseño de metal ultra delgado y resistente: solo 0.4 pulgadas de grosor. La carcasa de aluminio antiarañazos mantiene este disco duro externo Mac funcionando fresco y silencioso. Llamativo espacio gris combina decentemente con acabado de aluminio.
 - ✔ Mejora el rendimiento del PC: alimentado por la tecnología USB 3.0, este disco duro USB es mucho más rápido que - pero sigue siendo compatible con - USB 2.0 portátil, lo que permite una velocidad de transferencia súper rápida de hasta 5 Gbit/s. (★Para maximizar el rendimiento, conecta tu disco duro externo a un puerto USB 3.0).
 - ✔ Plug and Play: la unidad externa está lista para usar sin fuente de alimentación externa o instalación de software. Almacenamiento adicional ideal para tu PC y portátil.
-- ✔ Una unidad de juego fiable: este disco duro externo de juego cuenta con un rendimiento estable y rápido para Xbox One, Xbox 360, PS4, PS4 Pro y PS4 Slim, no rechazar ni borrar un juego. Compatible con Microsoft Windows y Mac OS (requiere reformato en FAT 32).
-- ✔ Qué incluye: disco duro externo portátil, cable de unidad externa USB 3.0 de 19 pulgadas (48,26 cm), manual del usuario (idioma español no garantizado).
 
 [Buy it now!!](https://www.amazon.es/dp/B08P387SNG/?tag=tolees-21)

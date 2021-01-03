@@ -25,11 +25,11 @@ You've got [LG 75UN71006LC - Smart TV 4K UHD 189 cm  75"  con Inteligencia Artif
 
 ℹ️:
 
-- Compatible con HDR10 Pro y HLG
-- Sistema operativo SmartTV webOS 5.0
-- LG UHD, el Smart TV 4K UHD de 189 cm (75") compatible con Inteligencia Artificial
 - Disfruta de la experiencia del Sonido Ultra Surround
-- Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, no incluido
+- LG UHD, el Smart TV 4K UHD de 189 cm (75") compatible con Inteligencia Artificial
 - Procesador Inteligente Quad Core
+- Sistema operativo SmartTV webOS 5.0
+- Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, no incluido
+- Compatible con HDR10 Pro y HLG
 
 [Check the deal!!](https://www.amazon.es/dp/B084XSXKMG/?tag=tolees-21)

@@ -25,11 +25,11 @@ With a final price of 525.0 EUR (original: 709.0 EUR) you can find [LG 49NANO80A
 
 ℹ️:
 
-- LG NanoCell, la gran tecnología de las grandes pulgadas
 - Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, incluido
-- Sistema operativo Smart TV webOS 5.0, fácil, rápido y seguro (certificado por UL Cybersecurity) con Inteligencia Artificial: LG ThinQ AI, Alexa, Asistente de Google
-- Compatible con HDR10 Pro y HLG
 - Disfruta de la experiencia del Sonido Ultra Surround
+- Compatible con HDR10 Pro y HLG
 - Caja reforzada para Amazon (certificación ISTA6) con diseño genérico 49NANO806NA
+- LG NanoCell, la gran tecnología de las grandes pulgadas
+- Sistema operativo Smart TV webOS 5.0, fácil, rápido y seguro (certificado por UL Cybersecurity) con Inteligencia Artificial: LG ThinQ AI, Alexa, Asistente de Google
 
 [Buy it!!](https://www.amazon.es/dp/B084XT6K7G/?tag=tolees-21)

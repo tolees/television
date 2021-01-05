@@ -25,11 +25,11 @@ You've got [LG 70UN7100ALEXA - Smart TV 4K UHD 177 cm  70"  con Inteligencia Art
 
 ℹ️:
 
+- Compatible con HDR10 Pro y HLG
+- Caja reforzada para Amazon (certificación ISTA 6) con diseño genérico LG 70UN71006LA
 - Disfruta de la experiencia del Sonido Ultra Surround
 - Sistema operativo SmartTV webOS 5.0
 - Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, no incluido
 - LG UHD, el Smart TV 4K UHD de 177 cm (70") compatible con Inteligencia Artificial
-- Caja reforzada para Amazon (certificación ISTA 6) con diseño genérico LG 70UN71006LA
-- Compatible con HDR10 Pro y HLG
 
 [Check the deal!!](https://www.amazon.es/dp/B086J4Z6CK/?tag=tolees-21)

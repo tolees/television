@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG 49NANO80ALEXA - Smart TV 4K NanoCell  at 25.95 % discount'
-date: 2021-01-04 07:39:12
+date: 2021-01-06 20:41:07
 image: 'https://m.media-amazon.com/images/I/417n5oKq77L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B084XT6K7G/?tag=tolees-21'
 descuento: '25.95'
-average: '560.3199999999999'
+average: '555.2742857142856'
 ---
 
 With a final price of 525.0 EUR (original: 709.0 EUR) you can find [LG 49NANO80ALEXA - Smart TV 4K NanoCell 123 cm  49" con Inteligencia Artificial  Procesador Inteligente Quad Core  Deep Learning  Local Dimming  HDR 10 Pro  HLG  Sonido Ultra Surround](https://www.amazon.es/dp/B084XT6K7G/?tag=tolees-21) with a  25.95 % discount here:
@@ -25,11 +25,11 @@ With a final price of 525.0 EUR (original: 709.0 EUR) you can find [LG 49NANO80A
 
 ℹ️:
 
-- LG NanoCell, la gran tecnología de las grandes pulgadas
 - Disfruta de la experiencia del Sonido Ultra Surround
-- Compatible con HDR10 Pro y HLG
 - Caja reforzada para Amazon (certificación ISTA6) con diseño genérico 49NANO806NA
 - Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, incluido
+- LG NanoCell, la gran tecnología de las grandes pulgadas
 - Sistema operativo Smart TV webOS 5.0, fácil, rápido y seguro (certificado por UL Cybersecurity) con Inteligencia Artificial: LG ThinQ AI, Alexa, Asistente de Google
+- Compatible con HDR10 Pro y HLG
 
 [Buy it!!](https://www.amazon.es/dp/B084XT6K7G/?tag=tolees-21)

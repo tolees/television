@@ -25,11 +25,11 @@ With a final price of 1004.9 EUR (original: 1599.0 EUR) you can find [LG 75UN850
 
 ℹ️:
 
-- LG UHD, disfruta del contenido en este Smart TV 4K con Inteligencia Artificial
-- Procesador Inteligente 4K α7 Gen3 de 14 Bit con Deep Learning integrado, calidad optimizada con Imagen IA y Sonido IA
-- Sistema operativo smart tv webos 5. 0, fácil, rápido y seguro (certificado por cybersecurity) con inteligencia artificial lg thinq ai, alexa, asistente de google
-- Compatible con el 100% de formatos HDR (HDR Dolby Vision, Technicolor, HDR10, HLG y HDR Conversor)
 - Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, incluido
+- Compatible con el 100% de formatos HDR (HDR Dolby Vision, Technicolor, HDR10, HLG y HDR Conversor)
+- LG UHD, disfruta del contenido en este Smart TV 4K con Inteligencia Artificial
 - Sonido Dolby ATMOS con 20W de potencia, experiencia de sonido envolvente full 360º como en el cine
+- Sistema operativo smart tv webos 5. 0, fácil, rápido y seguro (certificado por cybersecurity) con inteligencia artificial lg thinq ai, alexa, asistente de google
+- Procesador Inteligente 4K α7 Gen3 de 14 Bit con Deep Learning integrado, calidad optimizada con Imagen IA y Sonido IA
 
 [Buy it!!](https://www.amazon.es/dp/B084XT55JN/?tag=tolees-21)

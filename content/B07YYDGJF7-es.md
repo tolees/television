@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Televisor CCTV TV F1.7 de 35 mm Lente de al 33.51 % de descuento'
-date: 2020-08-07 10:32:13
+date: 2021-01-13 13:19:09
 image: 'https://m.media-amazon.com/images/I/41zEAyJhecL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,5 +25,10 @@ Ahora mismo tienes [Televisor CCTV TV F1.7 de 35 mm Lente de película + Montaje
 
 🔎:
 
+- 1.Special design: This new lens is used for the mirrorless camera.
+- 3. High-quality lens with 35mm focal length and f1.6 aperture, suitable for low-light applications
+- 5.Wide: infinite focus, it is perfect for use in bars, shops, car parks, homes and warehouses, etc.
+- 2.High quality: Mirrorless camera lens, clear image F1.6
+- 4. Durable: This surveillance lens has an aluminium alloy housing with a quality lens.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YYDGJF7/?tag=tolees-21)

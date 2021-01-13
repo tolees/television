@@ -1,29 +1,39 @@
 ---
 layout: post
-title: 'Samsung QLED 4K 2020 65Q80T - Smart TV d al 19.80 % de descuento'
-date: 2020-08-21 21:02:13
+title: 'Samsung QLED 2020 65Q80T - Smart TV de 6 al 26.16 % de descuento'
+date: 2021-01-13 13:17:59
 image: 'https://m.media-amazon.com/images/I/41rZ6haDKWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B083SCSD46-es'
-actualPrice: 1603.2 EUR
+actualPrice: 1476.13 EUR
 currency: EUR
-price: 1603.2
+price: 1476.13
 comparePrice: 1999.0 EUR
-prodname: 'Samsung QLED 4K 2020 65Q80T - Smart TV de 65" con Resolución 4K UHD  Direct Full Array HDR 1500  Inteligencia Artificial 4K  HDR 10+  Ambient Mode+  One Remote Control y Asistentes de Voz integrado'
+prodname: 'Samsung QLED 2020 65Q80T - Smart TV de 65" 4K UHD  Direct Full Array HDR 1500  Inteligencia Artificial  HDR 10+  Ambient Mode+  One Remote Control y Asistentes de Voz integrado  con Alexa integrada'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B083SCSD46/?tag=tolees-21'
-descuento: '19.80'
-average: '1603.2'
+descuento: '26.16'
+average: '1539.6650000000002'
 ---
 
-Está [Samsung QLED 4K 2020 65Q80T - Smart TV de 65" con Resolución 4K UHD  Direct Full Array HDR 1500  Inteligencia Artificial 4K  HDR 10+  Ambient Mode+  One Remote Control y Asistentes de Voz integrado](https://www.amazon.es/dp/B083SCSD46/?tag=tolees-21) con 19.80 de descuento por 1603.2 EUR (original: 1999.0 EUR) en el siguiente enlace!
+Está [Samsung QLED 2020 65Q80T - Smart TV de 65" 4K UHD  Direct Full Array HDR 1500  Inteligencia Artificial  HDR 10+  Ambient Mode+  One Remote Control y Asistentes de Voz integrado  con Alexa integrada](https://www.amazon.es/dp/B083SCSD46/?tag=tolees-21) con 26.16 de descuento por 1476.13 EUR (original: 1999.0 EUR) en el siguiente enlace!
 
-[![Samsung QLED 4K 2020 65Q80T - Smart TV d](https://m.media-amazon.com/images/I/41rZ6haDKWL._SL200_.jpg)](https://www.amazon.es/dp/B083SCSD46/?tag=tolees-21)
+[![Samsung QLED 2020 65Q80T - Smart TV de 6](https://m.media-amazon.com/images/I/41rZ6haDKWL._SL200_.jpg)](https://www.amazon.es/dp/B083SCSD46/?tag=tolees-21)
 
 ℹ️:
 
+- Ots (object tracking sound) gracias a sus 6 altavoces y la inteligencia artificial, el sonido se reproduce solo en el lugar exacto donde ocurre la acción
+- Qled tv con quantum dot tecnología inorgánica que reproduce el 100% del volumen de color con cualquier nivel de brillo con Alexa integrada
+- Asistentes de voz: accede a tu contenido favorito a través de los asistentes de voz, como alexa, ahora integrados en el propio televisor. Puedes hablar con Alexa y controlar tu tele. Con Alexa, puedes reproducir música, escuchar noticias, conocer la previsión del tiempo, controlar dispositivos de Hogar digital y más.
+- Smart tv con tizen y guía universal descubre una amplia plataforma de contenidos y accede fácilmente a ellos de forma personalizada
+- Hdr 10+ la tecnología hdr crea negros más profundos y potencía el nivel de detalle de cada escena
+- Active voice amplifier (ava) el televisor ajusta el volumen y claridad de los diálogos cuando detecta un ruido constante a su alrededor
+- Wide viewing angle la calidad de imagen e intensidad de los colores se mantienen independientemente del lugar donde estés sentado
+- Direct full array hdr 1500 con un brillo de hasta 1500 nits, qled controla la iluminación trasera analizando escena por escena y mejora el contraste añadiendo profundidad en los detalles
+- One remote control accede a todas las aplicaciones de tu smart tv, decodificador o consola desde un solo mando
+- Inteligencia artifical 4k samsung aplica tecnología de inteligencia artificial para transformar y mejorar la calidad de sonido e imagen, independientemente de la fuente de origen
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083SCSD46/?tag=tolees-21)

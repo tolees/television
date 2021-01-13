@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Android 9.0 RAM 2G+16G ROM TV Box X96 Mi con un 86.66 % de descuento'
-date: 2020-04-21 14:19:30
+date: 2021-01-13 13:21:08
 image: 'https://m.media-amazon.com/images/I/51H1SmKXD5L._SL200_.jpg'
 comments: true
 category: ofertas

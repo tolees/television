@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.42 % en Sony KD-55XG8196BAEP - Televisor 4K HDR '
-date: 2020-06-18 15:44:02
+date: 2021-01-13 13:23:36
 image: 'https://m.media-amazon.com/images/I/41ms9gt0caL._SL200_.jpg'
 comments: true
 category: ofertas

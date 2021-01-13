@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Android 10.0 TV Box 4GB RAM+64GB ROM And al 22.05 % de rebaja'
-date: 2020-08-05 17:11:19
+date: 2021-01-13 13:21:43
 image: 'https://m.media-amazon.com/images/I/51NlZI+Ro9L._SL200_.jpg'
 comments: true
 category: ofertas

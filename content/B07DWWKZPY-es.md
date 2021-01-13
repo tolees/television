@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '【Promoción】 Última versión-Bqeel Android al 22.22 % de descuento'
-date: 2020-06-05 17:45:46
+date: 2021-01-13 13:21:00
 image: 'https://m.media-amazon.com/images/I/41GqOFkeN1L._SL200_.jpg'
 comments: true
 category: ofertas

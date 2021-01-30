@@ -16,6 +16,7 @@ comparePrice: 553.72 EUR
 prodname: 'TCL 55EP640 Televisor 139 cm  55 Pulgadas  Smart TV con Resolución 4K UHD  HDR10  Micro Dimming Pro  Android TV  Alexa  Google Assistant [Clase de eficiencia energética A+]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRXNGCF/?tag=tolees-21'
 descuento: '13.42'
 average: '431.99'

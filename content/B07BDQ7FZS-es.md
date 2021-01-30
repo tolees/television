@@ -16,6 +16,7 @@ comparePrice: 34.79 EUR
 prodname: 'Disco duro externo Portátil 320GB - 2.5" USB 3.0 Ultrafino Diseño Metálico HDD para Mac  PC  Laptop  Ordenador  Xbox one  PS4  Smart TV  Chromebook - Rose Pink'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDQ7FZS/?tag=tolees-21'
 descuento: '5.75'
 average: '32.79'

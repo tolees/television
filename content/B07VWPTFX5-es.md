@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Android TV Box - Bqeel Android 10.0 TV Box 【4GB+64GB】 Allwinner H616 64-bit Quad Core Arm® Cortex™ A53 con WiFi 2.4GHz/5GHz BT 4.0  8K*4K UHD H.265  USB 3.0 Smart TV Box'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWPTFX5/?tag=tolees-21'
 descuento: '8.33'
 average: '57.89'

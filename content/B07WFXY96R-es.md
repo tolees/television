@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'LG 24TL520S-PZ - Monitor Smart TV de 61cm  24"  con pantalla LED HD  1366x768  16:9  DVB-T2/C/S2  WiFi  HbbTV 2.0  Miracast  USB grabador  10W  2xHDMI 1.4  2xUSB 2.0  Auriculares  Óptica  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WFXY96R/?tag=tolees-21'
 descuento: '2.24'
 average: '142.49745098039207'

@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'SYLVANIAN FAMILIES Televisor Color Luxury  Multicolor  Epoch para Imaginar 4264 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HRRC886/?tag=tolees-21'
 descuento: '8.03'
 average: '10.99'

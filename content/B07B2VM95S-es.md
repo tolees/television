@@ -16,6 +16,7 @@ comparePrice: 33.95 EUR
 prodname: 'Jelly Comb [2.4G] Conjunto de teclado y ratón inalámbricos delgados portátil con diseño alemán QWERTZ para laptop  PC y Smart TV  [negro y oro]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B2VM95S/?tag=tolees-21'
 descuento: '13.11'
 average: '29.5'

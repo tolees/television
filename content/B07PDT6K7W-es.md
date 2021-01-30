@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Philips 24PHS4304  Televisor  1  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDT6K7W/?tag=tolees-21'
 descuento: '6.16'
 average: '120.70333333333333'

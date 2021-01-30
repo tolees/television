@@ -16,6 +16,7 @@ comparePrice: 1504.13 EUR
 prodname: 'Philips 55OLED754/12 - Televisor Ambilight de SmartTV de 55 pulgadas con 4K UHD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWNWP2B/?tag=tolees-21'
 descuento: '7.46'
 average: '1325.7399999999998'

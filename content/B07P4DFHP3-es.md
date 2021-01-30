@@ -16,6 +16,7 @@ comparePrice: 47.86 EUR
 prodname: 'Jelly Comb [2.4G] Juego de teclado y mouse inalámbrico  recargable y ultrafino con diseño de tamaño completo y diseño alemán QWERTZ para PC  portátil y Smart TV [Área 3] [negro]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4DFHP3/?tag=tolees-21'
 descuento: '14.96'
 average: '40.7'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Samsung Televisor HD 71 cm 28" Smart TV Serie N4305'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC6YCLN/?tag=tolees-21'
 descuento: '10.05'
 average: '192.57399999999998'

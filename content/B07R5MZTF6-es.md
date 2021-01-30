@@ -16,6 +16,7 @@ comparePrice: 545.25 EUR
 prodname: 'Sony KD-49XG7096BAEP - Televisor 4K HDR  Smart TV  Triluminos  procesador 4K X-Reality PRO  HDR  control por voz  ClearAudio+ '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5MZTF6/?tag=tolees-21'
 descuento: '6.60'
 average: '509.25'

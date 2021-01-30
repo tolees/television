@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Rii Mini i8 Wireless  Layout Español  - Mini Teclado ergonómico con ratón touchpad para Smart TV  Mini PC Android  Playstation  Xbox  HTPC  PC  Raspberry Pi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DDBQVUK/?tag=tolees-21'
 descuento: '7.15'
 average: '14.19'

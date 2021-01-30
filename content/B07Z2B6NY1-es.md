@@ -16,6 +16,7 @@ comparePrice: 218.96 EUR
 prodname: 'Hitachi 39he4005 Televisor 39   LCD IPS Direct Led Fullhd 600hz Smart TV WiFi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z2B6NY1/?tag=tolees-21'
 descuento: '2.64'
 average: '213.17'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Android 9.0 TV Box 4GB RAM+64GB ROM  NinkBox N1 MAX RK3318 Quad-Core 64bit Cortex-A53  TV Box de Bluetooth 4.0  WiFi 2.4G/5G  3D Ultra HD 4K  USB 3.0  BT 4.0 Smart TV Box'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQWTX6K/?tag=tolees-21'
 descuento: '14.29'
 average: '59.99'

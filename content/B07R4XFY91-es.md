@@ -16,6 +16,7 @@ comparePrice: 360.75 EUR
 prodname: 'Philips 50PUS6504/12  Smart TV de 126 cm con Tecnología LED  4K UHD  Pixel Precise Ultra HD  Dolby Vision  Dolby Atmos  Ethernet  50"  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4XFY91/?tag=tolees-21'
 descuento: '1.06'
 average: '353.8605555555555'

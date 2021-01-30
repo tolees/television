@@ -16,6 +16,7 @@ comparePrice: 645.71 EUR
 prodname: 'LG 70UM7100ALEXA - Smart TV UHD 4K de 177 cm  70"  con Alexa Integrada  Procesador Quad Core  HDR y Sonido Ultra Surround  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9SDYXW/?tag=tolees-21'
 descuento: '2.59'
 average: '675.7965625'

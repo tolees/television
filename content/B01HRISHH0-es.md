@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Proster 2 4 GHz Teclado Inalámbrico con Multi-touchpad  QWERTY Español   All-in-One Media Ultra-Slim Teclados con Ratón Tactil para Smart TV  Ordenador Portátil  Raspberry Pi 2/3. Android TV Box'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HRISHH0/?tag=tolees-21'
 descuento: '10.53'
 average: '16.41'

@@ -16,6 +16,7 @@ comparePrice: 32.83 EUR
 prodname: 'Jelly Comb Teclado delgado inalámbrico 2.4G con ratón para computadora portátil  PC y Smart TV JP-019 Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792R4ZSC/?tag=tolees-21'
 descuento: '13.07'
 average: '28.54'

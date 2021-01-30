@@ -16,6 +16,7 @@ comparePrice: 459.0 EUR
 prodname: 'Samsung UE50RU7105 - Smart TV 2019 de 50" con Resolución 4K UHD  Ultra Dimming  HDR  HDR10+   Procesador 4K  One Remote Experience  Apple TV y Compatible con Alexa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPWM7YL/?tag=tolees-21'
 descuento: '10.89'
 average: '400.18'

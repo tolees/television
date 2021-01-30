@@ -16,6 +16,7 @@ comparePrice: 1090.91 EUR
 prodname: 'TCL 65DC762 Smart TV de 65 Pulgadas con UHD 4K  HDR  Wide Color Gamut  Android TV y JBL de Harman Kardon  Acabado en Titanio Cepillado string'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NG9NSFH/?tag=tolees-21'
 descuento: '8.33'
 average: '868.3623076923078'

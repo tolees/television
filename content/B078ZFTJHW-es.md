@@ -16,6 +16,7 @@ comparePrice: 40.95 EUR
 prodname: 'TV Box Android 7.1 - Aoxun X96MINI Smart TV Box Amlogic Quad Core  2GB RAM & 16GB ROM  4K*2K UHD H.265  HDMI  USB*2  2.4GHz WiFi  Web TV Box  Android Set-Top Box  + 2 en 1 Ratón y Teclado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZFTJHW/?tag=tolees-21'
 descuento: '7.23'
 average: '35.985'

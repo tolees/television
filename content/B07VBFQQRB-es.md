@@ -16,6 +16,7 @@ comparePrice: 269.99 EUR
 prodname: 'Sharp 40BG2E - Televisor Smart TV FHD de 40" - 40 Pulgadas WiFi -  resolución 1920 x 1080  3 x HDMI  2 x USB   Color Negro  Sonido Harman/kardon  Clase energética A+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBFQQRB/?tag=tolees-21'
 descuento: '11.11'
 average: '267.55'

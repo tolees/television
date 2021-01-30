@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Hisense H40BE5500  Smart TV Full HD  2 HDMI  2 USB  Salida Óptica y de Auriculares  WiFi  Audio DBX  Procesador Quad Core  Smart TV VIDAA U 2.5  802.11bgn 2.4G Ethernet RJ-45 HDMI USB  40"  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7VFW7K/?tag=tolees-21'
 descuento: '6.81'
 average: '255.72666666666666'

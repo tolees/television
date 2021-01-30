@@ -16,6 +16,7 @@ comparePrice: 404.9 EUR
 prodname: 'Samsung UE50RU7172 televisor 50   LCD LED UHD 4K 2019 Smart TV WIFI Bluetooth'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD5GCSW/?tag=tolees-21'
 descuento: '2.47'
 average: '396.95'

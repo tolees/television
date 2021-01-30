@@ -16,6 +16,7 @@ comparePrice: 159 EUR
 prodname: 'LG 32LK500BPLA TELEVISOR 32   HD Ready 10W DVB-T2/C/S2/ HDMI USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDFKT3Y/?tag=tolees-21'
 descuento: '6.29'
 average: '149.0'

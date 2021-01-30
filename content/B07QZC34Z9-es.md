@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Televisor Philips 24PHS4354/12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZC34Z9/?tag=tolees-21'
 descuento: '4.46'
 average: '131.62'

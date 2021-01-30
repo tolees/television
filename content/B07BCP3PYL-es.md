@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Disco duro externo 500GB - 2.5" USB 3.0 Ultrafino Diseño Metálico HDD Portátil para Mac  PC  Laptop  Ordenador  Xbox one  PS4  Smart TV  Chromebook - Grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BCP3PYL/?tag=tolees-21'
 descuento: '11.63'
 average: '38.79'

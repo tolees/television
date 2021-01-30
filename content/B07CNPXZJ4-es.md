@@ -16,6 +16,7 @@ comparePrice: 26.34 EUR
 prodname: 'AmazonBasics - Teclado inalámbrico con Touchpad para televisión Smart TV - formato español  QWERTY '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNPXZJ4/?tag=tolees-21'
 descuento: '3.23'
 average: '18.2225'

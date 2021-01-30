@@ -16,6 +16,7 @@ comparePrice: 124.0 EUR
 prodname: 'Linsar 32LED320 Televisor LED HD de 32 Pulgadas  DVB-T/T2/C  HDMIx3  USBx1  Ci +  Clase energética Negra A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081T83CCJ/?tag=tolees-21'
 descuento: '7.26'
 average: '115.0'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Android TV Box-Komake Android 10.0 TV Box 【4GB+64GB】 Allwinner H616 64-bit Quad Core Arm® Cortex™ A53 Soporte Dual Antena Dual WiFi 2.4G + 5G  BT 4.1 USB 3.0 Ethernet 8K*4K UHD H.265 3D Smart TV Box'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GFZYNVX/?tag=tolees-21'
 descuento: '9.09'
 average: '49.99'

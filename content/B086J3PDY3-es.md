@@ -16,6 +16,7 @@ comparePrice: 604.73 EUR
 prodname: 'LG 60UN7100ALEXA - Smart TV 4K UHD 153 cm  60"  con Inteligencia Artificial  Procesador Inteligente Quad Core  HDR 10 Pro  HLG  Sonido Ultra Surround'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086J3PDY3/?tag=tolees-21'
 descuento: '5.91'
 average: '569.0'

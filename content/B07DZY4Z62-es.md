@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Cable Audio RCA Jack 3 5mm Macho a 2RCA Macho Nylon Trenzado Estéreo Cable para el Smartphone  Sistema HiFi iPod  Smart TV  Reproductor MP3  Tablet  PC al Amplificador  Sistema Estéreo y etc  0.5M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DZY4Z62/?tag=tolees-21'
 descuento: '5.13'
 average: '7.59'

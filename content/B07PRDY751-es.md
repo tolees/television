@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'Android TV Box - Bqeel Android 9.0 TV Box 【4GB+32GB】 con Mini Teclado Amlogic S905X3 64-bit Quad Core con Dual-WiFi 2.4GHz/5GHz BT 4.0  8K*4K UHD H.265  USB 3.0 Smart TV Box'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRDY751/?tag=tolees-21'
 descuento: '10.00'
 average: '63.79'

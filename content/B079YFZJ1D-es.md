@@ -16,6 +16,7 @@ comparePrice: 7.86 EUR
 prodname: 'AmazonBasics – Funda para televisor de exterior  1 16 - 1 21 m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YFZJ1D/?tag=tolees-21'
 descuento: '5.34'
 average: '7.44'

@@ -16,6 +16,7 @@ comparePrice: 42.79 EUR
 prodname: 'Disco duro externo 500GB - 2.5" USB 3.0 Ultrafino Diseño Metálico HDD Portátil para Mac  PC  Laptop  Ordenador  Xbox one  PS4  Smart TV  Chromebook - Rose Pink'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BCP5L2B/?tag=tolees-21'
 descuento: '12.15'
 average: '38.07000000000001'

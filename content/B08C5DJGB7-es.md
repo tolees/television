@@ -16,6 +16,7 @@ comparePrice: 52.69 EUR
 prodname: 'Disco duro externo portátil – 2 TB de almacenamiento externo HDD para PC  Mac  portátil  PS4  Xbox One y Smart TV rosso 2 tb'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C5DJGB7/?tag=tolees-21'
 descuento: '12.72'
 average: '48.93'

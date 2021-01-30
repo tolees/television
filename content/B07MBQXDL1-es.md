@@ -16,6 +16,7 @@ comparePrice: 209.63 EUR
 prodname: 'TCL 32ES560 Televisor de 32 pulgadas  Smart TV con HD  HDMI  USB  WiFi y Sintonizador Triple  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBQXDL1/?tag=tolees-21'
 descuento: '11.27'
 average: '190.07333333333335'

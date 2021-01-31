@@ -28,10 +28,10 @@ Está [INFINITON ELECTRONIC - Television LED 43" INFINITON 4K Smart TV-Android T
 
 ℹ️:
 
-- ANDROID TV - SMART TV
+- Clasificación energética A
 - Cuenta con las conexiones: -Conexión HDMI x 3 DVB-T2 + DVB-S2 -Contraste 4000:1 -Brillo 250 cd/m2 -Tiempo de respuesta 8ms -Dolby Digital Plus (DD+) Composite video/audio in -VGA (pc in: d-sub15) - Pc audio in via side av -Salida altavoces -Potencia de audio 2x8W RMS
 - TV LED 43 Pulgadas - Resolución 4K UHD (3840 x 2160p)
+- ANDROID TV - SMART TV
 - Medidas 60,8 x 97,1 x 22 cm
-- Clasificación energética A
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XC21HPS/?tag=tolees-21)

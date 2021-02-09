@@ -28,10 +28,10 @@ En este momento está [Televisiones Smart TV 43 Pulgadas 4K Android 9.0 y HBBTV 
 
 🔎:
 
-- ✅ Sintonizador digital DVB-T2/C/S2, con sistema de de televisión híbrida Hbbtv, apto para todos los países de la Unión Europea. Sintonizador de segunda generación.
 - ✅ Smart TV con sistema operativo Android 9.0 (AOSP). CPU: Arm Corex A55 Quad Core a 1.1 GHz, GPU: Mali 470x3 a 600 Mhz. RAM: 1.5 Gb, y 8 Gb de almacenamiento.
-- ✅ Televisores Led 43 Pulgadas. Resolución 3840 x 2160 píxeles (Ultra HD 4K), y HDR10, eficiencia energética A, sonido Dolby Digital Plus, Smart TV.
 - ✅ Conexiones: 3x HDMI, 2x USB, entrada de vídeo compuesto, puerto de interfaz común CI+, salida de audio digital, salida de auriculares, puerto LAN ethernet RJ45, Wifi, Bluetooth.
+- ✅ Sintonizador digital DVB-T2/C/S2, con sistema de de televisión híbrida Hbbtv, apto para todos los países de la Unión Europea. Sintonizador de segunda generación.
 - ✅ Accesorios: Mando a distancia con pilas incluidas. Manual de usuario y textos en pantalla (OSD) en Español, Inglés, Francés, alemán, italiano, y portugués.
+- ✅ Televisores Led 43 Pulgadas. Resolución 3840 x 2160 píxeles (Ultra HD 4K), y HDR10, eficiencia energética A, sonido Dolby Digital Plus, Smart TV.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HLWPRGD/?tag=tolees-21)

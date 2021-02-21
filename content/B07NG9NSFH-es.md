@@ -2,7 +2,7 @@
 layout: post
 title: 'TCL 65DC762 Smart TV de 65 Pulgadas con  al 8.33 % de rebaja'
 date: 2020-06-25 13:12:07
-image: 'https://m.media-amazon.com/images/I/31wwjTJAX2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wwjTJAX2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '868.3623076923078'
 
 Tienes [TCL 65DC762 Smart TV de 65 Pulgadas con UHD 4K  HDR  Wide Color Gamut  Android TV y JBL de Harman Kardon  Acabado en Titanio Cepillado string](https://www.amazon.es/dp/B07NG9NSFH/?tag=tolees-21) con precio final de  999.99 EUR (original: 1090.91 EUR) (8.33 %  de rebaja) aqui!
 
-[![TCL 65DC762 Smart TV de 65 Pulgadas con ](https://m.media-amazon.com/images/I/31wwjTJAX2L._SL200_.jpg)](https://www.amazon.es/dp/B07NG9NSFH/?tag=tolees-21)
+[![TCL 65DC762 Smart TV de 65 Pulgadas con ](https://m.media-amazon.com/images/I/31wwjTJAX2L._SL400_.jpg)](https://www.amazon.es/dp/B07NG9NSFH/?tag=tolees-21)
 
 🔎:
 

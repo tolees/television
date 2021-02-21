@@ -2,7 +2,7 @@
 layout: post
 title: 'LG 24TL520S-PZ - Monitor Smart TV de 61c al 2.24 % de descuento'
 date: 2020-09-22 15:04:17
-image: 'https://m.media-amazon.com/images/I/51fnOFK2dTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fnOFK2dTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '142.49745098039207'
 
 Está [LG 24TL520S-PZ - Monitor Smart TV de 61cm  24"  con pantalla LED HD  1366x768  16:9  DVB-T2/C/S2  WiFi  HbbTV 2.0  Miracast  USB grabador  10W  2xHDMI 1.4  2xUSB 2.0  Auriculares  Óptica  Color Negro](https://www.amazon.es/dp/B07WFXY96R/?tag=tolees-21) con 2.24 de descuento por 184.77 EUR (original: 189.0 EUR) en el siguiente enlace!
 
-[![LG 24TL520S-PZ - Monitor Smart TV de 61c](https://m.media-amazon.com/images/I/51fnOFK2dTL._SL200_.jpg)](https://www.amazon.es/dp/B07WFXY96R/?tag=tolees-21)
+[![LG 24TL520S-PZ - Monitor Smart TV de 61c](https://m.media-amazon.com/images/I/51fnOFK2dTL._SL400_.jpg)](https://www.amazon.es/dp/B07WFXY96R/?tag=tolees-21)
 
 ℹ️:
 

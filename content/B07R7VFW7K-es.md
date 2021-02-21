@@ -2,7 +2,7 @@
 layout: post
 title: 'Hisense H40BE5500  Smart TV Full HD  2 H al 6.81 % de descuento'
 date: 2020-05-18 10:12:21
-image: 'https://m.media-amazon.com/images/I/513sW2nikqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513sW2nikqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '255.72666666666666'
 
 Ahora mismo tienes [Hisense H40BE5500  Smart TV Full HD  2 HDMI  2 USB  Salida Óptica y de Auriculares  WiFi  Audio DBX  Procesador Quad Core  Smart TV VIDAA U 2.5  802.11bgn 2.4G Ethernet RJ-45 HDMI USB  40"  Negro](https://www.amazon.es/dp/B07R7VFW7K/?tag=tolees-21) a 259.99 EUR (original: 279.0 EUR) (6.81 %  de descuento) en el siguiente enlace!
 
-[![Hisense H40BE5500  Smart TV Full HD  2 H](https://m.media-amazon.com/images/I/513sW2nikqL._SL200_.jpg)](https://www.amazon.es/dp/B07R7VFW7K/?tag=tolees-21)
+[![Hisense H40BE5500  Smart TV Full HD  2 H](https://m.media-amazon.com/images/I/513sW2nikqL._SL400_.jpg)](https://www.amazon.es/dp/B07R7VFW7K/?tag=tolees-21)
 
 🔎:
 

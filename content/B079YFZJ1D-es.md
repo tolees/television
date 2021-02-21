@@ -2,7 +2,7 @@
 layout: post
 title: 'AmazonBasics – Funda para televisor de e al 5.34 % de descuento'
 date: 2020-04-20 15:03:02
-image: 'https://m.media-amazon.com/images/I/31kbsyKI+CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31kbsyKI+CL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.44'
 
 Está [AmazonBasics – Funda para televisor de exterior  1 16 - 1 21 m](https://www.amazon.es/dp/B079YFZJ1D/?tag=tolees-21) con 5.34 de descuento por 7.44 EUR (original: 7.86 EUR) en el siguiente enlace!
 
-[![AmazonBasics – Funda para televisor de e](https://m.media-amazon.com/images/I/31kbsyKI+CL._SL200_.jpg)](https://www.amazon.es/dp/B079YFZJ1D/?tag=tolees-21)
+[![AmazonBasics – Funda para televisor de e](https://m.media-amazon.com/images/I/31kbsyKI+CL._SL400_.jpg)](https://www.amazon.es/dp/B079YFZJ1D/?tag=tolees-21)
 
 ℹ️:
 

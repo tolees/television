@@ -2,7 +2,7 @@
 layout: post
 title: 'LG 70UM7100ALEXA - Smart TV UHD 4K de 17 al 2.59 % de rebaja'
 date: 2020-09-03 12:12:02
-image: 'https://m.media-amazon.com/images/I/41ogsOjWqeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ogsOjWqeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '675.7965625'
 
 Tienes [LG 70UM7100ALEXA - Smart TV UHD 4K de 177 cm  70"  con Alexa Integrada  Procesador Quad Core  HDR y Sonido Ultra Surround  Color Negro](https://www.amazon.es/dp/B07S9SDYXW/?tag=tolees-21) con precio final de  629.0 EUR (original: 645.71 EUR) (2.59 %  de rebaja) aqui!
 
-[![LG 70UM7100ALEXA - Smart TV UHD 4K de 17](https://m.media-amazon.com/images/I/41ogsOjWqeL._SL200_.jpg)](https://www.amazon.es/dp/B07S9SDYXW/?tag=tolees-21)
+[![LG 70UM7100ALEXA - Smart TV UHD 4K de 17](https://m.media-amazon.com/images/I/41ogsOjWqeL._SL400_.jpg)](https://www.amazon.es/dp/B07S9SDYXW/?tag=tolees-21)
 
 🔎:
 

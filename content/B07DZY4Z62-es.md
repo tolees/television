@@ -2,7 +2,7 @@
 layout: post
 title: 'Cable Audio RCA Jack 3 5mm Macho a 2RCA  al 5.13 % de descuento'
 date: 2020-05-04 11:42:48
-image: 'https://m.media-amazon.com/images/I/515ORZBW64L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515ORZBW64L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.59'
 
 Ahora mismo tienes [Cable Audio RCA Jack 3 5mm Macho a 2RCA Macho Nylon Trenzado Estéreo Cable para el Smartphone  Sistema HiFi iPod  Smart TV  Reproductor MP3  Tablet  PC al Amplificador  Sistema Estéreo y etc  0.5M ](https://www.amazon.es/dp/B07DZY4Z62/?tag=tolees-21) a 7.59 EUR (original: 8.0 EUR) (5.13 %  de descuento) en el siguiente enlace!
 
-[![Cable Audio RCA Jack 3 5mm Macho a 2RCA ](https://m.media-amazon.com/images/I/515ORZBW64L._SL200_.jpg)](https://www.amazon.es/dp/B07DZY4Z62/?tag=tolees-21)
+[![Cable Audio RCA Jack 3 5mm Macho a 2RCA ](https://m.media-amazon.com/images/I/515ORZBW64L._SL400_.jpg)](https://www.amazon.es/dp/B07DZY4Z62/?tag=tolees-21)
 
 🔎:
 

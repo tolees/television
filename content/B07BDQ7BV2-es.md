@@ -2,7 +2,7 @@
 layout: post
 title: 'Disco duro externo Portátil 320GB - 2.5" al 5.75 % de descuento'
 date: 2020-08-30 05:35:40
-image: 'https://m.media-amazon.com/images/I/31iHLxfbVgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iHLxfbVgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.39'
 
 Ahora mismo tienes [Disco duro externo Portátil 320GB - 2.5" USB 3.0 Ultrafino Diseño Metálico HDD para Mac  PC  Laptop  Ordenador  Xbox one  PS4  Smart TV  Chromebook - Grey](https://www.amazon.es/dp/B07BDQ7BV2/?tag=tolees-21) a 32.79 EUR (original: 34.79 EUR) (5.75 %  de descuento) en el siguiente enlace!
 
-[![Disco duro externo Portátil 320GB - 2.5"](https://m.media-amazon.com/images/I/31iHLxfbVgL._SL200_.jpg)](https://www.amazon.es/dp/B07BDQ7BV2/?tag=tolees-21)
+[![Disco duro externo Portátil 320GB - 2.5"](https://m.media-amazon.com/images/I/31iHLxfbVgL._SL400_.jpg)](https://www.amazon.es/dp/B07BDQ7BV2/?tag=tolees-21)
 
 🔎:
 

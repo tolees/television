@@ -2,7 +2,7 @@
 layout: post
 title: 'LG 32LK500BPLA TELEVISOR 32   HD Ready 1 con un 6.29 % de descuento'
 date: 2020-02-08 09:15:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41haUw11orL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41haUw11orL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '149.0'
 
 En este momento está [LG 32LK500BPLA TELEVISOR 32   HD Ready 10W DVB-T2/C/S2/ HDMI USB](https://www.amazon.es/dp/B07DDFKT3Y/?tag=tolees-21) a 149 EUR (original: 159 EUR) (6.29 %  de descuento) en el siguiente enlace!
 
-[![LG 32LK500BPLA TELEVISOR 32   HD Ready 1](https://images-eu.ssl-images-amazon.com/images/I/41haUw11orL._SL200_.jpg)](https://www.amazon.es/dp/B07DDFKT3Y/?tag=tolees-21)
+[![LG 32LK500BPLA TELEVISOR 32   HD Ready 1](https://images-eu.ssl-images-amazon.com/images/I/41haUw11orL._SL400_.jpg)](https://www.amazon.es/dp/B07DDFKT3Y/?tag=tolees-21)
 
 🔎:
 

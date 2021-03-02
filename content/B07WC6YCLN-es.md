@@ -28,11 +28,11 @@ Está [Samsung Televisor HD 71 cm 28" Smart TV Serie N4305](https://www.amazon.e
 
 ℹ️:
 
+- Micro dimming pro: tecnología capaz de dividir la pantalla por zonas y analizar cada una de ellas para mostrar negros más profundos y blancos más puros
 - Tipo de visualización: Accesorio
 - Ultra clean view: analiza el contenido para ofrecer imágenes de mayor calidad con menos distorsión
-- Purcolor: escenas con colores naturales y mayor nivel de nitidez para una experiencia visual llena de color
-- Hdr: mayor nivel de detalle con un amplio rando de iluminación que mejora el espectro de colores y detalles
 - Smart tv: amplia plataforma de contenidos con apps como netflix, hbo, dazn, entre otras muchas
-- Micro dimming pro: tecnología capaz de dividir la pantalla por zonas y analizar cada una de ellas para mostrar negros más profundos y blancos más puros
+- Hdr: mayor nivel de detalle con un amplio rando de iluminación que mejora el espectro de colores y detalles
+- Purcolor: escenas con colores naturales y mayor nivel de nitidez para una experiencia visual llena de color
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WC6YCLN/?tag=tolees-21)

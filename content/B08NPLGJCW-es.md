@@ -28,10 +28,10 @@ En este momento está [TD Systems K32DLJ12HS - Televisores Smart TV 32 Pulgadas 
 
 🔎:
 
-- ✅ Accesorios: Mando a distancia con pilas incluidas. Manual de usuario y textos en pantalla (OSD) en Español, Inglés, Francés, alemán, italiano, y portugués
 - ✅ Smart TV con sistema operativo Android 9.0 (AOSP). CPU: Arm Corex A55 Quad Core a 1.1 GHz, GPU: Mali 470x3 a 600 Mhz. RAM: 1.5 Gb, y 8 Gb de almacenamiento
-- ✅ Conexiones: 3x HDMI, 2x USB, entrada de vídeo compuesto, puerto de interfaz común CI+, salida de audio digital, salida de auriculares, puerto LAN ethernet RJ45, Wifi, Bluetooth
-- ✅ Sintonizador digital DVB-T2/C/S2, con sistema de de televisión híbrida Hbbtv 2.0.1, apto para todos los países de la Unión Europea. Sintonizador de segunda generación
 - ✅ Televisores Led 32 Pulgadas. Resolución 1366 x 768 píxeles (HD), eficiencia energética A, sonido Dolby Digital Plus, Smart TV
+- ✅ Conexiones: 3x HDMI, 2x USB, entrada de vídeo compuesto, puerto de interfaz común CI+, salida de audio digital, salida de auriculares, puerto LAN ethernet RJ45, Wifi, Bluetooth
+- ✅ Accesorios: Mando a distancia con pilas incluidas. Manual de usuario y textos en pantalla (OSD) en Español, Inglés, Francés, alemán, italiano, y portugués
+- ✅ Sintonizador digital DVB-T2/C/S2, con sistema de de televisión híbrida Hbbtv 2.0.1, apto para todos los países de la Unión Europea. Sintonizador de segunda generación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NPLGJCW/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [TD Systems Televisor 3X HDMI  VGA  USB  1100 PCI Hz  Grabado
 
 🔎:
 
-- ✅ Conexiones: 3x HDMI, 1x USB, 1x VGA, entrada de audio PC, entrada de vídeo compuesto, puerto de interfaz común CI+, salida de audio digital, salida de auriculares.
-- ✅ Televisores Led 39,5 Pulgadas. Resolución 1920 x 1080 píxeles (Full HD), eficiencia energética A+, sonido Dolby Digital Plus.
 - ✅ Función PVR, grabador y reproductor multimedia USB.
-- ✅ Accesorios: Mando a distancia con pilas incluidas. Manual de usuario y textos en pantalla (OSD) en Español, Inglés, Francés, alemán, italiano, y portugués.
+- ✅ Conexiones: 3x HDMI, 1x USB, 1x VGA, entrada de audio PC, entrada de vídeo compuesto, puerto de interfaz común CI+, salida de audio digital, salida de auriculares.
 - ✅ Sintonizador digital DVB-T2/C/S2, apto para todos los países de la Unión Europea. Sintonizador de segunda generación.
+- ✅ Accesorios: Mando a distancia con pilas incluidas. Manual de usuario y textos en pantalla (OSD) en Español, Inglés, Francés, alemán, italiano, y portugués.
+- ✅ Televisores Led 39,5 Pulgadas. Resolución 1920 x 1080 píxeles (Full HD), eficiencia energética A+, sonido Dolby Digital Plus.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08LLBQYY7/?tag=tolees-21)

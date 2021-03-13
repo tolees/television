@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LG 24TN510S-PZ - Monitor Smart TV de 60  con un 11.10 % de descuento'
-date: 2021-03-11 16:45:46
+title: 'LG 24TN510S-PZ - Monitor Smart TV de 60  con un 10.93 % de descuento'
+date: 2021-03-13 04:49:57
 image: 'https://m.media-amazon.com/images/I/51C6LXbsawL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,26 +12,26 @@ tags: [ 'smart','tv', ]
 actualPrice: 145.99 EUR
 currency: EUR
 price: 145.99
-comparePrice: 164.21 EUR
+comparePrice: 163.9 EUR
 prodname: 'LG 24TN510S-PZ - Monitor Smart TV de 60 cm  24"  con Pantalla LED HD  1366 x 768  16:9  DVB-T2/C/S2  WiFi  Miracast  10 W  2 x HDMI 1.4  1 x USB 2.0  óptica  LAN RJ45  VESA 75 x 75   Color Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B08DRLLTCD/?tag=tolees-21'
-descuento: '11.10'
-average: '151.834474885847'
+descuento: '10.93'
+average: '151.807909090911'
 ---
 
-En este momento está [LG 24TN510S-PZ - Monitor Smart TV de 60 cm  24"  con Pantalla LED HD  1366 x 768  16:9  DVB-T2/C/S2  WiFi  Miracast  10 W  2 x HDMI 1.4  1 x USB 2.0  óptica  LAN RJ45  VESA 75 x 75   Color Negro](https://www.amazon.es/dp/B08DRLLTCD/?tag=tolees-21) a 145.99 EUR (original: 164.21 EUR) (11.10 %  de descuento) en el siguiente enlace!
+En este momento está [LG 24TN510S-PZ - Monitor Smart TV de 60 cm  24"  con Pantalla LED HD  1366 x 768  16:9  DVB-T2/C/S2  WiFi  Miracast  10 W  2 x HDMI 1.4  1 x USB 2.0  óptica  LAN RJ45  VESA 75 x 75   Color Negro](https://www.amazon.es/dp/B08DRLLTCD/?tag=tolees-21) a 145.99 EUR (original: 163.9 EUR) (10.93 %  de descuento) en el siguiente enlace!
 
 [![LG 24TN510S-PZ - Monitor Smart TV de 60 ](https://m.media-amazon.com/images/I/51C6LXbsawL._SL400_.jpg)](https://www.amazon.es/dp/B08DRLLTCD/?tag=tolees-21)
 
 🔎:
 
-- Smart TV con sistema operativo web os 4.5, fácil, rápido y seguro para disfrutar de tus contenidos preferidos
-- Sonido virtual surround de 10 w (2 x 5 w) con ecualizador
 - Disfruta de un smart TV HD y monitor para PC a la vez con su sintonizador dvb-t2/c/s2 integrado
-- Amplio ángulo de visión
+- Smart TV con sistema operativo web os 4.5, fácil, rápido y seguro para disfrutar de tus contenidos preferidos
 - Wifi integrado y smart share: emparéjalo con tu smartphone a través de miracast o con tu PC a través de wifi para compartir contenidos fácilmente y sin cables
+- Amplio ángulo de visión
+- Sonido virtual surround de 10 w (2 x 5 w) con ecualizador
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DRLLTCD/?tag=tolees-21)

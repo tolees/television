@@ -29,9 +29,9 @@ Tienes [RICOO S7244 Soporte TV Pared Giratorio Inclinable Televisión 32-65"  81
 🔎:
 
 - ✅ APTO PARA: Bracket extensible para monitor TV de Samsung LG Sony Hisense Blaupunkt Grundig Loewe Nevir TD Systems Panasonic Philips Sharp TCL Telefunken Toshiba JTC OK Thomson Xiaomi
-- Diagonal es una orientación - importante son: Conformidad de estándar VESA y peso de la pantalla. Tacos y tornillo-s sólo para montaje del fijacion a paredes de hormigón macizo
 - ✅ CAPACIDAD: Colgador articulado carga 50kg máx. Wall-Mount para televisiones de estándar VESA 200x200 300x200 300x300 400x200 400x400. Base colgante para casa, home cinema y gaming
-- ✅ COMPATIBILIDAD: Podéis colgar un flat-screen plana con diagonale de 81cm/32" 94cm/37" 102cm/40" 107cm/42" 109cm/43" 122cm/48" 124cm/49" 127cm/50" 132cm/52" 140cm/55" 152cm/60" 165cm/65" pulgadas
 - ✅ FUNCIONES: Porta para pantallas televisores es orientable de 120 grados, dependiendo del ancho de la pantalla. Sujeta con inclinacion regulable de +/-10°. Panel frontal rotatorio +/-6°. Anclaje con distancia a pared ajustable de 70-375mm
+- Diagonal es una orientación - importante son: Conformidad de estándar VESA y peso de la pantalla. Tacos y tornillo-s sólo para montaje del fijacion a paredes de hormigón macizo
+- ✅ COMPATIBILIDAD: Podéis colgar un flat-screen plana con diagonale de 81cm/32" 94cm/37" 102cm/40" 107cm/42" 109cm/43" 122cm/48" 124cm/49" 127cm/50" 132cm/52" 140cm/55" 152cm/60" 165cm/65" pulgadas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VTQRL9D/?tag=tolees-21)

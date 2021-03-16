@@ -5,7 +5,7 @@ date: 2020-10-12 08:39:24
 image: 'https://m.media-amazon.com/images/I/41PoCq4lJbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNPXZJ4-es AmazonBasics - Teclado inalámbrico con Touchpad para...'
 sku: 'B07CNPXZJ4-es'
 tags: [ 'smart','tv', ]

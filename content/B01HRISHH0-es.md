@@ -5,7 +5,7 @@ date: 2020-04-01 07:51:01
 image: 'https://m.media-amazon.com/images/I/416U3Jot-jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HRISHH0-es Proster 2 4 GHz Teclado Inalámbrico con Multi-touchpad...'
 sku: 'B01HRISHH0-es'
 tags: [ 'smart','tv', ]

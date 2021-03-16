@@ -5,7 +5,7 @@ date: 2020-05-31 15:47:26
 image: 'https://m.media-amazon.com/images/I/51fnOFK2dTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W2Z76PY-es LG 28TL520S-PZ - Monitor Smart TV de 71cm 28" con pantalla...'
 sku: 'B07W2Z76PY-es'
 tags: [ 'smart','tv', ]

@@ -5,7 +5,7 @@ date: 2020-07-15 20:18:34
 image: 'https://m.media-amazon.com/images/I/51ovwFyrgfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXSRN3X-es NinkBox Android TV Box 9.0 【4G+64G】 N8 Plus TV Box Android...'
 sku: 'B07RXSRN3X-es'
 tags: [ 'smart','tv', ]

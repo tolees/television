@@ -5,7 +5,7 @@ date: 2020-02-13 20:15:32
 image: 'https://m.media-amazon.com/images/I/51-USkhqbKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SD5GCSW-es Samsung UE50RU7172 televisor 50 LCD LED UHD 4K 2019 Smart...'
 sku: 'B07SD5GCSW-es'
 tags: [ 'smart','televisor','tv', ]

@@ -5,7 +5,7 @@ date: 2020-05-25 16:29:10
 image: 'https://m.media-amazon.com/images/I/41l8bQo3o3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z2B6NY1-es Hitachi 39he4005 Televisor 39 LCD IPS Direct Led Fullhd...'
 sku: 'B07Z2B6NY1-es'
 tags: [ 'smart','televisor','tv', ]

@@ -5,7 +5,7 @@ date: 2020-08-30 05:34:42
 image: 'https://m.media-amazon.com/images/I/41dDvleP61L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BCP5L2B-es Disco duro externo 500GB - 2.5" USB 3.0 Ultrafino Diseño...'
 sku: 'B07BCP5L2B-es'
 tags: [ 'smart','tv', ]

@@ -5,7 +5,7 @@ date: 2020-04-01 17:51:37
 image: 'https://m.media-amazon.com/images/I/41v5-mgVjAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZC34Z9-es Televisor Philips 24PHS4354/12'
 sku: 'B07QZC34Z9-es'
 tags: [ 'televisor', ]

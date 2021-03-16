@@ -5,7 +5,7 @@ date: 2020-05-18 10:12:21
 image: 'https://m.media-amazon.com/images/I/513sW2nikqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7VFW7K-es Hisense H40BE5500 Smart TV Full HD 2 HDMI 2 USB Salida...'
 sku: 'B07R7VFW7K-es'
 tags: [ 'smart','tv', ]

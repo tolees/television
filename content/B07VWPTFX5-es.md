@@ -5,7 +5,7 @@ date: 2020-08-05 11:12:58
 image: 'https://m.media-amazon.com/images/I/416muEA-qLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWPTFX5-es Android TV Box - Bqeel Android 10.0 TV Box 【4GB+64GB】...'
 sku: 'B07VWPTFX5-es'
 tags: [ 'smart','tv', ]

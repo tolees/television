@@ -5,7 +5,7 @@ date: 2020-06-19 14:34:53
 image: 'https://m.media-amazon.com/images/I/41trP7mMafL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R4XFY91-es Philips 50PUS6504/12 Smart TV de 126 cm con Tecnología LED...'
 sku: 'B07R4XFY91-es'
 tags: [ 'smart','tv', ]

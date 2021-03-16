@@ -5,7 +5,7 @@ date: 2020-09-08 04:52:34
 image: 'https://m.media-amazon.com/images/I/51Q+XRY4KrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DDBQVUK-es Rii Mini i8 Wireless Layout Español - Mini Teclado...'
 sku: 'B01DDBQVUK-es'
 tags: [ 'smart','tv', ]

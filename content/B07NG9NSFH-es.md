@@ -5,7 +5,7 @@ date: 2020-06-25 13:12:07
 image: 'https://m.media-amazon.com/images/I/31wwjTJAX2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NG9NSFH-es TCL 65DC762 Smart TV de 65 Pulgadas con UHD 4K HDR Wide...'
 sku: 'B07NG9NSFH-es'
 tags: [ 'smart','tv', ]

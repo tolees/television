@@ -5,7 +5,7 @@ date: 2020-03-14 21:18:17
 image: 'https://m.media-amazon.com/images/I/41Yx7Ee6FfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081T83CCJ-es Linsar 32LED320 Televisor LED HD de 32 Pulgadas DVB-T/T2/C...'
 sku: 'B081T83CCJ-es'
 tags: [ 'televisor', ]

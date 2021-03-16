@@ -5,7 +5,7 @@ date: 2020-08-30 05:35:40
 image: 'https://m.media-amazon.com/images/I/31iHLxfbVgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDQ7BV2-es Disco duro externo Portátil 320GB - 2.5" USB 3.0 Ultrafino...'
 sku: 'B07BDQ7BV2-es'
 tags: [ 'smart','tv', ]

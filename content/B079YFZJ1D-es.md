@@ -5,7 +5,7 @@ date: 2020-04-20 15:03:02
 image: 'https://m.media-amazon.com/images/I/31kbsyKI+CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YFZJ1D-es AmazonBasics – Funda para televisor de exterior 1 16 - 1 21 m'
 sku: 'B079YFZJ1D-es'
 tags: [ 'televisor', ]

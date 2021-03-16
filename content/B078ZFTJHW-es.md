@@ -5,7 +5,7 @@ date: 2020-10-01 13:21:47
 image: 'https://m.media-amazon.com/images/I/41+vho0hiML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZFTJHW-es TV Box Android 7.1 - Aoxun X96MINI Smart TV Box Amlogic...'
 sku: 'B078ZFTJHW-es'
 tags: [ 'smart','tv', ]

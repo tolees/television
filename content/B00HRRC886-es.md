@@ -5,7 +5,7 @@ date: 2020-04-18 01:41:44
 image: 'https://m.media-amazon.com/images/I/51f83NTGVZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRC886-es SYLVANIAN FAMILIES Televisor Color Luxury Multicolor Epoch...'
 sku: 'B00HRRC886-es'
 tags: [ 'televisor', ]

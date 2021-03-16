@@ -5,7 +5,7 @@ date: 2020-02-08 09:15:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41haUw11orL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDFKT3Y-es LG 32LK500BPLA TELEVISOR 32 HD Ready 10W DVB-T2/C/S2/ HDMI...'
 sku: 'B07DDFKT3Y-es'
 tags: [ 'televisor', ]

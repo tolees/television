@@ -5,7 +5,7 @@ date: 2020-07-31 01:16:00
 image: 'https://m.media-amazon.com/images/I/41IvdsuB2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792R4ZSC-es Jelly Comb Teclado delgado inalámbrico 2.4G con ratón para...'
 sku: 'B0792R4ZSC-es'
 tags: [ 'smart','tv', ]

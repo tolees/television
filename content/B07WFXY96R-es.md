@@ -5,7 +5,7 @@ date: 2020-09-22 15:04:17
 image: 'https://m.media-amazon.com/images/I/51fnOFK2dTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WFXY96R-es LG 24TL520S-PZ - Monitor Smart TV de 61cm 24" con pantalla...'
 sku: 'B07WFXY96R-es'
 tags: [ 'smart','tv', ]

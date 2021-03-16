@@ -5,7 +5,7 @@ date: 2020-08-01 10:30:43
 image: 'https://m.media-amazon.com/images/I/41y-P+u77kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B2VM95S-es Jelly Comb [2.4G] Conjunto de teclado y ratón inalámbricos...'
 sku: 'B07B2VM95S-es'
 tags: [ 'smart','tv', ]

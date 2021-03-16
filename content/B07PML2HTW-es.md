@@ -5,7 +5,7 @@ date: 2020-06-08 08:59:36
 image: 'https://m.media-amazon.com/images/I/41vDQ2DemEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PML2HTW-es Samsung QLED 4K 2019 65Q64R - Smart TV de 65" con...'
 sku: 'B07PML2HTW-es'
 tags: [ 'smart','tv', ]

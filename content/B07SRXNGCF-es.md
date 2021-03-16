@@ -5,7 +5,7 @@ date: 2020-05-15 17:43:54
 image: 'https://m.media-amazon.com/images/I/512NwYXW1uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRXNGCF-es TCL 55EP640 Televisor 139 cm 55 Pulgadas Smart TV con...'
 sku: 'B07SRXNGCF-es'
 tags: [ 'smart','televisor','tv', ]

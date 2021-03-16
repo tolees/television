@@ -5,7 +5,7 @@ date: 2020-09-27 07:03:39
 image: 'https://m.media-amazon.com/images/I/41xh-6skJoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GFZYNVX-es Android TV Box-Komake Android 10.0 TV Box 【4GB+64GB】...'
 sku: 'B08GFZYNVX-es'
 tags: [ 'smart','tv', ]

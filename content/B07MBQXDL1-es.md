@@ -5,7 +5,7 @@ date: 2020-09-25 08:32:24
 image: 'https://m.media-amazon.com/images/I/41o730YEbPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBQXDL1-es TCL 32ES560 Televisor de 32 pulgadas Smart TV con HD HDMI...'
 sku: 'B07MBQXDL1-es'
 tags: [ 'smart','televisor','tv', ]

@@ -5,7 +5,7 @@ date: 2020-01-30 17:07:27
 image: 'https://m.media-amazon.com/images/I/51NurCM9eJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQWTX6K-es Android 9.0 TV Box 4GB RAM+64GB ROM NinkBox N1 MAX RK3318...'
 sku: 'B07RQWTX6K-es'
 tags: [ 'smart','tv', ]

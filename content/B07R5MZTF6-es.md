@@ -5,7 +5,7 @@ date: 2020-08-17 17:55:41
 image: 'https://m.media-amazon.com/images/I/51yYWHfvmCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5MZTF6-es Sony KD-49XG7096BAEP - Televisor 4K HDR Smart TV...'
 sku: 'B07R5MZTF6-es'
 tags: [ 'smart','televisor','tv', ]

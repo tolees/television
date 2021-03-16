@@ -5,7 +5,7 @@ date: 2020-08-15 02:52:41
 image: 'https://m.media-amazon.com/images/I/41JwO5s6nCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDT6K7W-es Philips 24PHS4304 Televisor 1 Multicolor'
 sku: 'B07PDT6K7W-es'
 tags: [ 'televisor', ]

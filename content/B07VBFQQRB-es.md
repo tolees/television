@@ -5,7 +5,7 @@ date: 2020-08-23 19:41:36
 image: 'https://m.media-amazon.com/images/I/51bEUd8QwuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBFQQRB-es Sharp 40BG2E - Televisor Smart TV FHD de 40" - 40 Pulgadas...'
 sku: 'B07VBFQQRB-es'
 tags: [ 'smart','televisor','tv', ]

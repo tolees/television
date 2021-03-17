@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBQXDL1-es TCL 32ES560 Televisor de 32 pulgadas Smart TV con HD HDMI...'
 sku: 'B07MBQXDL1-es'
-tags: [ 'smart','televisor','tv', ]
+tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','smart','televisor','tv', ]
 actualPrice: 186.0 EUR
 currency: EUR
 price: 186.0

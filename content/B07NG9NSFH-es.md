@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NG9NSFH-es TCL 65DC762 Smart TV de 65 Pulgadas con UHD 4K HDR Wide...'
 sku: 'B07NG9NSFH-es'
-tags: [ 'smart','tv', ]
+tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','smart','tv', ]
 actualPrice: 999.99 EUR
 currency: EUR
 price: 999.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXSRN3X-es NinkBox Android TV Box 9.0 【4G+64G】 N8 Plus TV Box Android...'
 sku: 'B07RXSRN3X-es'
-tags: [ 'smart','tv', ]
+tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','smart','tv', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

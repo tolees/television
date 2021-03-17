@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWPTFX5-es Android TV Box - Bqeel Android 10.0 TV Box 【4GB+64GB】...'
 sku: 'B07VWPTFX5-es'
-tags: [ 'smart','tv', ]
+tags: [ 'Accesorios para TV, vídeo y home cinema','Electrónica','Mesas y soportes para TV','Soportes de pared y techo para TV','TV, vídeo y home cinema','Televisores','smart','tv', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

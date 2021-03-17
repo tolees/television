@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRXNGCF-es TCL 55EP640 Televisor 139 cm 55 Pulgadas Smart TV con...'
 sku: 'B07SRXNGCF-es'
-tags: [ 'smart','televisor','tv', ]
+tags: [ 'Accesorios para TV, vídeo y home cinema','Electrónica','Mesas y soportes para TV','Soportes de pared y techo para TV','TV, vídeo y home cinema','Televisores','smart','televisor','tv', ]
 actualPrice: 479.42 EUR
 currency: EUR
 price: 479.42

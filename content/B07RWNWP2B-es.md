@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWNWP2B-es Philips 55OLED754/12 - Televisor Ambilight de SmartTV de...'
 sku: 'B07RWNWP2B-es'
-tags: [ 'televisor', ]
+tags: [ 'Accesorios para TV, vídeo y home cinema','Electrónica','Mesas y soportes para TV','Soportes de pared y techo para TV','TV, vídeo y home cinema','Televisores','televisor', ]
 actualPrice: 1391.98 EUR
 currency: EUR
 price: 1391.98

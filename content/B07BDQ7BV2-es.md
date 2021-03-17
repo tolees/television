@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BDQ7BV2-es Disco duro externo Portátil 320GB - 2.5" USB 3.0 Ultrafino...'
 sku: 'B07BDQ7BV2-es'
-tags: [ 'smart','tv', ]
+tags: [ 'Accesorios para TV, vídeo y home cinema','Electrónica','Mesas y soportes para TV','Soportes de pared y techo para TV','TV, vídeo y home cinema','Televisores','smart','tv', ]
 actualPrice: 32.79 EUR
 currency: EUR
 price: 32.79

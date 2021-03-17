@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDT6K7W-es Philips 24PHS4304 Televisor 1 Multicolor'
 sku: 'B07PDT6K7W-es'
-tags: [ 'televisor', ]
+tags: [ 'Accesorios para TV, vídeo y home cinema','Electrónica','Mesas y soportes para TV','Soportes de pared y techo para TV','TV, vídeo y home cinema','Televisores','televisor', ]
 actualPrice: 121.06 EUR
 currency: EUR
 price: 121.06

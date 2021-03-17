@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YFZJ1D-es AmazonBasics – Funda para televisor de exterior 1 16 - 1 21 m'
 sku: 'B079YFZJ1D-es'
-tags: [ 'televisor', ]
+tags: [ 'Accesorios para TV, vídeo y home cinema','Electrónica','Mesas y soportes para TV','Soportes de pared y techo para TV','TV, vídeo y home cinema','Televisores','televisor', ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

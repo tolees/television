@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZC34Z9-es Televisor Philips 24PHS4354/12'
 sku: 'B07QZC34Z9-es'
-tags: [ 'Accesorios para TV, vídeo y home cinema','Electrónica','Mesas y soportes para TV','Soportes de pared y techo para TV','TV, vídeo y home cinema','Televisores','televisor', ]
+tags: [ 'televisor', ]
 actualPrice: 123.25 EUR
 currency: EUR
 price: 123.25

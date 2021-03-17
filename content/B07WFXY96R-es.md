@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WFXY96R-es LG 24TL520S-PZ - Monitor Smart TV de 61cm 24" con pantalla...'
 sku: 'B07WFXY96R-es'
-tags: [ 'Accesorios para TV, vídeo y home cinema','Electrónica','Mesas y soportes para TV','Soportes de pared y techo para TV','TV, vídeo y home cinema','Televisores','smart','tv', ]
+tags: [ 'smart','tv', ]
 actualPrice: 184.77 EUR
 currency: EUR
 price: 184.77

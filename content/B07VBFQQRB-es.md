@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBFQQRB-es Sharp 40BG2E - Televisor Smart TV FHD de 40" - 40 Pulgadas...'
 sku: 'B07VBFQQRB-es'
-tags: [ 'Accesorios para TV, vídeo y home cinema','Electrónica','Mesas y soportes para TV','Soportes de pared y techo para TV','TV, vídeo y home cinema','Televisores','smart','televisor','tv', ]
+tags: [ 'smart','televisor','tv', ]
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

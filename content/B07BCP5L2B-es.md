@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BCP5L2B-es Disco duro externo 500GB - 2.5" USB 3.0 Ultrafino Diseño...'
 sku: 'B07BCP5L2B-es'
-tags: [ 'Accesorios para TV, vídeo y home cinema','Electrónica','Mesas y soportes para TV','Soportes de pared y techo para TV','TV, vídeo y home cinema','Televisores','smart','tv', ]
+tags: [ 'smart','tv', ]
 actualPrice: 37.59 EUR
 currency: EUR
 price: 37.59

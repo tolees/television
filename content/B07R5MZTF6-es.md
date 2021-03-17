@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R5MZTF6-es Sony KD-49XG7096BAEP - Televisor 4K HDR Smart TV...'
 sku: 'B07R5MZTF6-es'
-tags: [ 'Accesorios para TV, vídeo y home cinema','Electrónica','Mesas y soportes para TV','Soportes de pared y techo para TV','TV, vídeo y home cinema','Televisores','smart','televisor','tv', ]
+tags: [ 'smart','televisor','tv', ]
 actualPrice: 509.25 EUR
 currency: EUR
 price: 509.25

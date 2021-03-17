@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B2VM95S-es Jelly Comb [2.4G] Conjunto de teclado y ratón inalámbricos...'
 sku: 'B07B2VM95S-es'
-tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','smart','tv', ]
+tags: [ 'smart','tv', ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

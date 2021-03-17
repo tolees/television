@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081T83CCJ-es Linsar 32LED320 Televisor LED HD de 32 Pulgadas DVB-T/T2/C...'
 sku: 'B081T83CCJ-es'
-tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','televisor', ]
+tags: [ 'televisor', ]
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R7VFW7K-es Hisense H40BE5500 Smart TV Full HD 2 HDMI 2 USB Salida...'
 sku: 'B07R7VFW7K-es'
-tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','smart','tv', ]
+tags: [ 'smart','tv', ]
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

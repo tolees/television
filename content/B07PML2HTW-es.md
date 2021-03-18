@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PML2HTW-es Samsung QLED 4K 2019 65Q64R - Smart TV de 65" con...'
 sku: 'B07PML2HTW-es'
-tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','smart','tv', ]
+tags: [ 'smart','tv', ]
 actualPrice: 867.99 EUR
 currency: EUR
 price: 867.99

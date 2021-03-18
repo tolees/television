@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRC886-es SYLVANIAN FAMILIES Televisor Color Luxury Multicolor Epoch...'
 sku: 'B00HRRC886-es'
+tags: [ 'televisor', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

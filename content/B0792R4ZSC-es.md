@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792R4ZSC-es Jelly Comb Teclado delgado inalámbrico 2.4G con ratón para...'
 sku: 'B0792R4ZSC-es'
+tags: [ 'smart','tv', ]
 actualPrice: 28.54 EUR
 currency: EUR
 price: 28.54

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C5DJGB7-es Disco duro externo portátil – 2 TB de almacenamiento...'
 sku: 'B08C5DJGB7-es'
+tags: [ 'smart','tv', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

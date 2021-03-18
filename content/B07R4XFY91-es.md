@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R4XFY91-es Philips 50PUS6504/12 Smart TV de 126 cm con Tecnología LED...'
 sku: 'B07R4XFY91-es'
+tags: [ 'smart','tv', ]
 actualPrice: 356.91 EUR
 currency: EUR
 price: 356.91

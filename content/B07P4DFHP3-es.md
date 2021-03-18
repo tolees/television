@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4DFHP3-es Jelly Comb [2.4G] Juego de teclado y mouse inalámbrico...'
 sku: 'B07P4DFHP3-es'
+tags: [ 'smart','tv', ]
 actualPrice: 40.7 EUR
 currency: EUR
 price: 40.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRDY751-es Android TV Box - Bqeel Android 9.0 TV Box 【4GB+32GB】 con...'
 sku: 'B07PRDY751-es'
-tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','smart','tv', ]
+tags: [ 'Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','TV, vídeo y home cinema','Televisores','smart','tv', ]
 actualPrice: 59.39 EUR
 currency: EUR
 price: 59.39

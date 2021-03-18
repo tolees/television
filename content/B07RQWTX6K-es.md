@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RQWTX6K-es Android 9.0 TV Box 4GB RAM+64GB ROM NinkBox N1 MAX RK3318...'
 sku: 'B07RQWTX6K-es'
-tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','smart','tv', ]
+tags: [ 'Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','TV, vídeo y home cinema','Televisores','smart','tv', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

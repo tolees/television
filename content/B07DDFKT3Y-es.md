@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDFKT3Y-es LG 32LK500BPLA TELEVISOR 32 HD Ready 10W DVB-T2/C/S2/ HDMI...'
 sku: 'B07DDFKT3Y-es'
-tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','televisor', ]
+tags: [ 'Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','TV, vídeo y home cinema','Televisores','televisor', ]
 actualPrice: 149 EUR
 currency: EUR
 price: 149

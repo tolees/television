@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z2B6NY1-es Hitachi 39he4005 Televisor 39 LCD IPS Direct Led Fullhd...'
 sku: 'B07Z2B6NY1-es'
-tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','smart','televisor','tv', ]
+tags: [ 'Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','TV, vídeo y home cinema','Televisores','smart','televisor','tv', ]
 actualPrice: 213.17 EUR
 currency: EUR
 price: 213.17

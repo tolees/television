@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9SDYXW-es LG 70UM7100ALEXA - Smart TV UHD 4K de 177 cm 70" con Alexa...'
 sku: 'B07S9SDYXW-es'
-tags: [ 'Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','TV, vídeo y home cinema','Televisores','smart','tv', ]
+tags: [ 'smart','tv', ]
 actualPrice: 629.0 EUR
 currency: EUR
 price: 629.0

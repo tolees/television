@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HRISHH0-es Proster 2 4 GHz Teclado Inalámbrico con Multi-touchpad...'
 sku: 'B01HRISHH0-es'
-tags: [ 'Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','TV, vídeo y home cinema','Televisores','smart','tv', ]
+tags: [ 'smart','tv', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

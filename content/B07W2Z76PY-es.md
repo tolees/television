@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W2Z76PY-es LG 28TL520S-PZ - Monitor Smart TV de 71cm 28" con pantalla...'
 sku: 'B07W2Z76PY-es'
-tags: [ 'Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','TV, vídeo y home cinema','Televisores','smart','tv', ]
+tags: [ 'smart','tv', ]
 actualPrice: 170.0 EUR
 currency: EUR
 price: 170.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SD5GCSW-es Samsung UE50RU7172 televisor 50 LCD LED UHD 4K 2019 Smart...'
 sku: 'B07SD5GCSW-es'
-tags: [ 'Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','TV, vídeo y home cinema','Televisores','smart','televisor','tv', ]
+tags: [ 'smart','televisor','tv', ]
 actualPrice: 394.9 EUR
 currency: EUR
 price: 394.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNPXZJ4-es AmazonBasics - Teclado inalámbrico con Touchpad para...'
 sku: 'B07CNPXZJ4-es'
-tags: [ 'Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','TV, vídeo y home cinema','Televisores','smart','tv', ]
+tags: [ 'smart','tv', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

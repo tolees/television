@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DDBQVUK-es Rii Mini i8 Wireless Layout Español - Mini Teclado...'
 sku: 'B01DDBQVUK-es'
-tags: [ 'Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','TV, vídeo y home cinema','Televisores','smart','tv', ]
+tags: [ 'smart','tv', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

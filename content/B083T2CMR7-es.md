@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083T2CMR7-es Samsung UHD 2020 65TU7105- Smart TV de 65" 4K HDR 10+...'
 sku: 'B083T2CMR7-es'
-tags: [ 'smart','tv', ]
 actualPrice: 703.82 EUR
 currency: EUR
 price: 703.82

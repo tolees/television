@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DRPW5RH-es LG 28TN515S- WZ - Monitor Smart TV de 70 cm 28" con...'
 sku: 'B08DRPW5RH-es'
-tags: [ 'lg','smart','tv', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BHS17V1-es Hisense H65AE6400 - TV Hisense 65" 4K Ultra HD HDR...'
 sku: 'B07BHS17V1-es'
-tags: [ 'smart','tv', ]
 actualPrice: 501.47 EUR
 currency: EUR
 price: 501.47

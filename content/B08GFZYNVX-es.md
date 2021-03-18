@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GFZYNVX-es Android TV Box-Komake Android 10.0 TV Box 【4GB+64GB】...'
 sku: 'B08GFZYNVX-es'
-tags: [ 'smart','tv', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

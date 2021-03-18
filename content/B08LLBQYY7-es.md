@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LLBQYY7-es TD Systems Televisor 3X HDMI VGA USB 1100 PCI Hz Grabador...'
 sku: 'B08LLBQYY7-es'
-tags: [ 'televisor', ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

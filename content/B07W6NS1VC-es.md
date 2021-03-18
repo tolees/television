@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6NS1VC-es TUREWELL - Android TV Box T9 Android 9.0 TV Box 2GB RAM /...'
 sku: 'B07W6NS1VC-es'
-tags: [ 'smart','turewell','tv', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

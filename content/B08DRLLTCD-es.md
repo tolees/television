@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DRLLTCD-es LG 24TN510S-PZ - Monitor Smart TV de 60 cm 24" con...'
 sku: 'B08DRLLTCD-es'
-tags: [ 'lg','smart','tv', ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

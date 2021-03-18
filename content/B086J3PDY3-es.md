@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086J3PDY3-es LG 60UN7100ALEXA - Smart TV 4K UHD 153 cm 60" con...'
 sku: 'B086J3PDY3-es'
-tags: [ 'smart','tv', ]
 actualPrice: 569.0 EUR
 currency: EUR
 price: 569.0

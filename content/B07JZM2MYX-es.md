@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JZM2MYX-es TCL 65DP600 - Televisor de 65" FHD Smart TV con UHD 4K HDR...'
 sku: 'B07JZM2MYX-es'
-tags: [ 'smart','tv','televisor', ]
 actualPrice: 489.99 EUR
 currency: EUR
 price: 489.99

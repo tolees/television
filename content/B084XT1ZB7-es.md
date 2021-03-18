@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084XT1ZB7-es LG 55UN7100 - Smart TV 4K UHD 139 cm 55" con Inteligencia...'
 sku: 'B084XT1ZB7-es'
-tags: [ 'smart','tv', ]
 actualPrice: 454.74 EUR
 currency: EUR
 price: 454.74

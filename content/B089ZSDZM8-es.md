@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089ZSDZM8-es Philips 58PUS7555/12 Televisor 4K UHD de 146 cm 58...'
 sku: 'B089ZSDZM8-es'
-tags: [ 'smart','tv','televisor', ]
 actualPrice: 429.0 EUR
 currency: EUR
 price: 429.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q124XGQ-es LG 32LM6300PLA - Smart TV Full HD de 80 cm 32" Procesador...'
 sku: 'B07Q124XGQ-es'
-tags: [ 'Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','TV, vídeo y home cinema','Televisores','lg','smart','tv', ]
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

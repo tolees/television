@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VTQRL9D-es RICOO S7244 Soporte TV Pared Giratorio Inclinable...'
 sku: 'B07VTQRL9D-es'
-tags: [ 'Accesorios para TV, vídeo y home cinema','Electrónica','Mesas y soportes para TV','Soportes de pared y techo para TV','TV, vídeo y home cinema','ricoo','televisor', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

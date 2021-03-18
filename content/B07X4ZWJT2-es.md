@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X4ZWJT2-es TedGem Teclado Inalámbrico USB 2 4GHz Teclados...'
 sku: 'B07X4ZWJT2-es'
-tags: [ 'smart','tv', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

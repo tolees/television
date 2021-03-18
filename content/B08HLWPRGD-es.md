@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HLWPRGD-es Televisiones Smart TV 43 Pulgadas 4K Android 9.0 y HBBTV...'
 sku: 'B08HLWPRGD-es'
-tags: [ 'smart','tv', ]
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

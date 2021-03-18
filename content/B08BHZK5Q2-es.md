@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHZK5Q2-es Philips 50PUS7555/12 Televisor 4K UHD de 126 cm 50...'
 sku: 'B08BHZK5Q2-es'
-tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','philips','smart','televisor','tv', ]
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

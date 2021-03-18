@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NX63QLT-es Sony KDL-32RE403 - Televisor HDR 32" X-Reality Pro...'
 sku: 'B08NX63QLT-es'
-tags: [ 'televisor', ]
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

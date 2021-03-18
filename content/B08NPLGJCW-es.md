@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NPLGJCW-es TD Systems K32DLJ12HS - Televisores Smart TV 32 Pulgadas...'
 sku: 'B08NPLGJCW-es'
-tags: [ 'smart','tv', ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

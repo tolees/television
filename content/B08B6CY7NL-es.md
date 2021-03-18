@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B6CY7NL-es Philips TV - Philips 24PFS6855/12 Televisor 24 pulgadas...'
 sku: 'B08B6CY7NL-es'
-tags: [ 'smart','tv','televisor', ]
 actualPrice: 194.01 EUR
 currency: EUR
 price: 194.01

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VWKQPCW-es Homfa Mueble TV Blanco Mesa TV Salón Mesa Television Mesa...'
 sku: 'B08VWKQPCW-es'
-tags: [ 'television', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

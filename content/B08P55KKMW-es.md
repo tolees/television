@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P55KKMW-es Televisor NPG LED 43" 4K UHD Smart TV Android 9.0 HDR WiFi...'
 sku: 'B08P55KKMW-es'
-tags: [ 'smart','tv','televisor', ]
 actualPrice: 288.0 EUR
 currency: EUR
 price: 288.0

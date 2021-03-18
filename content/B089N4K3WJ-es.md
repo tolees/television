@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089N4K3WJ-es Philips 70PUS7505/12 de 70 pulgadas 4K UHD P5 Perfect...'
 sku: 'B089N4K3WJ-es'
-tags: [ 'smart','tv', ]
 actualPrice: 636.93 EUR
 currency: EUR
 price: 636.93

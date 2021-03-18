@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WC6YCLN-es Samsung Televisor HD 71 cm 28" Smart TV Serie N4305'
 sku: 'B07WC6YCLN-es'
-tags: [ 'smart','tv','televisor', ]
 actualPrice: 194.52 EUR
 currency: EUR
 price: 194.52

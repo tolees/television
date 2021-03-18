@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084XSJ66V-es LG 49UN7100 - Smart TV 4K UHD 123 cm 49" con Inteligencia...'
 sku: 'B084XSJ66V-es'
-tags: [ 'lg','smart','tv', ]
 actualPrice: 429.99 EUR
 currency: EUR
 price: 429.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08NP6S65K-es TD Systems K40DLJ12FS - Televisores Smart TV 39 5 Pulgadas...'
 sku: 'B08NP6S65K-es'
-tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','smart','td systems','tv', ]
 actualPrice: 249.01 EUR
 currency: EUR
 price: 249.01

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PJSTXSZ-es HaiFen - Android TV Box，T95 MAX Android 9.0 TV Box 4GB...'
 sku: 'B07PJSTXSZ-es'
-tags: [ 'smart','tv', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

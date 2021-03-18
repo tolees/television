@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086B6DKYW-es Hisense 58AE7000F - Smart TV Resolución 4K UHD TV 2020 con...'
 sku: 'B086B6DKYW-es'
-tags: [ 'smart','tv', ]
 actualPrice: 439.99 EUR
 currency: EUR
 price: 439.99

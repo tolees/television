@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NPKM7TV-es TD Systems K58DLJ12US - Televisores Smart TV 58 Pulgadas...'
 sku: 'B08NPKM7TV-es'
-tags: [ 'smart','tv', ]
 actualPrice: 448.99 EUR
 currency: EUR
 price: 448.99

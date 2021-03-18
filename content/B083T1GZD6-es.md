@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083T1GZD6-es Samsung 43TU8005 - Smart TV de 43" UHD 2020 con Resolución...'
 sku: 'B083T1GZD6-es'
-tags: [ 'smart','tv', ]
 actualPrice: 390.92 EUR
 currency: EUR
 price: 390.92

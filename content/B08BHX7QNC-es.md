@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BHX7QNC-es Philips 50PUS8505/12 Ambilight - Televisor Smart TV de 50...'
 sku: 'B08BHX7QNC-es'
-tags: [ 'smart','tv','televisor', ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AKUHC6A-es Sony RF MDR-RF855RK - Auriculares De Diadema Cerrados Para...'
 sku: 'B00AKUHC6A-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','sony','television', ]
 actualPrice: 68.15 EUR
 currency: EUR
 price: 68.15

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083QXC6VL-es Samsung QLED 4K 2020 50Q60T - Smart TV de 50" con...'
 sku: 'B083QXC6VL-es'
-tags: [ 'Accesorios para TV, vídeo y home cinema','Electrónica','Mesas y soportes para TV','Soportes de pared y techo para TV','TV, vídeo y home cinema','Televisores','samsung','smart','tv', ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LNCMLP1-es TedGem Teclado Raton 2.4G Teclado y Raton Inalámbrico...'
 sku: 'B08LNCMLP1-es'
-tags: [ 'smart','tv', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

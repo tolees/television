@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083T1SQ3D-es Samsung UHD 2020 50TU8005 - Smart TV de 50" 4K HDR 10+...'
 sku: 'B083T1SQ3D-es'
-tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','samsung','smart','tv', ]
 actualPrice: 448.99 EUR
 currency: EUR
 price: 448.99

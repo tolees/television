@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NHCDFR-es Philips TV - Philips 32PHS6605/12 Televisor de 32 pulgadas...'
 sku: 'B089NHCDFR-es'
-tags: [ 'smart','tv','televisor', ]
 actualPrice: 219.35 EUR
 currency: EUR
 price: 219.35

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WZHD9P4-es Engel-Axil - Engel EN1015K Android TV Box 4K UHD Asistente...'
 sku: 'B07WZHD9P4-es'
-tags: [ 'smart','tv', ]
 actualPrice: 60.29 EUR
 currency: EUR
 price: 60.29

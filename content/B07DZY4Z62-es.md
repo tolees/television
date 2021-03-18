@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DZY4Z62-es Cable Audio RCA Jack 3 5mm Macho a 2RCA Macho Nylon...'
 sku: 'B07DZY4Z62-es'
-tags: [ 'smart','tv', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

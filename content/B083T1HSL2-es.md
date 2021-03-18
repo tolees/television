@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083T1HSL2-es Samsung UE32T4305AKXXC Smart TV de 32" con Resolución HD...'
 sku: 'B083T1HSL2-es'
-tags: [ 'smart','tv', ]
 actualPrice: 214.0 EUR
 currency: EUR
 price: 214.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZFTJHW-es TV Box Android 7.1 - Aoxun X96MINI Smart TV Box Amlogic...'
 sku: 'B078ZFTJHW-es'
-tags: [ 'smart','tv', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

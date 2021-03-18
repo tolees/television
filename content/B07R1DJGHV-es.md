@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R1DJGHV-es LG 43LM6300PLA - Smart TV Full HD de 108 cm 43" con...'
 sku: 'B07R1DJGHV-es'
-tags: [ 'smart','tv', ]
 actualPrice: 338.57 EUR
 currency: EUR
 price: 338.57

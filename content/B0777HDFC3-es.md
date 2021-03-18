@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0777HDFC3-es Docooler wechip W1 ratón Aire 2.4 g inalámbrico Teclado...'
 sku: 'B0777HDFC3-es'
-tags: [ 'smart','tv', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014LBLQKG-es RICOO S6244 Soporte TV Pared Giratorio Inclinable...'
 sku: 'B014LBLQKG-es'
-tags: [ 'televisor', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

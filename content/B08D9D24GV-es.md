@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D9D24GV-es Hisense UHD TV 2020 55AE7400F - Smart TV 55" Resolución 4K...'
 sku: 'B08D9D24GV-es'
-tags: [ 'smart','tv', ]
 actualPrice: 519.99 EUR
 currency: EUR
 price: 519.99

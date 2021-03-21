@@ -29,9 +29,9 @@ Está [LG 43UN7100 - Smart TV 4K UHD 108 cm  43"  con Inteligencia Artificial  H
 ℹ️:
 
 - LG UHD, el Smart TV 4K UHD de 108 cm (43") compatible con Inteligencia Artificial
-- Sistema operativo SmartTV webOS 5.0
-- Disfruta de la experiencia del Sonido Ultra Surround
 - Caja reforzada para Amazon (certificación ISTA 6) con diseño genérico LG 43UN71006LB
+- Disfruta de la experiencia del Sonido Ultra Surround
+- Sistema operativo SmartTV webOS 5.0
 - Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, no incluido, Compatible con Alexa
 - Compatible con HDR10 Pro y HLG
 

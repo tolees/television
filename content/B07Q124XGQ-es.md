@@ -29,11 +29,11 @@ Tienes [LG 32LM6300PLA - Smart TV Full HD de 80 cm  32"  Procesador Quad Core  H
 🔎:
 
 - LED con resolución Full HD, HDR 10 Pro, HLG, Dynamic Color, mapeado color LUT 9x9x9, reducción de ruido, análisis por fotograma, rescalador de resolución
-- Sonido Virtual Surround Plus
+- Conectividad Inteligente ThinQ; controla con la voz todos los dispositivos Inteligentes conectados a la WiFi de tu hogar; Magic Control no incluido
+- Smart TV Web OS 4.5 el más fácil, más rápido y más seguro
 - Procesador Quad Core de 10 bits, analiza cada fotograma para mejorar cada imagen
 - El Primer SmartTV con inteligencia Artificial
-- Conectividad Inteligente ThinQ; controla con la voz todos los dispositivos Inteligentes conectados a la WiFi de tu hogar; Magic Control no incluido
 - Conexiones: DVB-T2/C/S2, HDMI 2.0 (x3), USB (x2), salida óptica (x1), USB grabador
-- Smart TV Web OS 4.5 el más fácil, más rápido y más seguro
+- Sonido Virtual Surround Plus
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Q124XGQ/?tag=tolees-21)

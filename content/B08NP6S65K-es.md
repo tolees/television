@@ -30,8 +30,8 @@ Tienes [TD Systems K40DLJ12FS - Televisores Smart TV 39 5 Pulgadas Full HD Andro
 
 - ✅ Smart TV con sistema operativo Android 9.0 (AOSP). CPU: Arm Corex A55 Quad Core a 1.1 GHz, GPU: Mali 470x3 a 600 Mhz. RAM: 1.5 Gb, y 8 Gb de almacenamiento.
 - ✅ Televisores Led 39,5 Pulgadas. Resolución 1920 x 1080 píxeles (Full HD), eficiencia energética A, sonido Dolby Digital Plus, Smart TV.
-- ✅ Accesorios: Mando a distancia con pilas incluidas. Manual de usuario y textos en pantalla (OSD) en Español, Inglés, Francés, alemán, italiano, y portugués.
 - ✅ Conexiones: 3x HDMI, 2x USB, entrada de vídeo compuesto, entrada por componentes, puerto de interfaz común CI+, salida de audio digital, salida de auriculares, puerto LAN ethernet RJ45, Wifi, Bluetooth.
 - ✅ Sintonizador digital DVB-T2/C/S2, con sistema de de televisión híbrida Hbbtv 2.0.1, apto para todos los países de la Unión Europea. Sintonizador de segunda generación.
+- ✅ Accesorios: Mando a distancia con pilas incluidas. Manual de usuario y textos en pantalla (OSD) en Español, Inglés, Francés, alemán, italiano, y portugués.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08NP6S65K/?tag=tolees-21)

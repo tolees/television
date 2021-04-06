@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony RF MDR-RF855RK - Auriculares De Dia al 24.26 % de descuento'
-date: 2021-04-05 13:01:47
+date: 2021-04-06 19:09:03
 image: 'https://m.media-amazon.com/images/I/41wwZ+L5hoL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00AKUHC6A/?tag=tolees-21'
 descuento: '24.26'
-average: '67.438186046512'
+average: '67.4415740740745'
 ---
 
 Está [Sony RF MDR-RF855RK - Auriculares De Diadema Cerrados Para Television Sin Bluetooth  Color Negro](https://www.amazon.es/dp/B00AKUHC6A/?tag=tolees-21) con 24.26 de descuento por 68.17 EUR (original: 90.0 EUR) en el siguiente enlace!
@@ -30,7 +30,7 @@ Está [Sony RF MDR-RF855RK - Auriculares De Diadema Cerrados Para Television Sin
 
 - Auriculares inalámbricos de tipo cerrado con baterías recargables, diafragma de neodimio de 40 mm y base de conexión
 - Diafragmas de neodimio de 40 mm
-- Entradas de audio: 1 conector de patilla para entrada analógica (I/D), 1 mini conector estéreo para entrada analógica
 - Rango de frecuencia de 10 Hz a 22 kHz
+- Entradas de audio: 1 conector de patilla para entrada analógica (I/D), 1 mini conector estéreo para entrada analógica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00AKUHC6A/?tag=tolees-21)

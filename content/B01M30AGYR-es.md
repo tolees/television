@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.01 % en A5X - Android TV Box 11  4GB RAM 32GB RO'
-date: 2021-04-07 01:41:27
+date: 2021-04-09 09:45:12
 image: 'https://m.media-amazon.com/images/I/514PTQrF8XL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'A5X'
 buyurl: 'https://www.amazon.es/dp/B01M30AGYR/?tag=tolees-21'
 descuento: '15.01'
-average: '45.607027027027'
+average: '45.4352631578947'
 ---
 
 Tienes [A5X - Android TV Box 11  4GB RAM 32GB ROM Android 11 Compatible con 4K 3D  RK3318 Dual-WiFi 2.4g / 5g Smart TV Box con Mini Teclado](https://www.amazon.es/dp/B01M30AGYR/?tag=tolees-21) con un 15.01 % de descuento con precio de oferta de 39.08 EUR (original: 45.98 EUR) en el siguiente enlace!

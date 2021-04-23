@@ -30,8 +30,8 @@ En este momento está [Huayu - Mando a Distancia para Samsung Smart TV](https://
 
 - Compatible si tu mando es similar. Revisar modelos de mandos compatibles (en la descripción).
 - Compatible con televisores SAMSUNG LED/LCD/HDTV
-- NO funciona con todas las TV Samsung.
 - Funciona con dos pilas AAA (No incluidas).
 - Sin configuraciones, funciona directamente.
+- NO funciona con todas las TV Samsung.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DVSHXZ3/?tag=tolees-21)

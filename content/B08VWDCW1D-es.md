@@ -29,12 +29,12 @@ Está [LG 32LM6380PLC 2021 - Smart TV LED Full HD 81 cm  32"  con Procesador Qua
 ℹ️:
 
 - Sistema operativo SmartTV webOS: el más fácil, más rápido y más seguro (Certificado por UL Cybersecurity). Con Inteligencia Artificial: LG ThinQ
-- TV compatible con formatos HDR: HDR10, HDR HLG; disfruta de la auténtica experiencia cinematográfica en tu casa
-- Soporte: 2 patas
-- Procesador de Sonido AI Sound & Virtual Surround; para disfrutar del sonido envolvente 360º como en el cine
 - 3xHDMI 2.0
-- Disfruta del mejor contenido en el SmartTV compatible con Inteligencia Artificial
-- Conectividad con 3xHDMI 2.0, 2xUSB 2.0, WiFi (802.11ac), Bluetooth, LAN RJ45
 - Caja reforzada para Amazon (certificación ISTA 6 - SIOC) con diseño genérico LG 32LM6380PLC
+- Soporte: 2 patas
+- Conectividad con 3xHDMI 2.0, 2xUSB 2.0, WiFi (802.11ac), Bluetooth, LAN RJ45
+- Disfruta del mejor contenido en el SmartTV compatible con Inteligencia Artificial
+- TV compatible con formatos HDR: HDR10, HDR HLG; disfruta de la auténtica experiencia cinematográfica en tu casa
+- Procesador de Sonido AI Sound & Virtual Surround; para disfrutar del sonido envolvente 360º como en el cine
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08VWDCW1D/?tag=tolees-21)

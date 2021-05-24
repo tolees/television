@@ -1,38 +1,38 @@
 ---
 layout: post
-title: 'LG 65UN7100ALEXA - Smart TV 4K UHD 164 c con un 16.69 % de descuento'
-date: 2021-05-18 05:27:40
+title: 'LG 65UN71006LB - Smart TV 4K UHD 164 cm  con un 26.96 % de descuento'
+date: 2021-05-24 05:52:05
 image: 'https://m.media-amazon.com/images/I/51n7qdmcd4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B084XSS8MH-es LG 65UN7100ALEXA - Smart TV 4K UHD 164 cm 65" con...'
+slug: 'B084XSS8MH-es LG 65UN71006LB - Smart TV 4K UHD 164 cm 65" con...'
 sku: 'B084XSS8MH-es'
 tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','lg','smart','tv', ]
-actualPrice: 649.0 EUR
+actualPrice: 569.0 EUR
 currency: EUR
-price: 649.0
+price: 569.0
 comparePrice: 779.0 EUR
-prodname: 'LG 65UN7100ALEXA - Smart TV 4K UHD 164 cm  65"  con Inteligencia Artificial  HDR10 Pro  HLG  Sonido Ultra Surround  3xHDMI 2.0  2xUSB 2.0  Bluetooth 5.0  WiFi [A]'
+prodname: 'LG 65UN71006LB - Smart TV 4K UHD 164 cm  65"  con Inteligencia Artificial  Procesador Inteligente Quad Core  HDR10 Pro  HLG  Sonido Ultra Surround  3xHDMI 2.0  2xUSB 2.0  Bluetooth 5.0  WiFi'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B084XSS8MH/?tag=tolees-21'
-descuento: '16.69'
-average: '624.63'
+descuento: '26.96'
+average: '622.490384615385'
 ---
 
-En este momento está [LG 65UN7100ALEXA - Smart TV 4K UHD 164 cm  65"  con Inteligencia Artificial  HDR10 Pro  HLG  Sonido Ultra Surround  3xHDMI 2.0  2xUSB 2.0  Bluetooth 5.0  WiFi [A]](https://www.amazon.es/dp/B084XSS8MH/?tag=tolees-21) a 649.0 EUR (original: 779.0 EUR) (16.69 %  de descuento) en el siguiente enlace!
+En este momento está [LG 65UN71006LB - Smart TV 4K UHD 164 cm  65"  con Inteligencia Artificial  Procesador Inteligente Quad Core  HDR10 Pro  HLG  Sonido Ultra Surround  3xHDMI 2.0  2xUSB 2.0  Bluetooth 5.0  WiFi](https://www.amazon.es/dp/B084XSS8MH/?tag=tolees-21) a 569.0 EUR (original: 779.0 EUR) (26.96 %  de descuento) en el siguiente enlace!
 
-[![LG 65UN7100ALEXA - Smart TV 4K UHD 164 c](https://m.media-amazon.com/images/I/51n7qdmcd4L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B084XSS8MH/?tag=tolees-21)
+[![LG 65UN71006LB - Smart TV 4K UHD 164 cm ](https://m.media-amazon.com/images/I/51n7qdmcd4L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B084XSS8MH/?tag=tolees-21)
 
 🔎:
 
-- Sistema operativo SmartTV webOS 5.0
-- LG UHD, el Smart TV 4K UHD de 164 cm (65") compatible con Inteligencia Artificial
-- Caja reforzada para Amazon (certificación ISTA 6) con diseño genérico LG 65UN71006LB
-- Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, no incluido, Compatible con Alexa
-- Compatible con HDR10 Pro y HLG
-- Disfruta de la experiencia del Sonido Ultra Surround
+- Procesador Inteligente Quad Core de 10 bits: analiza cada fotograma para mejorar la imagen
+- Disfruta del contenido en el Smart TV 4K compatible con Inteligencia Artificial y con panel IPS con hasta 178º de ángulo de visión; mando Magic Control necesario para las funciones AI no incluido
+- Sonido Ultra Surround con experiencia envolvente de 20W de potencia
+- Conectividad mejorada con HDMI 2.0, USB 2.0, Bluetooth 5.0, LAN RJ45 y WiFi
+- Sistema operativo SmartTV webOS 5.0: el más fácil, más rápido y más seguro (Certificado por UL Cybersecurity). Con Inteligencia Artificial: LG ThinQ AI, Asistente de Google, Alexa
+- Compatible con HDR10 Pro y HLG: Disfruta de la auténtica experiencia cinematográfica en tu casa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084XSS8MH/?tag=tolees-21)

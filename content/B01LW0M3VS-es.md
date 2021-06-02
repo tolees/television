@@ -28,10 +28,10 @@ En este momento está [Hama uzzano 3.0 - QWERTY español Teclado inalámbrico co
 
 🔎:
 
+- Volumen de suministro: 1x teclado de tv inteligente uzzano 3.0, 1 receptor, 2 pilas aaa, 1x manual de usuario
 - Botones especiales de samsung con código de color para facilitar el control y la ejecución de diversas funciones y samsung smart hub
+- Navegación rápida y cómoda en smart tv, pc y notebook: navegue cómodamente desde el sofá y controle smart tv, multi-touchpad de alta precisión para control de gestos (deslizamiento, desplazamiento)
 - Compatible con pc, notebook (windows 10 / 8.1 / 8/7), smart tv con soporte para teclado / mouse, samsung smart tv (funciones especiales de samsung) y ps3
 - Interruptor de encendido / apagado independiente para ahorrar batería, mini llave usb, que puede permanecer virtualmente invisible
-- Navegación rápida y cómoda en smart tv, pc y notebook: navegue cómodamente desde el sofá y controle smart tv, multi-touchpad de alta precisión para control de gestos (deslizamiento, desplazamiento)
-- Volumen de suministro: 1x teclado de tv inteligente uzzano 3.0, 1 receptor, 2 pilas aaa, 1x manual de usuario
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LW0M3VS/?tag=tolees-21)

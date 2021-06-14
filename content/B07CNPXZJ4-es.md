@@ -28,9 +28,9 @@ Tienes [Amazon Basics - Teclado inalámbrico con Touchpad para televisión Smart
 
 🔎:
 
-- Su diseño delgado es perfecto para la sala de estar; su rango inalámbrico de 10 metros ofrece una buena conexión, incluso en las habitaciones más grandes
 - Teclado con un formato español (QWERTY) y teclas multimedia prácticas; gran teclado táctil integrado: utiliza 2 dedos para desplazarte hacia arriba/abajo o hacia la izquierda/derecha y «pellizca» con los 2 dedos hacia afuera para acercar la imagen o hacia adentro para alejarla
 - Diseño «Plug and Play» con receptor USB para una configuración sencilla; compatible con Windows 7, 8, 10; Chrome OS; Mac OS; y televisiones Smart TV que admitan la tecnología HID
 - Teclado inalámbrico todo en uno con Touchpad para navegar fácilmente por tu PC conectado a una Smart TV
+- Su diseño delgado es perfecto para la sala de estar; su rango inalámbrico de 10 metros ofrece una buena conexión, incluso en las habitaciones más grandes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CNPXZJ4/?tag=tolees-21)

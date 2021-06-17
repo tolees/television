@@ -28,10 +28,10 @@ Tienes [PHILIPS AUDIO - Philips SRP3011/10 - Mando a Distancia Universal para te
 
 🔎:
 
+- Contenido en caja: Mando a distancia universal SRP3011, garantía, guía de uso breve
+- Botones grandes
 - Perfecto para controlar volumen y cambio entre canales
 - Rápida conexión con tu televisor
-- Botones grandes
-- Contenido en caja: Mando a distancia universal SRP3011, garantía, guía de uso breve
 - Soporte URC en línea para encontrar los códigos de las diferentes marcas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01CI78IC4/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [RICOO S5244 Soporte TV Pared 32-55 Pulgadas  81-140 cm  Giratorio Inclin
 
 🔎:
 
-- ✅ CAPACIDAD: Colgador television carga 50kg. Wall-Mount para televisiones de estándar VESA 200x200 300x200 300x300 400x200 400x400. Base colgante òptimo para casa, home cinema y gaming
-- ✅ COMPATIBILIDAD: Podéis colgar un flat-screen plana con diagonale de 81cm/32" 94cm/37" 102cm/40" 107cm/42" 109cm/43" 122cm/48" 124cm/49" 127cm/50" 132cm/52" 140cm/55" pulgadas
-- Diagonal es una orientación - importante son: Conformidad de estándar VESA y peso de la pantalla. Tacos y tornillos sólo para montaje del fijacion a paredes de hormigón macizo
 - ✅ FUNCIONES: Porta para pantallas televisores es orientable de 120 grados, con ancho de pantalla máx. de 80cm. Inclinacion de la sujeta es regulable de +12/-3°. Panel frontal rotatorio +/-3°. Distancia a pared del anclaje es ajustable de 80-370mm
+- ✅ COMPATIBILIDAD: Podéis colgar un flat-screen plana con diagonale de 81cm/32" 94cm/37" 102cm/40" 107cm/42" 109cm/43" 122cm/48" 124cm/49" 127cm/50" 132cm/52" 140cm/55" pulgadas
 - ✅ APTO PARA: TV Monitor bracket compatible con Samsung LG Sony Hisense Grundig Loewe TD Systems Panasonic Philips Sharp TCL Telefunken Toshiba JTC OK Thomson Xiaomi LED LCD Curvo
+- ✅ CAPACIDAD: Colgador television carga 50kg. Wall-Mount para televisiones de estándar VESA 200x200 300x200 300x300 400x200 400x400. Base colgante òptimo para casa, home cinema y gaming
+- Diagonal es una orientación - importante son: Conformidad de estándar VESA y peso de la pantalla. Tacos y tornillos sólo para montaje del fijacion a paredes de hormigón macizo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014LBLSXQ/?tag=tolees-21)

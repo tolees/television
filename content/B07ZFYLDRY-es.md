@@ -28,10 +28,10 @@ Ahora mismo tienes [CHiQ Televisor Smart TV LED 50 Pulgadas 4K UHD  HDR 10/HLG  
 
 🔎:
 
-- Recepción: Smart TV, Triple Tuner, DVB-T / T2 / T2-HD / C / S / S2,CI +, 3 x HDMI (ARC/CEC), 2 x USB, 1 x entrada AV, 1 x salida de audio digital (óptica), 1 x AND y 1 x LNB,1 LAN, para sonido, conexión Bluetooth.
-- TV (LED) con diagonales de pantalla de 126 cm (50 pulgadas), negro, diseño sin marco, dimensiones de la pantalla sin soporte: 111,7 x 64,8 x 9,3 cm, con soporte: 111,7 x 70,2 x 21,2 cm.
-- Procesador de cuatro núcleos, HDR (HDR10, HLG), Amazon Prime Video, Netflix, YouTube. Navegador web, Netrange APPstore. Navega por Internet sin ordenador. Recorrido del mando a distancia: Netflix, Amazon Prime Video y Youtube, teléfono azul/barra sonora, diseño sin marco.
 - Resolución: 4K 3840 x 2160 píxeles (Ultra HD), PSI 900,HDR 10/HLG, ofrecen un rango dinámico y detalles de imagen más importantes, lo que te ofrece la experiencia visual más realista y activa.
+- Procesador de cuatro núcleos, HDR (HDR10, HLG), Amazon Prime Video, Netflix, YouTube. Navegador web, Netrange APPstore. Navega por Internet sin ordenador. Recorrido del mando a distancia: Netflix, Amazon Prime Video y Youtube, teléfono azul/barra sonora, diseño sin marco.
 - Servicio: Si hay problemas de garantía y otros problemas posventa, deja un mensaje y le responderemos lo antes posible.
+- TV (LED) con diagonales de pantalla de 126 cm (50 pulgadas), negro, diseño sin marco, dimensiones de la pantalla sin soporte: 111,7 x 64,8 x 9,3 cm, con soporte: 111,7 x 70,2 x 21,2 cm.
+- Recepción: Smart TV, Triple Tuner, DVB-T / T2 / T2-HD / C / S / S2,CI +, 3 x HDMI (ARC/CEC), 2 x USB, 1 x entrada AV, 1 x salida de audio digital (óptica), 1 x AND y 1 x LNB,1 LAN, para sonido, conexión Bluetooth.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZFYLDRY/?tag=tolees-21)

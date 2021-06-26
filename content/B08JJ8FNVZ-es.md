@@ -29,10 +29,10 @@ En este momento está [THOMSON 50UG6300 - Televisor LED de 50 pulgadas  Smart TV
 🔎:
 
 - Este modelo incorpora PPI 1500, compatible con Alexa
-- Tamaño de pantalla: 50.0 Pulgadas
+- Calidad de la imagen: 4K UHD
 - Sonido: el televisor incorpora Dolby Audio que proporciona un sonido rico, nítido y potente
 - Smart Tv 3.0 con Netflix y YouTube en calidad 4K HDR
 - El modelo 50UG6300 de TCL de 50 pulgadas además incorpora un control remoto de fácil utilización con pilas, cable de alimentación y manual de instrucciones
-- Calidad de la imagen: 4K UHD
+- Tamaño de pantalla: 50.0 Pulgadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JJ8FNVZ/?tag=tolees-21)

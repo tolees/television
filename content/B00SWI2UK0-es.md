@@ -28,10 +28,10 @@ Tienes [TP-Link TL - PA8030P Kit 2 Adaptadores de Comunicación por Línea Eléc
 
 ℹ️:
 
-- 2 x 2 MIMO - Con beamforming, múltiples conexiones simultáneas, permitiéndote disfrutar de velocidad y estabilidad mayores
-- Plug & play - Simplemente pulsando un botón, sin configuración adicional
-- Enchufe extra - Mantener alimentados tus dispositivos, sin desperdiciar el enchufe previo
 - 3 puertos Gigabit - Con 3 puertos Ethernet Gigabit, permiten conectar simultáneamente dos dispositivos con conexión cableada. Ofrece una máxima conectividad, ideal para Streaming fluido y descargas rápidas
+- Plug & play - Simplemente pulsando un botón, sin configuración adicional
 - Ultra-rápida 1300 Mbps - NO hay señal de wifi, pero con transferencia de datos de alta velocidad por cable más estable que nunca hasta 1300 Mbps, soporta todas sus necesidades con Smart TV, sobremesa o videoconsolas
+- Enchufe extra - Mantener alimentados tus dispositivos, sin desperdiciar el enchufe previo
+- 2 x 2 MIMO - Con beamforming, múltiples conexiones simultáneas, permitiéndote disfrutar de velocidad y estabilidad mayores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00SWI2UK0/?tag=tolees-21)

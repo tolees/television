@@ -28,15 +28,15 @@ En este momento está [LG 50UP7500-ALEXA 2021-Smart TV 4K UHD 126 cm  50"  con P
 
 🔎:
 
-- Conectividad con 2xHDMI 2.0, 1xUSB 2.0, WiFi (802.11ac), Bluetooth V5.0, LAN RJ45, Magic Remote opcional
-- Soporte: 2 patas
-- Sistema operativo SmartTV webOS 6.0 Premium: el más fácil, rápido y seguro (Certificado por UL Cybersecurity); con Inteligencia Artificial: LG ThinQ AI, Asistente de Google, Alexa y Air Play 2
-- Procesador de imagen 4k Quad Core, mejora de color avanzado, precisión de color: 17x17x17, reducción de ruido 2X, -, 4K Upscaling
-- Disfruta del mejor contenido en el SmartTV 4K compatible con Inteligencia Artificial
 - TV compatible con formatos HDR: HDR10, HDR HLG, HDR GiG; disfruta de la auténtica experiencia cinematográfica en tu casa
-- Con Alexa incluida (Alexa Built-In); mando Magic Control MR21GA necesario para las funciones de Inteligencia Artificial, no incluido
-- Gaming TV: -, -, HDR GiG, - / ALLM, 2xHDMI 2.0
-- Caja reforzada para Amazon (certificación ISTA 6 - SIOC) con diseño genérico LG 50UP75006LF
+- Soporte: 2 patas
+- Conectividad con 2xHDMI 2.0, 1xUSB 2.0, WiFi (802.11ac), Bluetooth V5.0, LAN RJ45, Magic Remote opcional
+- Procesador de imagen 4k Quad Core, mejora de color avanzado, precisión de color: 17x17x17, reducción de ruido 2X, -, 4K Upscaling
 - Procesador de Sonido AI Sound & Virtual Surround; para disfrutar del sonido envolvente 360º como en el cine
+- Disfruta del mejor contenido en el SmartTV 4K compatible con Inteligencia Artificial
+- Caja reforzada para Amazon (certificación ISTA 6 - SIOC) con diseño genérico LG 50UP75006LF
+- Con Alexa incluida (Alexa Built-In); mando Magic Control MR21GA necesario para las funciones de Inteligencia Artificial, no incluido
+- Sistema operativo SmartTV webOS 6.0 Premium: el más fácil, rápido y seguro (Certificado por UL Cybersecurity); con Inteligencia Artificial: LG ThinQ AI, Asistente de Google, Alexa y Air Play 2
+- Gaming TV: -, -, HDR GiG, - / ALLM, 2xHDMI 2.0
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08Y3TFJGL/?tag=tolees-21)

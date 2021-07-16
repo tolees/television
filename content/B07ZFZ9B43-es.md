@@ -29,9 +29,9 @@ En este momento está [CHiQ Televisor Smart TV LED 43 Pulgadas  Resolución 4K U
 🔎:
 
 - ✅ Características: modo hotel, reducción de ruido, seguridad de la TV infantil, radio, temporizador / despertador, horario de verano automático, imágenes de alta calidad.
-- ✅ Televisión Inteligente: CPU de cuatro núcleos, HDR (HDR10, HLG), Amazon Prime Video, Netflix, YouTube
-- ✅ LED TV con una pantalla de 126 cm (50 pulgadas), diseño de pantalla ultrafina, dimensiones sin soporte: 96.3 x 56.7 x 8.1 cm, con soporte: 96.3 x 61.7 x 18.0 cm
 - ✅ Resolución: 3840 x 2160 píxeles (Ultra HD) para disfrutar plenamente de tus series, películas o juegos.
 - ✅ Recepción: PAL / SECAM, DVB-T / T2 / C / S2, CI +, WLAN, LAN, Bluetooth (solo sonido), 3 x HDMI 2.0 (ARC / CEC), 2 x USB para ver sus sitios favoritos solo usando su control remoto!
+- ✅ LED TV con una pantalla de 126 cm (50 pulgadas), diseño de pantalla ultrafina, dimensiones sin soporte: 96.3 x 56.7 x 8.1 cm, con soporte: 96.3 x 61.7 x 18.0 cm
+- ✅ Televisión Inteligente: CPU de cuatro núcleos, HDR (HDR10, HLG), Amazon Prime Video, Netflix, YouTube
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZFZ9B43/?tag=tolees-21)

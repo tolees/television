@@ -28,9 +28,9 @@ En este momento está [CHiQ Televisor Smart TV LED 50"  Resolución 4K UHD  HDR1
 
 🔎:
 
-- ✅ Navegue por la web sin necesidad de un ordenador. Un navegador está directamente integrado, lo que te permite visitar tus sitios favoritos solo con tu mando a distancia.
-- ✅ Android TV, disfruta de todos los servicios y aplicaciones ofrecidos por Google exclusivamente en tu TV CHiQ, además de Netflix, Youtube, Prime Video, Facebook, y mucho más.
-- ✅ Chromecast built-in, te permite transmitir o compartir contenidos desde dispositivos compatible. Transmite vídeo de forma continua, comparte fotos o comparte la pantalla tu dispositivo.
 - ✅ Pantalla y borde ultrafino. Con un diseño elegante y líneas finas, este televisor UHD se integrará perfectamente en tu hogar.
+- ✅ Navegue por la web sin necesidad de un ordenador. Un navegador está directamente integrado, lo que te permite visitar tus sitios favoritos solo con tu mando a distancia.
+- ✅ Chromecast built-in, te permite transmitir o compartir contenidos desde dispositivos compatible. Transmite vídeo de forma continua, comparte fotos o comparte la pantalla tu dispositivo.
+- ✅ Android TV, disfruta de todos los servicios y aplicaciones ofrecidos por Google exclusivamente en tu TV CHiQ, además de Netflix, Youtube, Prime Video, Facebook, y mucho más.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZHHZ1V3/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Blaupunkt BS40F2012NEB - Televisor Smart TV LED 40" Full HD 
 
 🔎:
 
-- Smart TV con WiFi, Miracast, Netflix, YouTube, App Store
-- Televisor LED 40 Pulgadas con resolución 1920 x 1080 píxeles (Full HD 1080p)
 - Reproductor Multimedia USB con codec HEVC (H.265) 10-bit video codec
+- Televisor LED 40 Pulgadas con resolución 1920 x 1080 píxeles (Full HD 1080p)
+- Smart TV con WiFi, Miracast, Netflix, YouTube, App Store
 - Conexiones: 2x HDMI, 2x USB, entrada de vídeo compuesto, puerto de interfaz común CI+, salida de audio digital, salida de auriculares; tuner triple DVB-T/T2 & DVB-C & DVB-S2
 - Medidas de soporte de pared: VESA 75x75; dimensión con peana: 904 x 177 x 573 mm; dimensión sin peana: 904 x 70 x 519 mm; peso neto: 5.8kg; distancia entre peanas: 796mm
 

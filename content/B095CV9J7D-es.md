@@ -28,10 +28,10 @@ Ahora mismo tienes [Tv 42 pulgadas Engel LED con Smart TV  Android TV  y WiFi](h
 
 🔎:
 
-- Dispone de una resolución de pantalla Full HD1920 x 1080 px y tasa de refresco 60Hz.
 - Smart tv 42 pulgadas con Android TV 9.0 compatible 100% con Netflix, HBO, Prime Video, Movistar+, DAZN... Incorpora el Chromecast built y Asistente de Google
-- Conectividad: 3 entradas HDMI, 2 puertos USB 2.0, salida Ethernet, entrada de auriculares y salida coaxial.
 - Sintonizadores: TDT2, DVB-T2, DVB-S2 & DVB-C y Formatos de vídeo compatibles (JPEG, MP3, MPEG-1-2-4, H.264).
 - Dimensiones TV con peana 952 x 588 x 197 mm. Dimensiones TV sin peana 952 x 539 x 82 mm.
+- Conectividad: 3 entradas HDMI, 2 puertos USB 2.0, salida Ethernet, entrada de auriculares y salida coaxial.
+- Dispone de una resolución de pantalla Full HD1920 x 1080 px y tasa de refresco 60Hz.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B095CV9J7D/?tag=tolees-21)

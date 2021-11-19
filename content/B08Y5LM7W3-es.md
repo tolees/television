@@ -29,14 +29,14 @@ En este momento está [LG OLED OLED55B1-ALEXA 2021-Smart TV 4K UHD 139 cm  55"  
 🔎:
 
 - TV compatible con formatos HDR: HDR Dolby Vision IQ, HDR 10 Pro, HLG Pro, HDR Effect, HDR GiG; disfruta de la auténtica experiencia cinematográfica en tu casa
-- El único negro puro que hace que el resto de colores brille; disfruta del máximo contraste y sorpréndete con la profundidad de los colores, detalles y texturas de las imágenes
-- Conectividad mejorada con 2xHDMI 2.1 / 2xHDMI 2.0, 3xUSB 2.0, WiFi (802.11ac), Bluetooth V5.0, LAN RJ45
-- Caja reforzada para Amazon (certificación ISTA 6 - SIOC) con diseño genérico LG OLED55B16LA
-- Sistema operativo SmartTV webOS 6.0 Premium: el más fácil, rápido y seguro (Certificado por UL Cybersecurity); con Inteligencia Artificial: LG ThinQ AI, Asistente de Google, Alexa y Air Play 2
-- El TV óptimo para gaming: nVIDIA G-Sync compatible, AMD FreeSync compatible, HDR GiG, VRR / ALLM, 2xHDMI 2.1 / 2xHDMI 2.0
-- Procesador de sonido AI Sound & DOLBY ATMOS, para disfrutar del sonido envolvente 360º como en el cine
-- Procesador inteligente 4K α7 Gen4 con AI Deep Learning, mejora de color avanzado; precisión de color: 17x17x17, reducción de ruido 2X, modo imagen Autogénero (sólo por HDMI), AI Upscaling
 - Tu guardián ocular gracias a estar libre de luz azul HEV nociva para tus ojos
 - Con Alexa incluida (Alexa Built-In); mando Magic Control MR21GA necesario para las funciones de Inteligencia Artificial, incluido
+- Procesador de sonido AI Sound & DOLBY ATMOS, para disfrutar del sonido envolvente 360º como en el cine
+- El único negro puro que hace que el resto de colores brille; disfruta del máximo contraste y sorpréndete con la profundidad de los colores, detalles y texturas de las imágenes
+- Caja reforzada para Amazon (certificación ISTA 6 - SIOC) con diseño genérico LG OLED55B16LA
+- Conectividad mejorada con 2xHDMI 2.1 / 2xHDMI 2.0, 3xUSB 2.0, WiFi (802.11ac), Bluetooth V5.0, LAN RJ45
+- El TV óptimo para gaming: nVIDIA G-Sync compatible, AMD FreeSync compatible, HDR GiG, VRR / ALLM, 2xHDMI 2.1 / 2xHDMI 2.0
+- Procesador inteligente 4K α7 Gen4 con AI Deep Learning, mejora de color avanzado; precisión de color: 17x17x17, reducción de ruido 2X, modo imagen Autogénero (sólo por HDMI), AI Upscaling
+- Sistema operativo SmartTV webOS 6.0 Premium: el más fácil, rápido y seguro (Certificado por UL Cybersecurity); con Inteligencia Artificial: LG ThinQ AI, Asistente de Google, Alexa y Air Play 2
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08Y5LM7W3/?tag=tolees-21)

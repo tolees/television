@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toshiba TV 55UA2B63DG 4K HDR Smart TV Android de 55" Ultra HD  3840 x 2160   Chromecast y Google Assistant Integrados'
-date: 2021-12-21 22:30:51
+date: 2021-12-27 17:38:51
 image: 'https://m.media-amazon.com/images/I/41OECQOQ50L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Android TV, acceso casi ilimitado de contenidos con ChromeCast y Voice Assistant integrados
+- TRU Resolution. Todos los contenidos recobran vida 4K, independientmente de su antiguedad
+- Pureza de sonido Onkyo con cajas acústicas interiores integradas
+- Toshiba Smart Center. Manejo del TV desde el Smartphone iOS y Android
 - UHD HDR10 con Dolby Vision y TRU Micro Dimming. Máxima colorimetría.
 - Tipo de conectividad: ethernet
-- Pureza de sonido Onkyo con cajas acústicas interiores integradas
-- TRU Resolution. Todos los contenidos recobran vida 4K, independientmente de su antiguedad
 - Fuente de alimentación: alimentación eléctrica con cable
-- Android TV, acceso casi ilimitado de contenidos con ChromeCast y Voice Assistant integrados
-- Toshiba Smart Center. Manejo del TV desde el Smartphone iOS y Android
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

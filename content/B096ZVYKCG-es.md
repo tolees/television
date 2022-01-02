@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips 65PUS8506 / Philips Smart TV 4K de 65 Pulgadas. Televisión LED UHD Ideal para Netflix  Youtube y Gaming/Asistente de Google y Alexa/Android TV  Ambilight  HDR  Dolby Vision y Dolby Atmos'
-date: 2021-12-31 11:11:06
+date: 2022-01-02 09:29:48
 image: 'https://m.media-amazon.com/images/I/41E+of+Xy2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B096ZVYKCG/?tag=tolees-21'
 descuento: '22.03'
-average: '860.902'
+average: '860.75'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AMBILIGHT MÁGICO: Con LEDs inteligentes alrededor del borde de la pantalla que responden suavemente a las acciones en pantalla, este televisor de Philips tiene un exclusivo sistema Ambilight de 3 lados para las experiencias cinematográficas más mágicas
 - DISEÑO DELGADO: Este televisor inteligente 4K tiene un gran diseño compacto con la mejor calidad. Diseñado para adaptarse a cualquier esquema interior, este televisor Philips sin biseles viene con un soporte delgado y elegante
-- ENTREGA: Philips 65 pulgadas 4K UHD Smart TV en gris antracita con aplicaciones preinstaladas, soporte ligero y plateado, mando a distancia Philips TV, conectividad inalámbrica, tamaño de pantalla en diagonal: 178 cm
 - SISTEMA DE SONIDO CINEMÁTICO: la mejor experiencia cinematográfica es clave para Philips, este televisor es compatible con el sistema de visión y sonido premium de Dolby, experiencia de sonido multidimensional, clara y profunda
+- AMBILIGHT MÁGICO: Con LEDs inteligentes alrededor del borde de la pantalla que responden suavemente a las acciones en pantalla, este televisor de Philips tiene un exclusivo sistema Ambilight de 3 lados para las experiencias cinematográficas más mágicas
+- ENTREGA: Philips 65 pulgadas 4K UHD Smart TV en gris antracita con aplicaciones preinstaladas, soporte ligero y plateado, mando a distancia Philips TV, conectividad inalámbrica, tamaño de pantalla en diagonal: 178 cm
 - CALIDAD DE IMAGEN HDR: Para obtener la mejor calidad de imagen cinematográfica, este Smart TV 4K UHD de Philips está equipado con HDR y nuestro motor Philips P5 hace que el contenido de la pantalla se vea más brillante y realista con colores vivos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

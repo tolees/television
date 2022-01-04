@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toshiba TV 32L3163DG Smart TV de 32"  con Resolución Full HD  1920 x 1080   HDR  Compatible con Asistente de Voz Alexa'
-date: 2022-01-02 12:53:02
+date: 2022-01-04 14:01:53
 image: 'https://m.media-amazon.com/images/I/41KUJBCqCaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - HDR10 HLG, colores y contraste sobresalientes
-- Tipo de conectividad: rf
-- Fuente de alimentación: alimentación eléctrica con cable
-- Maxima resolucion en formato medio 1920x10800 pixeles
 - Dolby Audio
 - Compatible con Alexa y Google
+- Fuente de alimentación: alimentación eléctrica con cable
+- Tipo de conectividad: rf
+- Maxima resolucion en formato medio 1920x10800 pixeles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

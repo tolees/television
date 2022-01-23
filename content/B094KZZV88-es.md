@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG Led 43 43Nano776Pa Aeu 4K Smart TV Nanocell HDR'
-date: 2022-01-21 20:52:33
+date: 2022-01-23 10:05:39
 image: 'https://m.media-amazon.com/images/I/411iEuV0HyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B094KZZV88/?tag=tolees-21'
 descuento: '44.57'
-average: '528.905'
+average: '512.943333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de alta calidad
 - País de origen: España
+- Producto de alta calidad
 - Nombre de la marca: Lg
 
 [🛒 Aquí!!!]({{< param buyurl >}})

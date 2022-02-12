@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Blaupunkt Televisor Android TV LED 40" - Full HD - BA40F4132LEB  Negro'
-date: 2022-02-09 19:35:17
+date: 2022-02-12 10:41:21
 image: 'https://m.media-amazon.com/images/I/41ocv7Xn6-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08XZV8XHS-es Blaupunkt Televisor Android TV LED 40" - Full HD -...'
 sku: 'B08XZV8XHS-es'
 tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','blaupunkt','televisor', ]
-actualPrice: 307.8 EUR
+actualPrice: 302.99 EUR
 currency: EUR
-price: 307.8
+price: 302.99
 comparePrice: 342.99 EUR
 prodname: 'Blaupunkt Televisor Android TV LED 40" - Full HD - BA40F4132LEB  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Blaupunkt'
 buyurl: 'https://www.amazon.es/dp/B08XZV8XHS/?tag=tolees-21'
-descuento: '10.26'
-average: '297.944615384617'
+descuento: '11.66'
+average: '298.131481481483'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de altavoz: built in
-- Potencia (W): 44.0 watts
 - Compatible con todas las apps de Google Play Store para Android TV disponibles en el territorio (ej; netflix, Amazon, Disney,Movistar,KODI, etc.)
-- Fuente de alimentación: Alimentación eléctrica con cable
-- Tamaño de pantalla: 40.0 inches
-- Conexiones: 3x HDMI, 2x USB, entrada de audio PC, entrada de vídeo compuesto, puerto de interfaz común CI,salida de audio digital, Wi-Fi, RJ-45, salida de auriculares; tuner triple DVB-T/T2 DVB-C DVB-S2
-- Mando a distancia con micrófono para controlar Google Assistant
-- Android TV de 40 Pulgadas con Chromecast integrado; resolución 1920 x 1080 píxeles (Full HD 1080p)
+- Tipo de altavoz: built in
 - Configuración del canal de sonido envolvente: 2.0
+- Fuente de alimentación: Alimentación eléctrica con cable
+- Android TV de 40 Pulgadas con Chromecast integrado; resolución 1920 x 1080 píxeles (Full HD 1080p)
 - Medidas de soporte de pared: VESA 200x100, Dimensión con peana: 903,4 x 207,1 x 567,0 mm, Dimensión sin peana: 903,4 x 87,1 x 521,6 mm, Distancia entre peanas: 820,0 mm
+- Tamaño de pantalla: 40.0 inches
+- Potencia (W): 44.0 watts
+- Mando a distancia con micrófono para controlar Google Assistant
+- Conexiones: 3x HDMI, 2x USB, entrada de audio PC, entrada de vídeo compuesto, puerto de interfaz común CI,salida de audio digital, Wi-Fi, RJ-45, salida de auriculares; tuner triple DVB-T/T2 DVB-C DVB-S2
 
 [🛒 Aquí!!!]({{< param buyurl >}})

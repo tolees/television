@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El único negro puro que hace que el resto de colores brille; disfruta del máximo contraste y sorpréndete con la profundidad de los colores, detalles y texturas de las imágenes
 - Tu guardián ocular gracias a estar libre de luz azul HEV nociva para tus ojos
 - Gaming TV: HDR GiG / ALLM, 3xHDMI 2.0
-- Con Alexa incluida (Alexa Built-In); mando Magic Control MR21GA necesario para las funciones de Inteligencia Artificial, incluido
-- TV compatible con formatos HDR: HDR Dolby Vision IQ, HDR 10 Pro, HLG Pro, HDR Effect, HDR GiG; disfruta de la auténtica experiencia cinematográfica en tu casa
-- Caja reforzada para Amazon (certificación ISTA 6 - SIOC) con diseño genérico LG OLED48A16LA
 - Conectividad con 3xHDMI 2.0, 2xUSB 2.0, WiFi (802.11ac), Bluetooth V5.0, LAN RJ45
+- TV compatible con formatos HDR: HDR Dolby Vision IQ, HDR 10 Pro, HLG Pro, HDR Effect, HDR GiG; disfruta de la auténtica experiencia cinematográfica en tu casa
+- Con Alexa incluida (Alexa Built-In); mando Magic Control MR21GA necesario para las funciones de Inteligencia Artificial, incluido
 - Procesador inteligente 4K α7 Gen4 con AI Deep Learning, mejora de color avanzado; precisión de color: 17x17x17, reducción de ruido 2X, modo imagen Autogénero (sólo por HDMI), AI Upscaling
 - Sistema operativo SmartTV webOS 6.0 Premium: el más fácil, rápido y seguro (Certificado por UL Cybersecurity); con Inteligencia Artificial: LG ThinQ AI, Asistente de Google, Alexa y Air Play 2
-- El único negro puro que hace que el resto de colores brille; disfruta del máximo contraste y sorpréndete con la profundidad de los colores, detalles y texturas de las imágenes
+- Caja reforzada para Amazon (certificación ISTA 6 - SIOC) con diseño genérico LG OLED48A16LA
 - Procesador de sonido AI Sound & DOLBY ATMOS, para disfrutar del sonido envolvente 360º como en el cine
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

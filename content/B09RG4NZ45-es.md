@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Productos electrónicos de la marca Hisense
-- Referencia del producto: S0437094
 - Smart TV Hisense 50A6B 50" 4K ULTRA HD LED WIFI
-- Color: Multicolor
 - Medidas: 27 x 131 x 91 centímetros
+- Referencia del producto: S0437094
+- Color: Multicolor
+- Productos electrónicos de la marca Hisense
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

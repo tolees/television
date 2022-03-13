@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 3 Tipos de ajuste de altura: cuenta con 3 niveles de ajuste de altura, cada altura se puede ajustar en 3 cm para la posición de visualización óptima
-- Compatibilidad con TV: El soporte TV pie universal se adapta a la mayoría de televisores de pantalla 22 - 65 pulgadas con patrones de orificios de montaje VESA entre 50 mm x 50 mm y 800 mm x 400 mm con una capacidad de carga máxima de 50 kg (110 libras)
-- 2 Métodos de instalación: La sección central se desenrosca para proporcionar una solución perfecta para televisores más pequeños (22” con un tamaño VESA máximo de 400 x 200 mm). Nota: si la pantalla de su televisor tiene menos de 320 mm de altura, los brazos de montaje del televisor sobresaldrán de detrás del televisor
 - Diseño de perfil bajo y que ahorra espacio: El espacio entre dos patas proporciona una ubicación perfecta para equipos o accesorios de audio; la construcción de acero resistente con sistema de dos patas permite una alta estabilidad y durabilidad; las almohadillas inferiores evitan que la superficie se raye
+- 2 Métodos de instalación: La sección central se desenrosca para proporcionar una solución perfecta para televisores más pequeños (22” con un tamaño VESA máximo de 400 x 200 mm). Nota: si la pantalla de su televisor tiene menos de 320 mm de altura, los brazos de montaje del televisor sobresaldrán de detrás del televisor
+- Compatibilidad con TV: El soporte TV pie universal se adapta a la mayoría de televisores de pantalla 22 - 65 pulgadas con patrones de orificios de montaje VESA entre 50 mm x 50 mm y 800 mm x 400 mm con una capacidad de carga máxima de 50 kg (110 libras)
+- 3 Tipos de ajuste de altura: cuenta con 3 niveles de ajuste de altura, cada altura se puede ajustar en 3 cm para la posición de visualización óptima
 - Fácil de montar: Se perforan dos pequeños orificios en la parte inferior para una alineación precisa. La entrega también incluye todo el hardware necesario e instrucciones de instalación fáciles de seguir
 
 [🛒 Comprar!!!]({{< param buyurl >}})

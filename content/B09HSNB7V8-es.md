@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Smart TV P1E 55 pulgadas  UHD  HDR 10  MEMC  triple sintonizador  Android  Prime Video  Netflix  asistente de Google integrado  bluetooth  HDMI 2.0  USB  [Modelo 2021]'
-date: 2022-03-16 23:15:26
+date: 2022-03-24 21:42:21
 image: 'https://m.media-amazon.com/images/I/41MYN-Q-6zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09HSNB7V8-es Xiaomi Smart TV P1E 55 pulgadas UHD HDR 10 MEMC triple...'
 sku: 'B09HSNB7V8-es'
 tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','smart','tv','xiaomi', ]
-actualPrice: 424.99 EUR
+actualPrice: 417.22 EUR
 currency: EUR
-price: 424.99
+price: 417.22
 comparePrice: 549.0 EUR
 prodname: 'Xiaomi Smart TV P1E 55 pulgadas  UHD  HDR 10  MEMC  triple sintonizador  Android  Prime Video  Netflix  asistente de Google integrado  bluetooth  HDMI 2.0  USB  [Modelo 2021]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09HSNB7V8/?tag=tolees-21'
-descuento: '22.59'
-average: '411.661'
+descuento: '24.00'
+average: '412.166363636364'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG OLED OLED55A1-ALEXA - Smart TV 4K UHD 55 pulgadas  139 cm   Inteligencia Artificial  100% HDR  Dolby ATMOS  HDMI 2.0  USB 2.0  Bluetooth 5.0  WiFi'
-date: 2022-04-01 11:47:24
+date: 2022-04-05 13:31:56
 image: 'https://m.media-amazon.com/images/I/51Jx444MjDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','lg','smart','tv
 actualPrice: 809.99 EUR
 currency: EUR
 price: 809.99
-comparePrice: 862.48 EUR
+comparePrice: 869.99 EUR
 prodname: 'LG OLED OLED55A1-ALEXA - Smart TV 4K UHD 55 pulgadas  139 cm   Inteligencia Artificial  100% HDR  Dolby ATMOS  HDMI 2.0  USB 2.0  Bluetooth 5.0  WiFi'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B08Y3ZQB8T/?tag=tolees-21'
-descuento: '6.09'
-average: '880.631428571429'
+descuento: '6.90'
+average: '871.80125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Procesador de sonido AI Sound & DOLBY ATMOS, para disfrutar del sonido envolvente 360º como en el cine
-- Gaming TV: HDR GiG / ALLM, 3xHDMI 2.0
-- Tu guardián ocular gracias a estar libre de luz azul HEV nociva para tus ojos
-- Con Alexa incluida (Alexa Built-In); mando Magic Control MR21GA necesario para las funciones de Inteligencia Artificial, incluido
-- Conectividad con 3xHDMI 2.0, 2xUSB 2.0, WiFi (802.11ac), Bluetooth V5.0, LAN RJ45
-- El único negro puro que hace que el resto de colores brille; disfruta del máximo contraste y sorpréndete con la profundidad de los colores, detalles y texturas de las imágenes
 - Caja reforzada para Amazon (certificación ISTA 6 - SIOC) con diseño genérico LG OLED55A16LA
-- Sistema operativo SmartTV webOS 6.0 Premium: el más fácil, rápido y seguro (Certificado por UL Cybersecurity); con Inteligencia Artificial: LG ThinQ AI, Asistente de Google, Alexa y Air Play 2
+- Con Alexa incluida (Alexa Built-In); mando Magic Control MR21GA necesario para las funciones de Inteligencia Artificial, incluido
+- El único negro puro que hace que el resto de colores brille; disfruta del máximo contraste y sorpréndete con la profundidad de los colores, detalles y texturas de las imágenes
 - Procesador inteligente 4K α7 Gen4 con AI Deep Learning, mejora de color avanzado; precisión de color: 17x17x17, reducción de ruido 2X, modo imagen Autogénero (sólo por HDMI), AI Upscaling
+- Gaming TV: HDR GiG / ALLM, 3xHDMI 2.0
+- Conectividad con 3xHDMI 2.0, 2xUSB 2.0, WiFi (802.11ac), Bluetooth V5.0, LAN RJ45
+- Sistema operativo SmartTV webOS 6.0 Premium: el más fácil, rápido y seguro (Certificado por UL Cybersecurity); con Inteligencia Artificial: LG ThinQ AI, Asistente de Google, Alexa y Air Play 2
+- Tu guardián ocular gracias a estar libre de luz azul HEV nociva para tus ojos
+- Procesador de sonido AI Sound & DOLBY ATMOS, para disfrutar del sonido envolvente 360º como en el cine
 - TV compatible con formatos HDR: HDR Dolby Vision IQ, HDR 10 Pro, HLG Pro, HDR Effect, HDR GiG; disfruta de la auténtica experiencia cinematográfica en tu casa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

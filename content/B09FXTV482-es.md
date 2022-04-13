@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3xHDMI, 2xUSB, ethernet y sintonizador satélite
-- Smart TV, Tizen con WiFi, bluetooth y asistente de voz
 - Pantalla de 65" QLED UHD 4K HDR, 3840 x 2160 píxeles
+- Smart TV, Tizen con WiFi, bluetooth y asistente de voz
 - Compatible con VESA 400x300
 - Sistema de sonido con 20W en 2.0CH
+- 3xHDMI, 2xUSB, ethernet y sintonizador satélite
 
 [🛒 Visítala!!!]({{< param buyurl >}})

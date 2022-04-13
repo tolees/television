@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08XQV253D-es Sony KD65X80J - Smart TV de 65" con 4K Ultra HD Google TV...'
 sku: 'B08XQV253D-es'
-tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','es','smart','sony','tv', ]
+tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','smart','sony','tv','🇪🇸', ]
 actualPrice: 899.0 EUR
 currency: EUR
 price: 899.0
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Calidad de imagen: 4K HDR
 - Tamaño de pantalla: 65 pulgadas
 - Nuestra tecnología Ambient Optimization con sensor de luz ajusta automáticamente el sonido y la imagen a tu entorno
 - Pídele a Google un título específico, busca por género o recibe recomendaciones a medida
-- Calidad de imagen: 4K HDR
 - La tecnología Ambient Optimization con sensor de luz ajusta automáticamente el sonido y la imagen
 
 [🛒 Aquí!!!]({{< param buyurl >}})

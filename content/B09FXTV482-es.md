@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung QE65Q60A Televisor Smart TV 65   QLED UHD 4K HDR'
-date: 2022-04-13 13:23:05
+date: 2022-04-14 16:10:50
 image: 'https://m.media-amazon.com/images/I/31EiLuTnT6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pantalla de 65" QLED UHD 4K HDR, 3840 x 2160 píxeles
-- Smart TV, Tizen con WiFi, bluetooth y asistente de voz
-- Compatible con VESA 400x300
-- Sistema de sonido con 20W en 2.0CH
 - 3xHDMI, 2xUSB, ethernet y sintonizador satélite
+- Compatible con VESA 400x300
+- Smart TV, Tizen con WiFi, bluetooth y asistente de voz
+- Sistema de sonido con 20W en 2.0CH
 
 [🛒 Visítala!!!]({{< param buyurl >}})

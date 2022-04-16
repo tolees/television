@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Dolby Audio: para participar al 100% en la experiencia, mejora drásticamente tu entretenimiento añadiendo nuevas dimensiones a la escucha.
-- Sin marco en 3 lados: más pantalla, menos fotograma. Diseño elegante y sofisticado que enfatiza el cuadro más puro. Fabricado en un estilo minimalista sin marco desde cualquier ángulo, con un diseño sin marco que establece nuevos estándares.
-- HDR: Mira la oscuridad y la luz en cada escena, el HDR aumenta el rango de brillo del televisor para disfrutar de una increíble gama de colores y todos los detalles visuales incluso en las escenas más oscuras.
-- PurColor: Color optimizado para una imagen en vivo y realista, PurColor permite a la TV recrear una amplia paleta de colores para que el contenido que estás viendo se transmita de forma óptima en la pantalla y te sientas como si no eres solo un espectador, sino que estás en la película.
 - Crystal 4K: UHD 4K Vuelve el FHD normal con 4 veces más píxeles para ofrecer a tus ojos las imágenes contrastantes y vívidas que merecen. Ahora puedes ver incluso los detalles más pequeños de la escena y serás capaz de disfrutar de colores más realistas gracias a la moderna tecnología de mapeo de colores.
+- PurColor: Color optimizado para una imagen en vivo y realista, PurColor permite a la TV recrear una amplia paleta de colores para que el contenido que estás viendo se transmita de forma óptima en la pantalla y te sientas como si no eres solo un espectador, sino que estás en la película.
+- HDR: Mira la oscuridad y la luz en cada escena, el HDR aumenta el rango de brillo del televisor para disfrutar de una increíble gama de colores y todos los detalles visuales incluso en las escenas más oscuras.
+- Sin marco en 3 lados: más pantalla, menos fotograma. Diseño elegante y sofisticado que enfatiza el cuadro más puro. Fabricado en un estilo minimalista sin marco desde cualquier ángulo, con un diseño sin marco que establece nuevos estándares.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

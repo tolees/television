@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conectores de metal pulido con doble blindaje, un conector chapado en oro de 3,5 mm resistente a la corrosión para un sonido nítido y una mínima pérdida de señal
-- La carcasa de aluminio es más elegante y sólido que el plástico, logra alargar la vida más larga posible. Cable de audio está hecho con material PVC de alta calidad, es más ligero y flexible, puedes llevarlo en pequeños bolsillos o bolsitas y utilizarlo en cualquier momento.
-- El servicio al cliente siempre está disponible. Lo que obtienes: cable de 3,5 mm a RCA, 18 meses de garantía y respuesta por correo electrónico dentro de 24 horas.
-- El cable de 3,5 mm a RCA Jack es ideal para conectar dispositivos con una toma de audio estándar de 3,5 mm (como smartphones, tabletas, reproductores MP3, PC) a dispositivos con interfaz RCA (como altavoz, amplificador, DVD, televisor).
 - Práctico de usar: gracias a los conectores finos, este cable adaptador RCA permite conectar fácilmente tu smartphone o tablet con los dispositivos, y no hay necesidad de quitar la funda protectora. Jack con clavija blanca para conexión con el canal izquierdo, jack con clavija roja para la conexión con el canal derecho. Servicio excelente: un año de garantía. El servicio al cliente siempre a su disposición.
+- El cable de 3,5 mm a RCA Jack es ideal para conectar dispositivos con una toma de audio estándar de 3,5 mm (como smartphones, tabletas, reproductores MP3, PC) a dispositivos con interfaz RCA (como altavoz, amplificador, DVD, televisor).
+- El servicio al cliente siempre está disponible. Lo que obtienes: cable de 3,5 mm a RCA, 18 meses de garantía y respuesta por correo electrónico dentro de 24 horas.
+- La carcasa de aluminio es más elegante y sólido que el plástico, logra alargar la vida más larga posible. Cable de audio está hecho con material PVC de alta calidad, es más ligero y flexible, puedes llevarlo en pequeños bolsillos o bolsitas y utilizarlo en cualquier momento.
+- Conectores de metal pulido con doble blindaje, un conector chapado en oro de 3,5 mm resistente a la corrosión para un sonido nítido y una mínima pérdida de señal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

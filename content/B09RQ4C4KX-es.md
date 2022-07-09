@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ecosistema abierto e Inteligente (ThinQ): Smart TV webOS22. Compatible con Apple Home Kit, Google, Alexa. Requiere Magic Remote OPCIONAL.
-- Funciones Gaming: Cloud Gaming (Stadia). Menú exclusivo Gaming /HGiG
-- Procesador de gran potencia a5 Gen 5: gran precisión de tonos y colores, Direct LED. Identifica el movimiento de objetos para escalar y simular un Sonido Surround de 5.1 canales
 - Experiencia audiovisual: compatible con formatos HDR10 Pro /HDR HLG / HDR HGiG
+- Ecosistema abierto e Inteligente (ThinQ): Smart TV webOS22. Compatible con Apple Home Kit, Google, Alexa. Requiere Magic Remote OPCIONAL.
+- Procesador de gran potencia a5 Gen 5: gran precisión de tonos y colores, Direct LED. Identifica el movimiento de objetos para escalar y simular un Sonido Surround de 5.1 canales
+- Funciones Gaming: Cloud Gaming (Stadia). Menú exclusivo Gaming /HGiG
 - Smart TV fácil, intuitivo y con inteligencia artificial
 
 [🛒 Comprar!!!]({{< param buyurl >}})

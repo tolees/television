@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- [Instrucciones de emparejamiento] 3 el emparejamiento exitoso. Se puede utilizar normalmente. Si el emparejamiento no tiene éxito, repite los pasos anteriores.
+- [Instrucciones de emparejamiento] 1. Enciende primero el televisor Xiaomi o la caja manualmente. Coloca el mando a distancia cerca de la TV o de la caja y mantén pulsado el botón del modelo de cable rojo debajo de 15-30 segundos.
 - [Instrucciones de emparejamiento] 2. Después de que el televisor muestre la interfaz de acoplamiento, suelta el botón y espera hasta que la TV muestre
 - Repuesto del mando a distancia por voz Bluetooth compatible con Google Voice Assistant para MI TV P1, Q1, 4S, 4A, Q1E Mi Box S/4X
-- [Instrucciones de emparejamiento] 1. Enciende primero el televisor Xiaomi o la caja manualmente. Coloca el mando a distancia cerca de la TV o de la caja y mantén pulsado el botón del modelo de cable rojo debajo de 15-30 segundos.
 - Mando a distancia de repuesto para Xiaomi Mi 4S 4A Smart TV con Bluetooth y control por voz
-- [Instrucciones de emparejamiento] 3 el emparejamiento exitoso. Se puede utilizar normalmente. Si el emparejamiento no tiene éxito, repite los pasos anteriores.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

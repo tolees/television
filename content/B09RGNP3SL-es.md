@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Productos electrónicos de la marca Hisense
 - Color: Multicolor
-- Medidas: 20 x 148 x 105 centímetros
 - Smart TV Hisense 58A6G 58" 4K Ultra HD DLED WiFi
 - Referencia del producto: S0433382
-- Productos electrónicos de la marca Hisense
+- Medidas: 20 x 148 x 105 centímetros
 
 [🛒 Aquí!!!]({{< param buyurl >}})

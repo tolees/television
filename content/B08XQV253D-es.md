@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony KD65X80J - Smart TV de 65" con 4K Ultra HD  Google TV  Processor X1  Triluminos Pro  HDR  modelo 2021  color negro '
-date: 2022-07-24 13:27:00
+date: 2022-07-25 17:26:38
 image: 'https://m.media-amazon.com/images/I/41USV6YwN4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08XQV253D/?tag=tolees-21'
 descuento: '15.10'
-average: '899.0'
+average: '889.0'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calidad de imagen: 4K HDR
 - Nuestra tecnología Ambient Optimization con sensor de luz ajusta automáticamente el sonido y la imagen a tu entorno
-- La tecnología Ambient Optimization con sensor de luz ajusta automáticamente el sonido y la imagen
+- Calidad de imagen: 4K HDR
 - Pídele a Google un título específico, busca por género o recibe recomendaciones a medida
+- La tecnología Ambient Optimization con sensor de luz ajusta automáticamente el sonido y la imagen
 - Tamaño de pantalla: 65 pulgadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

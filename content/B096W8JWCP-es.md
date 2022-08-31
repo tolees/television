@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 8 mm
 - 70PUS7906/12
-- Philips
 - Burnished
+- 8 mm
+- Philips
 
 [🛒 Aquí!!!]({{< param buyurl >}})

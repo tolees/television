@@ -28,20 +28,20 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reproductor Multimedia USB con codec HEVC (H.265) 10-bit video codec
-- smart tv con wifi, miracast, netflix, youtube, app store
-- conexiones: 3x hdmi, 2x usb, entrada de vídeo compuesto, puerto de interfaz común ci+, salida de audio digital, salida de auriculares; tuner triple dvb-t/t2 & dvb-c & dvb-s2
-- televisor led 43 pulgadas con resolución 3840 x 2160 píxeles (4k ultra hd)
 - Conexiones: 3x HDMI, 2x USB, entrada de vídeo compuesto, puerto de interfaz común CI+, salida de audio digital, salida de auriculares; tuner triple DVB-T/T2 & DVB-C & DVB-S2
-- Número de puertos HDMI: 3
-- medidas de soporte de pared: vesa 400x200; dimensión con peana: 969 x 235 x 618 mm; dimensión sin peana: 969 x 73 x 566 mm; peso neto:7kg; distancia entre peanas: 837mm
-- Medidas de soporte de pared: VESA 400x200; Dimensión con peana: 969 x 235 x 618 mm; Dimensión sin peana: 969 x 73 x 566 mm; Peso neto:7kg; Distancia entre peanas: 837mm
 - Televisor LED 43 Pulgadas con resolución 3840 x 2160 píxeles (4K ultra HD)
-- Tipo de altavoz: Built-In
+- Medidas de soporte de pared: VESA 400x200; Dimensión con peana: 969 x 235 x 618 mm; Dimensión sin peana: 969 x 73 x 566 mm; Peso neto:7kg; Distancia entre peanas: 837mm
+- conexiones: 3x hdmi, 2x usb, entrada de vídeo compuesto, puerto de interfaz común ci+, salida de audio digital, salida de auriculares; tuner triple dvb-t/t2 & dvb-c & dvb-s2
+- smart tv con wifi, miracast, netflix, youtube, app store
 - Configuración del canal de sonido envolvente: 2.0
 - Smart TV con WiFi, Miracast, Netflix, YouTube, App Store
-- Fuente de alimentación: Corded Electric
+- televisor led 43 pulgadas con resolución 3840 x 2160 píxeles (4k ultra hd)
 - Vataje (W): 64.0 watts
+- Tipo de altavoz: Built-In
+- medidas de soporte de pared: vesa 400x200; dimensión con peana: 969 x 235 x 618 mm; dimensión sin peana: 969 x 73 x 566 mm; peso neto:7kg; distancia entre peanas: 837mm
 - reproductor multimedia usb con codec hevc (h.265) 10-bit video codec
+- Reproductor Multimedia USB con codec HEVC (H.265) 10-bit video codec
+- Número de puertos HDMI: 3
+- Fuente de alimentación: Corded Electric
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

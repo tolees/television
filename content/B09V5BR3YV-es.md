@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Televisor LG 50UQ75006LF - Smart TV webOS22 50 pulgadas  126 cm  4K UHD  Procesador de Gran Potencia 4K a5 Gen 5  compatible con formatos HDR 10  HLG y HGiG'
-date: 2022-09-17 19:58:11
+date: 2022-09-19 11:17:25
 image: 'https://m.media-amazon.com/images/I/51URgSG0atL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B09V5BR3YV/?tag=tolees-21'
 descuento: '29.14'
-average: '395.824'
+average: '394.686666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Smart TV fácil, intuitivo y con Inteligencia Artificial
+- Ecosistema Abierto e Inteligente (ThinQ): Smart TV webOS22/ Compatible con Apple Home Kit, Google, Alexa/ Requiere Magic Remote, NO incluido.
 - Experiencia Audiovisual: compatible con formatos HDR10 Pro /HDR HLG / HDR HGiG
 - Procesador de Gran Potencia 4K a5 Gen 5: Gran Precisión de Tonos y Colores, actuando sobre 576 áreas de cada fotograma / Direct LED. Identifica el movimiento de objetos para escalar y simular un Sonido Surround de 5.1 canales
 - Funciones Gaming: Cloud Gaming (Stadia y GeForce Now)/ Menú exclusivo Gaming /ALLM (Baja Latencia <19ms)/HGiG
-- Ecosistema Abierto e Inteligente (ThinQ): Smart TV webOS22/ Compatible con Apple Home Kit, Google, Alexa/ Requiere Magic Remote, NO incluido.
+- Smart TV fácil, intuitivo y con Inteligencia Artificial
 
 [🛒 Aquí!!!]({{< param buyurl >}})

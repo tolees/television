@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TELEVISOR TV 50 UHD 4K Smart TV HISENSE'
-date: 2022-09-18 21:46:36
+date: 2022-09-22 14:15:28
 image: 'https://m.media-amazon.com/images/I/51hadicOy7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hisense'
 buyurl: 'https://www.amazon.es/dp/B09RG4NZ45/?tag=tolees-21'
 descuento: '30.07'
-average: '320.102727272727'
+average: '318.344166666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

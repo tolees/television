@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Smart TV Neo QLED 4K 2022 50QN90B - Smart TV de 50" con Resolución 4K  Quantum Matrix Technology  Procesador Neo QLED 4K con Inteligencia Artificial  Quantum HDR 2000'
-date: 2022-11-03 17:39:35
+date: 2022-11-06 20:23:23
 image: 'https://m.media-amazon.com/images/I/513MfkTUooL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09MW4TS33-es Samsung Smart TV Neo QLED 4K 2022 50QN90B - Smart TV de...'
 sku: 'B09MW4TS33-es'
 tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','samsung','smart','tv','🇪🇸', ]
-actualPrice: 899.99 EUR
+actualPrice: 1122.17 EUR
 currency: EUR
-price: 899.99
-comparePrice: 1078.38 EUR
+price: 1122.17
+comparePrice: 1699.0 EUR
 prodname: 'Samsung Smart TV Neo QLED 4K 2022 50QN90B - Smart TV de 50" con Resolución 4K  Quantum Matrix Technology  Procesador Neo QLED 4K con Inteligencia Artificial  Quantum HDR 2000'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B09MW4TS33/?tag=tolees-21'
-descuento: '16.54'
-average: '1069.415'
+descuento: '33.95'
+average: '1087.0'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

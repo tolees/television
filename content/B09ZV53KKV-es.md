@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Televisor LG 50UQ70006LB - Smart TV webOS22 50 pulgadas  126 cm  4K UHD  Procesador de Gran Potencia 4K a5 Gen 5  compatible con formatos HDR 10  HLG y HGiG'
-date: 2022-11-20 09:44:41
+date: 2022-11-28 18:00:35
 image: 'https://m.media-amazon.com/images/I/51N0sBXuUrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Smart TV fácil, intuitivo y con Inteligencia Artificial
-- Procesador de Gran Potencia 4K a5 Gen 5: Gran precisión de tonos y colores, actuando sobre 576 áreas de cada fotograma / Direct LED. Identifica el movimiento de objetos para escalar y simular un Sonido Surround de 5.1 canales)
 - Ecosistema abierto e inteligente (ThinQ): Smart TV webOS22/ Compatible con Apple Home Kit, Google, Alexa/ Requiere Magic Remote, NO incluido
+- Procesador de Gran Potencia 4K a5 Gen 5: Gran precisión de tonos y colores, actuando sobre 576 áreas de cada fotograma / Direct LED. Identifica el movimiento de objetos para escalar y simular un Sonido Surround de 5.1 canales)
+- Smart TV fácil, intuitivo y con Inteligencia Artificial
 - Experiencia audiovisual: compatible con formatos HDR10 Pro /HDR HLG / HDR HGiG
 - Funciones Gaming: Cloud Gaming (Stadia y GeForce Now)/ Menú exclusivo Gaming /ALLM (Baja Latencia <19ms)/HGiG
 

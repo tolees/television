@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nokia Smart TV - 50 Pulgadas  126 cm  Android TV  QLED 4K UHD  WLAN  Dolby Vision  HDR10  DVB - C/S2/T2  Netflix  Prime Video  Disney '
-date: 2022-12-08 20:33:34
+date: 2022-12-10 18:37:48
 image: 'https://m.media-amazon.com/images/I/41n7h5UhQrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

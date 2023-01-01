@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cello C4020FDE Televisor LED Full HD de 40 Pulgadas con Reproductor de DVD Integrado'
-date: 2022-12-30 21:16:22
+date: 2023-01-01 21:03:57
 image: 'https://m.media-amazon.com/images/I/515rNIM+4yS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Funciones: reproductor de DVD, DVB-C (TV por cable), DVB-T2 (TV terrestre), guía electrónica de programas (EPG), temporizador de suspensión, bloqueo para niños, grabación PVR
-- Generoso 40 pulgadas con resolución Full HD y reproductor de DVD integrado para una comodidad de visualización absoluta
-- Funciones: reproductor de DVD, DVB-C (TV por cable), DVB-T2 (TV terrestre), guía electrónica de programas (EPG), temporizador de suspensión, bloqueo para niños, grabación PVR
-- Generoso 40 pulgadas con resolución Full HD y reproductor de DVD integrado para una comodidad de visualización absoluta
-- Conexiones: antena, HDMI (3x), CVBS, entrada de PC, entrada de audio, euroconector, YPbPr, salida de auriculares (3,5 mm), entrada de audio óptica, USB (1x), CI
-- Función de grabación USB para grabar o pausar fácilmente la televisión en vivo
-- Función de grabación USB para grabar o pausar fácilmente la televisión en vivo
-- Conexiones: antena, HDMI (3x), CVBS, entrada de PC, entrada de audio, euroconector, YPbPr, salida de auriculares (3,5 mm), entrada de audio óptica, USB (1x), CI
+- Generous 40 inch (100 cm diagonal) size, with full HD resolution and an integrated DVD player for absolute TV comfort.
+- Connections: Antenna, HDMI (3x), CVBS, PC In, Audio In, Scart, YPbPr, headphone output (3.5 mm), optical audio input, USB (1x), CI.
+- Made in England
+- Wattage: 58.0 kilowatt_hours
+- Power source type: corded electric
+- Functions: DVD player, DVB-C (cable TV), DVB-T2 (antenna TV), electronic program guide (EPG), sleep timer, child lock, PVR recording.
+- Included components: base
+- Connectivity technology: hdmi
+- USB recording function for easy recording, or pausing of live television.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

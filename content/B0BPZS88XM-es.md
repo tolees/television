@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conectividad HDMI/USB.
 - Resolución HD. Vive una resolución de imágenes y videos óptima.
 - TV 24 pulgadas
 - Sistema Dolby. Estándar internacional de sonido e imagen.
 - Memoria Flash: tecnología de almacenamiento de alta velocidad.
+- Conectividad HDMI/USB.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BPZS88XM{{</world>}}

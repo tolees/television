@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: multicolor
-- Medidas: 28 x 147 x 101 centímetros
-- ¡Si buscas calidad al mejor precio no sigas buscando!
 - Smart TV de la marca TCL
+- ¡Si buscas calidad al mejor precio no sigas buscando!
+- Medidas: 28 x 147 x 101 centímetros
 - Referencia: S0450825
+- Color: multicolor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5R1X9NH{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de instalar
 - Diseño delgado y moderno
 - Imágenes nítidas y naturales al tiempo que minimiza el efecto halo
+- Fácil de instalar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BWWN814C{{</world>}}

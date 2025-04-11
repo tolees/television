@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ▲ LIGERO Y PORTÁTIL: La carcasa del SSD utiliza la aleación de aluminio que lo hace muy sólido y duradero. También es súper pequeño y ligero (pesa aproximadamente 40g), le permite guardarlo en su bolsillo.
-- ▲ DISPOSITIVOS COMPATIBLES: El SSD externo viene con 2 cables Tipo C a USB-A y Tipo c a Tipo C, de modo que puede conectarlo a los dispositivos como PC, computadoras, portátiles y tabletas, Smart TV, PS3/4, XBOX etc.
-- ▲ SISTEMAS COMPATIBLES: Es compatible con Windows 7/8/10 / Vista / Windows XP / Windows 2000 / Windows ME / NT / Windows 98segunda edición / Linux / Mac OS.
-- ▲ GARANTÍA DE 2 AÑOS: No dude en contactar con nosotros si tiene algún problema del producto, se lo resolveremos lo antes posible.
 - ▲ USB 3.1 VELOCIDAD DE TRANSMISIÓN ULTRA-RÁPIDA: La velocidad de lectura puede alcanzar hasta 500 MB / s, mientras que la velocidad de escritura puede alcanzar hasta 450 MB / s, lo que le permite transferir archivos grandes como películas HD en segundos.
+- ▲ DISPOSITIVOS COMPATIBLES: El SSD externo viene con 2 cables Tipo C a USB-A y Tipo c a Tipo C, de modo que puede conectarlo a los dispositivos como PC, computadoras, portátiles y tabletas, Smart TV, PS3/4, XBOX etc.
+- ▲ GARANTÍA DE 2 AÑOS: No dude en contactar con nosotros si tiene algún problema del producto, se lo resolveremos lo antes posible.
+- ▲ LIGERO Y PORTÁTIL: La carcasa del SSD utiliza la aleación de aluminio que lo hace muy sólido y duradero. También es súper pequeño y ligero (pesa aproximadamente 40g), le permite guardarlo en su bolsillo.
+- ▲ SISTEMAS COMPATIBLES: Es compatible con Windows 7/8/10 / Vista / Windows XP / Windows 2000 / Windows ME / NT / Windows 98segunda edición / Linux / Mac OS.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TWDG8X6{{</world>}}

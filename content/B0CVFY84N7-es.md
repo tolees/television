@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BLUETOOTH: conectividad Bluetooth fácil de añadir dispositivos Bluetooth y función de grabación USB
 - TRIPLE SINTONIZADOR: vea programas codificados sin hardware adicional a través de cable (DVB-C), satélite (DVB-S2) o televisión terrestre (DVB-T2).
 - COMPACTO: 16" (40 cm de diagonal) ultracompacto con resolución Full HD y función WEBOS Smart para una comodidad de visualización absoluta en los espacios más reducidos.
 - SONIDO ÚNICO: Pitch Perfect Sound es un nuevo desarrollo patentado de Cello que utiliza un recinto de altavoces bajo el televisor para mejorar el sonido mucho más allá de lo que se puede conseguir con un televisor típico de este tamaño y que, de otro modo, sólo podría lograrse con un altavoz externo.
+- BLUETOOTH: conectividad Bluetooth fácil de añadir dispositivos Bluetooth y función de grabación USB
 - MULTIMEDIA: Numerosas conexiones como HDMI, USB con reproductor multimedia, así como WLAN y Bluetooth ofrecen suficientes opciones de utilización para consolas, reproductores de DVD, dispositivos de sonido externos y mucho más.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

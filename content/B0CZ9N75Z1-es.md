@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema operativo: SO TITAN
 - Pantalla: 108 cm, 3840 x 2160 (LED 4K Ultra HD)
+- Sistema operativo: SO TITAN
 - Conectividad: HDMI, USB, conexión inalámbrica (Wi-Fi 802.11n)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

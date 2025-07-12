@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Resolución: 1.920 x 1.080 píxeles (Full-HD) / frecuencia de actualización: 50/60 Hz
 - Recepción: Analógica, DVB-T2 (terrestre), DVB-C (cable), DVB-S2 (satélite), CI+
+- Tipo: Smart LED TV con 100 cm (40 pulgadas) de diagonal de pantalla
 - Smart TV: WLAN integrada, conexión LAN (RJ45), reproductor multimedia USB
 - No necesita receptor externo
-- Tipo: Smart LED TV con 100 cm (40 pulgadas) de diagonal de pantalla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B085YVK5C7{{</world>}}

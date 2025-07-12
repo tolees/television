@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Soporte central / Resolución y Sonido Contraste 3000:1 Brillo 250 cd/m2±10% Tiempo de respuesta 8 ms Sistema de vídeo H.265,H.264,MPEG2 Sist.Audio MPEG-1 layer 1/2, DD, DD+ Potencia de audio 2 x 8W
 - Medidas: Sin pie/peana incluido: 50,9 x 89,18 x 8,4 cm Pie/peana incluido: 55,34 x 89,18 x 22,2 cm Peso Neto/Bruto (Kg) 5,5/7,8 Medidas VESA: 200 x 200 mm Medidas de caja: 57,0 x 99,0 x 11,8 cm
-- Cuenta con las siguientes características: CI x 1 Conector RF x 2 Salida de Earphone Salida altavoces Entrada RJ45 x 1 Control remoto Conector USB 2.0 x 2 Conector AV in x 1 Conector HDMI 1.4 x 3 DVB-T/T2/C/S/S2 + PAL Secam
 - Una TV Infiniton es entretenimiento a medida, sin restricciones, libertad de movimiento y ocio personalizado. Será como si estuvieras en tu Smartphone Android.
+- Cuenta con las siguientes características: CI x 1 Conector RF x 2 Salida de Earphone Salida altavoces Entrada RJ45 x 1 Control remoto Conector USB 2.0 x 2 Conector AV in x 1 Conector HDMI 1.4 x 3 DVB-T/T2/C/S/S2 + PAL Secam
 - La televisión Infiniton INTV-A40G24 le ofrece una calidad de imagen nítida y espectacular que podrá disfrutar en su estancia gracias a su Resolución Full HD (1920 x 1080p). Además, gracias a esta tecnología y a su clasificación energética E percibirás un importante ahorro energético en tu factura de la luz., sonido Dolby Digital Plus, Smart TV.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Smart TV: descarga todas tus apps de contenidos en streaming a través de Google Play.
 - Bluetooth, 3 puertos HDMI, 2 puerto USB
+- Smart TV: descarga todas tus apps de contenidos en streaming a través de Google Play.
 - HDR10: la tecnología HDR proporciona mejores colores y detalles sorprendentes, haciendo que tus películas, programas y juegos favoritos cobren vida con una intensidad impresionante.
 - Sonido Dolby Atmos: tecnología de audio envolvente e inmersión total.
 - Tecnología QLED: mejora significativa en la pureza y la intensidad de los colores.

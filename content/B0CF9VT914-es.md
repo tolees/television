@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- WEBOS: Cello se ha asociado con LG Electronics para ofrecerle esta nueva gama de televisores inteligentes WebOS Hub. WebOS es el conocido y apreciado sistema operativo inteligente desarrollado por LG.
+- HECHO EN INGLATERRA: Fabricado en el Reino Unido con un servicio posventa francófono en Europa: consumersupport@celloelectronics.com
 - SINTONIZADOR TRIPLE INTEGRADO: recepción analógica, DVB-T2 (terrestre), DVB-C (cable), DVB-S2 (satélite), CI+, ¡sin necesidad de receptor externo!
 - BLUETOOTH: Conectividad Bluetooth (fácil incorporación de una barra de sonido Bluetooth)
+- WEBOS: Cello se ha asociado con LG Electronics para ofrecerle esta nueva gama de televisores inteligentes WebOS Hub. WebOS es el conocido y apreciado sistema operativo inteligente desarrollado por LG.
 - TODAS TUS APLICACIONES FAVORITAS: Descarga las aplicaciones Disney+, Netflix, Apple TV+, Prime Video, Paramount+ y BBC iPlayer a través del navegador web para acceder a tus programas y películas favoritos.
-- HECHO EN INGLATERRA: Fabricado en el Reino Unido con un servicio posventa francófono en Europa: consumersupport@celloelectronics.com
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CF9VT914{{</world>}}

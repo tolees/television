@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ANDROID TV 11 CON GOOGLE PLAY Y CHROMECAST: Accede a un mundo de entretenimiento ilimitado con el sistema operativo Android TV 11. Descarga tus aplicaciones favoritas de Google Play, como Netflix, Prime Video y YouTube. Además, con Chromecast integrado, puedes transmitir contenido desde tus dispositivos móviles directamente a la televisión.
-- SONIDO ENVOLVENTE Y PERSONALIZADO: Disfruta de un sonido potente y envolvente con los altavoces de caja de 2x12W de la televisión Tesla. Además, puedes ajustar el equilibrio y utilizar el ecualizador para personalizar tu experiencia auditiva según tus preferencias.
 - CONTROL TOTAL CON GOOGLE ASSISTANT: Simplifica tu vida con el control de voz del televisor Tesla. Con Google Assistant, puedes cambiar de canal, ajustar el volumen y buscar contenido sin levantar un dedo. ¡Una experiencia verdaderamente inteligente y práctica!
 - EXPERIENCIA INMERSIVA CON IMAGEN 4K Y HDR10: Disfruta de una calidad de imagen excepcional en la televisión Tesla de 50 pulgadas con resolución 4K y HDR10. Sumérgete en detalles nítidos y colores vibrantes para una experiencia visual impresionante.
+- SONIDO ENVOLVENTE Y PERSONALIZADO: Disfruta de un sonido potente y envolvente con los altavoces de caja de 2x12W de la televisión Tesla. Además, puedes ajustar el equilibrio y utilizar el ecualizador para personalizar tu experiencia auditiva según tus preferencias.
 - CONEXIONES VERSÁTILES Y DISEÑO ELEGANTE: Con 4 puertos HDMI, 2 puertos USB, LAN, Wi-Fi y Bluetooth, la televisión Tesla te brinda opciones de conectividad versátiles para tus dispositivos y periféricos. Además, su diseño elegante con soporte y dimensiones compactas se adapta perfectamente a cualquier espacio de tu hogar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

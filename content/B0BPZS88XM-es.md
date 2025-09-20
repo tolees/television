@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sistema Dolby. Estándar internacional de sonido e imagen.
 - Conectividad HDMI/USB.
 - Memoria Flash: tecnología de almacenamiento de alta velocidad.
-- Sistema Dolby. Estándar internacional de sonido e imagen.
 - TV 24 pulgadas
 - Resolución HD. Vive una resolución de imágenes y videos óptima.
 

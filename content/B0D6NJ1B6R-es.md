@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalla: 75" (189 cm), LED 4K Ultra HD(3840 x 2160)
-- Sistema operativo: SO TITAN
 - Funciones Ambilight
+- Sistema operativo: SO TITAN
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NJ1B6R{{</world>}}

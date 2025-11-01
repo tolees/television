@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sistema operativo: SO TITAN
 - Pantalla: 40" (99 cm), Full HD(1920 x 1080)
 - Conectividad: USB, HDMI
-- Sistema operativo: SO TITAN
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D35WQBK9{{</world>}}

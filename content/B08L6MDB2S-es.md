@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Smart TV de 32 pulgadas con resolución HD, HDR, PVR listo, Wi-Fi integrado, Bluetooth, VIDAA App Store, NETFLIX, Disney+, Paramount+ & Amazon Prime Video
-- Contenido del paquete: MEDION LIFE P8322501 MD832101 Smart TV, pies con tornillos, mando a distancia con pilas (AAA), manual de usuario
 - Alta nitidez: disfruta de tu programación favorita con la mejor calidad HD.
+- Contenido del paquete: MEDION LIFE P8322501 MD832101 Smart TV, pies con tornillos, mando a distancia con pilas (AAA), manual de usuario
+- Smart TV de 32 pulgadas con resolución HD, HDR, PVR listo, Wi-Fi integrado, Bluetooth, VIDAA App Store, NETFLIX, Disney+, Paramount+ & Amazon Prime Video
 - Comodidad total: mira fotos y vídeos fácilmente en la gran pantalla mediante el reproductor multimedia integrado.
 - Televisión de nueva generación: vive Internet en tu sala con el Smart TV de MEDION: aplicaciones, servicios de streaming, noticias y mucho más.
 

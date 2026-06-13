@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Brillantez de Color QLED】 Adéntrate en un mundo lleno de color. Gracias a la tecnología QLED (puntos cuánticos) y al amplio espacio de color DCI-P3, el televisor reproduce colores precisos y vibrantes. Disfruta de contrastes impresionantes y una calidad de imagen que da vida a cada matiz.
-- 【4K UHD & MEMC】 Disfruta de imágenes 4K ultra altas resoluciones llenas de detalles. La tecnología MEMC integrada (Estimación y Compensación de Movimiento) garantiza movimientos fluidos y sin titubeos. Ya sea viendo transmisiones deportivas rápidas, películas de acción o escenas de juegos dinámicas, la imagen permanece siempre nítida y clara.
 - 【Chromecast & AirPlay】 Transmite contenido directamente desde tu smartphone. Gracias a Chromecast built-in y la compatibilidad con Apple AirPlay, puedes enviar películas, fotos y música sin esfuerzo desde dispositivos Android e iOS de forma inalámbrica al gran pantalla 4K: conectividad máxima para tu hogar.
+- 【Brillantez de Color QLED】 Adéntrate en un mundo lleno de color. Gracias a la tecnología QLED (puntos cuánticos) y al amplio espacio de color DCI-P3, el televisor reproduce colores precisos y vibrantes. Disfruta de contrastes impresionantes y una calidad de imagen que da vida a cada matiz.
 - 【Google TV】 Google TV reúne películas, series y TV en vivo de todas tus aplicaciones y suscripciones en un solo lugar. No pierdas tiempo buscando – recibe recomendaciones personalizadas. Disfruta de acceso directo a Netflix, YouTube, Prime Video, Disney+ y miles de aplicaciones del Google Play Store.
+- 【4K UHD & MEMC】 Disfruta de imágenes 4K ultra altas resoluciones llenas de detalles. La tecnología MEMC integrada (Estimación y Compensación de Movimiento) garantiza movimientos fluidos y sin titubeos. Ya sea viendo transmisiones deportivas rápidas, películas de acción o escenas de juegos dinámicas, la imagen permanece siempre nítida y clara.
 - 【Google Assistant】 Controla tu televisor simplemente con tu voz. Tu televisor es más útil que nunca: utiliza Google Assistant para buscar películas, transmitir aplicaciones, reproducir música o controlar dispositivos compatibles del hogar inteligente. Simplemente presiona el botón de Google Assistant en el control remoto para comenzar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

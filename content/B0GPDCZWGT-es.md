@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 📡 Decodificador: Sintonizador digital de televisión para canales HD y emisiones en 4K, DVB-T2/C/S2 con televisión híbrida HbbTV.
 - 📺 Televisor Led 50 Pulgadas (126 cm), resolución 3840 x 2160 píxeles (Ultra HD 4K).
+- 🔌 Conectividad: 3x HDMI, 2x USB, entrada de vídeo compuesto AV, salida de audio digital óptica, puerto de interfaz común CI, Ethernet RJ45, Wifi, Bluetooth.
 - 🧠 Smart TV con Tizen OS 8.0 powered by Samsung, Samsung TV Plus y Samsung Gaming Hub, con inteligencia artificial.
 - 📲 Compatibilidad: YouTube, Netflix, Disney+, Prime Video, Movistar+ y todas las aplicaciones descargables desde Samsung TV Apps.
-- 📡 Decodificador: Sintonizador digital de televisión para canales HD y emisiones en 4K, DVB-T2/C/S2 con televisión híbrida HbbTV.
-- 🔌 Conectividad: 3x HDMI, 2x USB, entrada de vídeo compuesto AV, salida de audio digital óptica, puerto de interfaz común CI, Ethernet RJ45, Wifi, Bluetooth.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GPDCZWGT{{</world>}}

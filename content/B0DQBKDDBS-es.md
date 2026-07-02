@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Modelos compatibles】OLED65C31LA OLED65B46LA OLED65G29LA OLED48C45LA OLED42C44LA OLED42C45LA OLED48C44LA 86QNED99T9B 75QNED99T9B 98QNED89T6A 50QNED80T6A 86QNED80T6A 75QNED80T6A 65QNED80T6A 55QNED80T6A 43QNED80T6A 50QNED87T6B 55QNED87T6B ect.
-- 【Note】Este producto es mando a distancia por infrarrojos (sin función de voz y puntero).
-- 【Fácil de usar】 No requiere configuración, listo para usar nada más sacarlo de la caja. Simplemente conecte 2 * pilas AA y funciona con su televisor. (Nota: Pilas e instrucciones no incluidas).
 - 【Compatibility】Compatible con todos los LG Smart TV UHD OLED EVO QHD QNED NanoCell 4K 8K
+- 【Fácil de usar】 No requiere configuración, listo para usar nada más sacarlo de la caja. Simplemente conecte 2 * pilas AA y funciona con su televisor. (Nota: Pilas e instrucciones no incluidas).
+- 【Note】Este producto es mando a distancia por infrarrojos (sin función de voz y puntero).
 - 55QNED85T6C 65NANO82T6B 75NANO82T6B 55NANO82T6B 50NANO82T6B 43NANO82T6B 86NANO81T6A 75NANO81T6A 65NANO81T6A 55NANO81T6A 50NANO81T6A 43NANO81T6A 55UT91006LA 75UT91006LA 65UT91006LA 50UT91006LA 43UT91006LA 75UT80006LA 65UT80006LA 55UT80006LA
+- 【Modelos compatibles】OLED65C31LA OLED65B46LA OLED65G29LA OLED48C45LA OLED42C44LA OLED42C45LA OLED48C44LA 86QNED99T9B 75QNED99T9B 98QNED89T6A 50QNED80T6A 86QNED80T6A 75QNED80T6A 65QNED80T6A 55QNED80T6A 43QNED80T6A 50QNED87T6B 55QNED87T6B ect.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQBKDDBS{{</world>}}

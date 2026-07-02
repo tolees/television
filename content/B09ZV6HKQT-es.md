@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sintonizador: DVB-T2/C/S2 y USB Multimedia
 - Smart TV fácil, intuitivo y con Inteligencia Artificial
-- Amplio Ángulo de Visión HD LED con Profundidad de Color: 16.7M Millones de Colores
 - Compatible con montaje a pared. VESA: 75 x 75
+- Amplio Ángulo de Visión HD LED con Profundidad de Color: 16.7M Millones de Colores
 - WiFi Integrado y Miracast para ver la pantalla de tu móvil en el TV
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

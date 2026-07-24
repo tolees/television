@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'TCL 65T8D Televisor 65 Pulgadas QD-Mini LED 4K Smart TV Gaming TV 144Hz Game Accelerator 288Hz FHD FreeSync Premium Dolby Vision & Atmos HDR10+ Onkyo 2.1 Google TV Game Master'
+date: 2026-07-19 12:35:06
+image: 'https://m.media-amazon.com/images/I/41C9NwsrC4L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0GR9FLCYT-es TCL 65T8D Televisor 65 Pulgadas QD-Mini LED 4K Smart TV...'
+sku: 'B0GR9FLCYT-es'
+tags: [ 'smart','televisor','tv','🇪🇸', ]
+actualPrice: 629.0 EUR
+currency: EUR
+price: 629.0
+comparePrice: 899.0 EUR
+prodname: 'TCL 65T8D Televisor 65 Pulgadas QD-Mini LED 4K Smart TV Gaming TV 144Hz Game Accelerator 288Hz FHD FreeSync Premium Dolby Vision & Atmos HDR10+ Onkyo 2.1 Google TV Game Master'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0GR9FLCYT/?tag=tolees-21'
+descuento: '30.03'
+average: '629.0'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- QD‑Mini LED Dimming – Destellos más brillantes, contraste más profundo: La atenuación QD‑Mini LED controla la luz con precisión para ofrecer un contraste más profundo y detalles más nítidos. Junto con la tecnología de color QLED, proporciona imágenes brillantes, vívidas y realistas para una experiencia visual más inmersiva.
+- QLED – Más de mil millones de colores: TCL QLED utiliza material Quantum Crystal mejorado para un color duradero. Su tecnología de nano‑capa de precisión y optimización cromática ofrece colores más ricos, precisos y naturales. *Datos basados en pruebas de laboratorio de TCL. El rendimiento real puede variar.
+- Chip LED de alta energía – Captura de detalles intrincados: La tecnología LED de alta energía mejora el brillo y la eficiencia, ofreciendo reflejos más claros y sombras más profundas para escenas naturales y realistas.
+- Respuesta Transitoria – Movimiento claro, sin estelas: La respuesta rápida de la retroiluminación reduce el desenfoque, las sombras y las estelas en escenas de movimiento, ofreciendo imágenes más nítidas y claras para una experiencia más fluida.
+- Algoritmo Dinámico de Iluminación – Más riqueza en luces y sombras: Optimizado para contenido SDR y HDR, el televisor mejora inteligentemente la iluminación y el contraste para revelar más detalles. Disfruta de una iluminación más natural y realista al ver tus películas y series favoritas.
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0GR9FLCYT{{</world>}}

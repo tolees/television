@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dimensiones del producto: Sin peana: 122,6 x 71,2 x 8,1 cm | Con peana: 122,6 x 74,2 x 26,7 cm | VESA: 600 x 300 mm | Peso: 12 kg; diseño elegante que ahorra espacio
+- Diseñada para el gaming exigente: Con HDMI 2.1, ALLM y tasa de respuesta de 6.5 ms para un rendimiento fluido en videojuegos; experiencia inmersiva ofreceda
 - Tecnología MiniLED con resolución 4K UHD: Colores vivos, alto brillo (800 nits) y óptimo contraste para una calidad de imagen superior; perfecta para cine en casa
 - Smart TV con Google TV y control por voz: Accede a miles de apps, contenidos personalizados y controla el televisor con tu voz gracias a Google Assistant; navegación rápida e intuitiva
-- Diseñada para el gaming exigente: Con HDMI 2.1, ALLM y tasa de respuesta de 6.5 ms para un rendimiento fluido en videojuegos; experiencia inmersiva ofreceda
 - Sonido envolvente Dolby Atmos de 50W: Disfruta de una experiencia sonora cinematográfica con potencia clara y tecnología dbx-tv integrada; óptimo para amantes del sonido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

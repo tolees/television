@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modo Juego Plus: El gaming más fluido empieza aquí.
 - Dolby Vision.Atmos: Ver. Escuchar. Espectacular.
-- Smooth Motion IA: Imagen más fluida sin desenfoque.
+- Modo Juego Plus: El gaming más fluido empieza aquí.
 - Escalador IA 4K: Escala todo el contenido a una impresionante calidad 4K.
+- Smooth Motion IA: Imagen más fluida sin desenfoque.
 - Hi-QLED Color: Color vivo y auténtico.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

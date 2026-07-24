@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño Premium: Imagina ver tu serie favorita en una pantalla que parece flotar en tu pared. El diseño casi sin bordes del Xiaomi TV Mini LED te sumerge completamente en la acción, eliminando las distracciones de marcos visibles. Su relación pantalla-cuerpo del 97.74% es ideal para una experiencia cinematográfica en casa, perfecta para espacios modernos y minimalistas.
 - 【Dolby Audio】Con decodificación Dolby Audio, la Xiaomi Soundbar Pro 2.0 ofrece una auténtica experiencia de cine en casa. Equipada con dos altavoces de rango medio y dos tweeters, cubre un amplio rango de frecuencia de 50–20kHz con una potencia máxima de 84W. Sonido cristalino e inmersivo.
+- Diseño Premium: Imagina ver tu serie favorita en una pantalla que parece flotar en tu pared. El diseño casi sin bordes del Xiaomi TV Mini LED te sumerge completamente en la acción, eliminando las distracciones de marcos visibles. Su relación pantalla-cuerpo del 97.74% es ideal para una experiencia cinematográfica en casa, perfecta para espacios modernos y minimalistas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GYRMK6LC{{</world>}}

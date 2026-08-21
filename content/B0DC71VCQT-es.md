@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HD COLOUR ENGINE: Experimente imágenes vibrantes con HD Colour Engine que ofrece colores naturales y contenido impresionante en programas de televisión, películas y juegos
 - MODO DE JUEGO: Mejore su juego con el modo de juego dedicado, especialmente diseñado para reducir el retraso de entrada y garantizar una experiencia de visualización superior
+- HD COLOUR ENGINE: Experimente imágenes vibrantes con HD Colour Engine que ofrece colores naturales y contenido impresionante en programas de televisión, películas y juegos
 - REPRODUCTOR MULTIMEDIA: Conecta unidades USB con facilidad para acceder a toda su música, videos y fotos personales a través del reproductor multimedia integrado, ideal para el entretenimiento familiar
 - CON FIRE TV INTEGRADO: Acceda a su contenido con la pantalla de inicio principal intuitiva y personalizada de Fire TV, le permite controlar dispositivos domésticos inteligentes compatibles, iluminación y más directamente desde su televisor HD
 - CONTROL DE VOZ DE ALEXA: Controle su Smart TV con Alexa en el control remoto por voz, lo que simplifica el cambio de canales, el lanzamiento de aplicaciones y la administración de dispositivos domésticos inteligentes compatibles

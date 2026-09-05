@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Hisense 50A6S - UHD 4K Smart TV 50 Pulgadas Escalador IA 4K Smooth Motion IA Modo Juego Plus Dolby Vision Control por Voz Filmmaker Mode Airplay'
+date: 2026-09-03 15:27:17
+image: 'https://m.media-amazon.com/images/I/41rzF3J15uL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0GJFVQDWB-es Hisense 50A6S - UHD 4K Smart TV 50 Pulgadas Escalador IA...'
+sku: 'B0GJFVQDWB-es'
+tags: [ 'smart','tv','🇪🇸', ]
+actualPrice: 279.0 EUR
+currency: EUR
+price: 279.0
+comparePrice: 379.0 EUR
+prodname: 'Hisense 50A6S - UHD 4K Smart TV 50 Pulgadas Escalador IA 4K Smooth Motion IA Modo Juego Plus Dolby Vision Control por Voz Filmmaker Mode Airplay'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0GJFVQDWB/?tag=tolees-21'
+descuento: '26.39'
+average: '285.176363636363'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Escalador IA 4K: Escala todo el contenido a una impresionante calidad 4K.
+- Modo Juego PLUS: El gaming más fluido empieza aquí.
+- Control por Voz: Pulsa y habla para entretenimiento instantáneo.
+- Smooth Motion IA: Imagen más fluida sin desenfoque.
+- Dolby Vision: Adéntrate en la historia con Dolby.
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0GJFVQDWB{{</world>}}

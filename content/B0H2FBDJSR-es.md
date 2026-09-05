@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Haier S80 QLED Full HD 32" H32S80GFX Smart TV con Google TV Chromecast Dolby Audio HDR10 Bluetooth 5.1 USB 2.0 x 2 DBX TV HDMI 2.1 x 4 [2026]'
+date: 2026-08-28 23:09:48
+image: 'https://m.media-amazon.com/images/I/41Blm2G67zL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0H2FBDJSR-es Haier S80 QLED Full HD 32" H32S80GFX Smart TV con Google...'
+sku: 'B0H2FBDJSR-es'
+tags: [ 'smart','tv','🇪🇸', ]
+actualPrice: 175.2 EUR
+currency: EUR
+price: 175.2
+comparePrice: 269.0 EUR
+prodname: 'Haier S80 QLED Full HD 32" H32S80GFX Smart TV con Google TV Chromecast Dolby Audio HDR10 Bluetooth 5.1 USB 2.0 x 2 DBX TV HDMI 2.1 x 4 [2026]'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0H2FBDJSR/?tag=tolees-21'
+descuento: '34.87'
+average: '175.2'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- CADA SONIDO PERFECTAMENTE EQUILIBRADO: Siente cada sonido gracias a la tecnología Dolby Audio, que crea una atmósfera envolvente para una experiencia auditiva inmersiva en películas, series y videojuegos.
+- PANTALLA QLED FULL HD CON HDR10: Disfruta de una calidad de imagen clara y detallada con resolución Full HD, mejorada con la tecnología HDR10 para colores más vivos y un contraste superior.
+- Medidas y montaje (AnchoxProfxAlto): 715,5 x 205,8 x 450,5 mm con peana y 715,5 x 69,6 x 425 mm sin peana; VESA 100 x 100 para pared.
+- CONECTIVIDAD COMPLETA PARA EL HOGAR: 4 HDMI 2.1 compatibles con VRR, ALLM y eARC, 2 USB 2.0, WiFi 5, Bluetooth 5.1, Ethernet LAN, salida de auriculares, entrada compuesta e interfaz CI
+- GOOGLE TV CON CHROMECAST INTEGRADO: Accede a tus apps, series, películas y contenidos favoritos sin depender de dispositivos externos.
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B0H2FBDJSR{{</world>}}

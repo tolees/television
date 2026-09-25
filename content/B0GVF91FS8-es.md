@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG 65QNED80B6B - Smart TV QNED EVO AI 65" 4K Sin Reflejos 94% 2026'
-date: 2026-09-18 09:40:42
+date: 2026-09-21 08:25:54
 image: 'https://m.media-amazon.com/images/I/51d599bBCrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

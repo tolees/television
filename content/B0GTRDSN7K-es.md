@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG 75QNED70B6A - Smart TV QNED MiniLED AI 75" 4K Sin Reflejos 94% 2026'
-date: 2026-09-19 19:33:44
+date: 2026-09-24 14:35:07
 image: 'https://m.media-amazon.com/images/I/51ZgLQ2YMDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTRDSN7K/?tag=tolees-21'
 descuento: '30.03'
-average: '753.599999999999'
+average: '746.774999999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

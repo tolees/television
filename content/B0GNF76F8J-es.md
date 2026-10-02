@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dolby Vision.Atmos: Ver. Escuchar. Espectacular.
 - Hi-QLED Color: Color vivo y auténtico.
+- Dolby Vision.Atmos: Ver. Escuchar. Espectacular.
 - Escalador IA 4K: Escala todo el contenido a una impresionante calidad 4K.
 - Modo Juego Plus: El gaming más fluido empieza aquí.
 - Smooth Motion IA: Imagen más fluida sin desenfoque.

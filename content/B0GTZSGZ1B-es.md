@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG 65QNED82B6B - Smart TV QNED EVO AI 65" 4K Sin Reflejos 94% 2026'
-date: 2026-10-11 01:13:45
+date: 2026-10-15 08:14:25
 image: 'https://m.media-amazon.com/images/I/41ItwZvBJjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTZSGZ1B/?tag=tolees-21'
 descuento: '27.03'
-average: '718.6'
+average: '720.333333333334'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

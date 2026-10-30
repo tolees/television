@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Escalador IA 4K: Escala todo el contenido a una impresionante calidad 4K.
 - Smooth Motion IA: Imagen más fluida sin desenfoque.
 - Hi-QLED Color: Color vivo y auténtico.
-- Escalador IA 4K: Escala todo el contenido a una impresionante calidad 4K.
 - Modo Juego Plus: El gaming más fluido empieza aquí.
 - Dolby Vision.Atmos: Ver. Escuchar. Espectacular.
 

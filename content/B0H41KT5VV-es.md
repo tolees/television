@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung TV Mini LED M72H 75" 4K Smart TV con IA | Vision AI Companion Mini LED AI Football Mode Samsung TV Plus Perfecto para cine gaming y deportes'
-date: 2026-10-29 09:12:58
+date: 2026-10-30 16:13:45
 image: 'https://m.media-amazon.com/images/I/413EQp5uHVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H41KT5VV/?tag=tolees-21'
 descuento: '38.65'
-average: '745.9'
+average: '732.233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- IPS Full HD LED con Profundidad de Color: 16.7M Millones de Colores.
 - Compatible con montaje a pared. VESA: 75 x 75.
 - Sintonizador: DVB-T2/C/S2 y USB Multimedia.
+- IPS Full HD LED con Profundidad de Color: 16.7M Millones de Colores.
 - Smart TV fácil, intuitivo y con Inteligencia Artificial.
 - WiFi Integrado y Miracast para ver la pantalla de tu móvil en el TV.
 

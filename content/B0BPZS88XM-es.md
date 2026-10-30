@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resolución HD. Vive una resolución de imágenes y videos óptima.
 - Memoria Flash: tecnología de almacenamiento de alta velocidad.
 - Sistema Dolby. Estándar internacional de sonido e imagen.
+- Resolución HD. Vive una resolución de imágenes y videos óptima.
 - TV 24 pulgadas
 - Conectividad HDMI/USB.
 

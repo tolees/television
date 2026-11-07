@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Haier QLED 4K UHD H43S81FUX - 43" Smart TV Google TV Dolby Audio HDR 10 Smart Remote Control Google Assistant Bluetooth 5.1 60Hz USB 2.0 DBX TV HDMI 2.1 x 4 Sin Marcos 2025'
+date: 2026-10-07 11:37:45
+image: 'https://m.media-amazon.com/images/I/41LbfMw7sXL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FSL5NPYM-es Haier QLED 4K UHD H43S81FUX - 43" Smart TV Google TV Dolby...'
+sku: 'B0FSL5NPYM-es'
+tags: [ 'smart','tv','🇪🇸', ]
+actualPrice: 249.0 EUR
+currency: EUR
+price: 249.0
+comparePrice: 269.99 EUR
+prodname: 'Haier QLED 4K UHD H43S81FUX - 43" Smart TV Google TV Dolby Audio HDR 10 Smart Remote Control Google Assistant Bluetooth 5.1 60Hz USB 2.0 DBX TV HDMI 2.1 x 4 Sin Marcos 2025'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0FSL5NPYM/?tag=tolees-21'
+descuento: '7.77'
+average: '249.0'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0FSL5NPYM{{</world>}}

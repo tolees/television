@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Dolby Audio】Con decodificación Dolby Audio, la Xiaomi Soundbar Pro 2.0 ofrece una auténtica experiencia de cine en casa. Equipada con dos altavoces de rango medio y dos tweeters, cubre un amplio rango de frecuencia de 50–20kHz con una potencia máxima de 84W. Sonido cristalino e inmersivo.
 - Pantalla de gran formato: Tener una pantalla de 85” O 100” en tu sala es como traer el cine a casa. Imagina ver una película de ciencia ficción o un documental de naturaleza, y sentir que estás dentro de la escena. La tecnología Quantum Dot asegura que cada color sea vibrante, haciendo que los paisajes y personajes cobren vida frente a ti.
+- 【Dolby Audio】Con decodificación Dolby Audio, la Xiaomi Soundbar Pro 2.0 ofrece una auténtica experiencia de cine en casa. Equipada con dos altavoces de rango medio y dos tweeters, cubre un amplio rango de frecuencia de 50–20kHz con una potencia máxima de 84W. Sonido cristalino e inmersivo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GYRNKPSG{{</world>}}

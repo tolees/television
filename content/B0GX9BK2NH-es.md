@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hisense 85UR8S - RGB MiniLED 85 Pulgadas Smart TV 4K 180 Hz Nativos | 100% BT.2020 Modo Juego 180 Hz Anti-Reflection & Glare-Free 2.1.2 Sonido Multicanal Dolby Vision IQ HDR10+'
-date: 2026-11-12 00:56:19
+date: 2026-11-13 06:55:37
 image: 'https://m.media-amazon.com/images/I/51wnuq-BdzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GX9BK2NH/?tag=tolees-21'
 descuento: '11.82'
-average: '1969.0'
+average: '1959.0'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

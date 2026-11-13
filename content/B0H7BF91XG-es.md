@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI TV Pro 32 Pulgadas 2026 QLED Smart TV Fire OS14 L32MB-FPVEU | Alexa Voice Control Dolby Audio™ DTS Virtual:X DTS-HD Compatible with Apple AirPlay'
-date: 2026-11-11 12:17:30
+date: 2026-11-13 16:58:35
 image: 'https://m.media-amazon.com/images/I/41mJcC8TgdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H7BF91XG/?tag=tolees-21'
 descuento: '7.19'
-average: '136.20000000000204'
+average: '135.92307692307887'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

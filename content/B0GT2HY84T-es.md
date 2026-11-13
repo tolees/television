@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hisense 65U7S Pro - MiniLED Smart TV 65 Pulgadas Hi-QLED Modo Juego 165 Hz Nativos Sonido Envolvente 2.1.2 Anti Reflection & Glare Free IMAX Enhanced Dolby Vision IQ HDR 10+'
-date: 2026-11-12 07:54:38
+date: 2026-11-13 10:06:08
 image: 'https://m.media-amazon.com/images/I/415CqREGDOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GT2HY84T/?tag=tolees-21'
 descuento: '39.20'
-average: '754.0'
+average: '750.42857142857145'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Televisor con pantalla de 32 pulgadas.
-- VIDAA: sistema operativo intuitivo y de gran accesibilidad que te permite navegar sin límites. Procesador CORTEX A53: disfruta de un procesador eficiente que mejora la experiencia de usuario en el televisor.
 - HDMI: comparte tus videos, peliculas o presenta lo que quieras sin límites.
+- VIDAA: sistema operativo intuitivo y de gran accesibilidad que te permite navegar sin límites. Procesador CORTEX A53: disfruta de un procesador eficiente que mejora la experiencia de usuario en el televisor.
 - HD: resolución de imágenes y videos óptima.
 - Sistema Dolby Audio: sumérgete en tu contenido favorito con el sonido envolvente de tu televisor.
 

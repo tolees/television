@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Dolby Audio: un sonido rico y preciso que realza los diálogos y aporta más inmersión en películas, series o música.
 - Patas ajustables: dos posiciones (60 cm o 30 cm) que permiten adaptar fácilmente el televisor a tu mueble y a tu espacio.
 - Sistema TiVo con control por voz: una interfaz sencilla que reúne la TV en directo y tus aplicaciones de streaming, con recomendaciones personalizadas para encontrar más rápido lo que te gusta. La función Wireless Display permite también proyectar la pantalla de tu smartphone, tablet u ordenador para mayor comodidad.
-- Dolby Audio: un sonido rico y preciso que realza los diálogos y aporta más inmersión en películas, series o música.
 - HDR10: imágenes más naturales, con un contraste equilibrado y colores fieles para un resultado realista.
 - Mando retroiluminado: ergonómico y práctico, facilita la navegación en la oscuridad y ofrece acceso directo a Netflix, YouTube, Prime Video, Disney+ o Canal+ con un solo clic.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI TV 43 Pulgadas 2026 4K UHD Smart TV Fire OS8 HDR10 L43MB-FAVEU | Alexa Voice Control MEMC 2GB+32GB Compatible with Apple AirPlay'
-date: 2026-11-18 22:50:35
+date: 2026-11-20 18:25:06
 image: 'https://m.media-amazon.com/images/I/416nlOeuZkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H448LDSH/?tag=tolees-21'
 descuento: '21.28'
-average: '274.26315789473614'
+average: '273.49999999999932'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

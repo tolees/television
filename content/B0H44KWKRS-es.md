@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI TV 32 Pulgadas 81 cm 2026 HD Smart TV Fire OS14 L32MB-FAVEU | Alexa Voice Control Dolby Audio DTS Virtual:X DTS-HD Compatible with Apple AirPlay'
-date: 2026-11-20 10:33:17
+date: 2026-11-21 15:15:45
 image: 'https://m.media-amazon.com/images/I/412QkMoF+dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H44KWKRS/?tag=tolees-21'
 descuento: '14.39'
-average: '136.88000000000002'
+average: '136.19230769230774'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

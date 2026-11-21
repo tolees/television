@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung TV 48 Pulgadas OLED S93F 4K Smart TV | Vision AI Motion Xcelerator 144Hz y Colores certificados por Pantone'
-date: 2026-11-20 05:18:26
+date: 2026-11-21 13:37:11
 image: 'https://m.media-amazon.com/images/I/41PtwXaHi4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F222TW2K/?tag=tolees-21'
 descuento: '30.20'
-average: '731.0'
+average: '720.66666666666663'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

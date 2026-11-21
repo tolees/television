@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TCL 65Q6C 65 Pulgadas QD-Mini LED 4K HDR10+ Smart TV Google TV | Dolby Vision IQ & Atmos 144Hz Motion Clarity Pro Game Master Sonido Onkyo 2.1 Apple AirPlay 2'
-date: 2026-11-14 14:17:02
+date: 2026-11-21 02:19:12
 image: 'https://m.media-amazon.com/images/I/41V+l9FQ5yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DXQ27X44-es TCL 65Q6C 65 Pulgadas QD-Mini LED 4K HDR10+ Smart TV...'
 sku: 'B0DXQ27X44-es'
 tags: [ 'smart','tv','🇪🇸', ]
-actualPrice: 729.0 EUR
+actualPrice: 599.9 EUR
 currency: EUR
-price: 729.0
+price: 599.9
 comparePrice: 849.0 EUR
 prodname: 'TCL 65Q6C 65 Pulgadas QD-Mini LED 4K HDR10+ Smart TV Google TV | Dolby Vision IQ & Atmos 144Hz Motion Clarity Pro Game Master Sonido Onkyo 2.1 Apple AirPlay 2'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DXQ27X44/?tag=tolees-21'
-descuento: '14.13'
-average: '611.66595744680888'
+descuento: '29.34'
+average: '611.18571428571465'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

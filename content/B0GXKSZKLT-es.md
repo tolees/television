@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TCL 65Q7D Pro 65 Pulgadas SQD-Mini LED 4K HDR10+ Smart TV 2.000 Nits | 646 Zonas de Atenuación Dolby Vision IQ & Atmos Sonido Onkyo 2.1 Game Master 144Hz VRR Apple AirPlay 2'
-date: 2026-11-20 10:25:00
+date: 2026-11-27 16:15:57
 image: 'https://m.media-amazon.com/images/I/41LK2tPPWBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GXKSZKLT/?tag=tolees-21'
 descuento: '15.31'
-average: '777.266'
+average: '767.555'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

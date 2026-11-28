@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'TCL 65C7L Televisor 65 Pulgadas SQD-Mini LED 4K Smart TV 2600 nits HDR Premium 144Hz Motion Clarity Pro Game Master Pro ZeroBorder Google TV'
-date: 2026-07-28 16:09:43
-image: 'https://m.media-amazon.com/images/I/41jbDXZyuZL._SL500_._SL400_.jpg'
+title: 'TCL 65C7L 65 Pulgadas SQD-Mini LED 4K HDR10+ Smart TV 3.000 Nits | 1.152 Zonas de Atenuación Dolby Vision IQ & Atmos Audio by Bang & Olufsen Game Master 144Hz VRR Apple AirPlay 2'
+date: 2026-11-27 18:08:57
+image: 'https://m.media-amazon.com/images/I/41JMPeriVkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0GVSMZR1J-es TCL 65C7L Televisor 65 Pulgadas SQD-Mini LED 4K Smart TV...'
+slug: 'B0GVSMZR1J-es TCL 65C7L 65 Pulgadas SQD-Mini LED 4K HDR10+ Smart TV...'
 sku: 'B0GVSMZR1J-es'
-tags: [ 'smart','televisor','tv','🇪🇸', ]
-actualPrice: 899.0 EUR
+tags: [ 'smart','tv','🇪🇸', ]
+actualPrice: 809.09 EUR
 currency: EUR
-price: 899.0
+price: 809.09
 comparePrice: 1199.0 EUR
-prodname: 'TCL 65C7L Televisor 65 Pulgadas SQD-Mini LED 4K Smart TV 2600 nits HDR Premium 144Hz Motion Clarity Pro Game Master Pro ZeroBorder Google TV'
+prodname: 'TCL 65C7L 65 Pulgadas SQD-Mini LED 4K HDR10+ Smart TV 3.000 Nits | 1.152 Zonas de Atenuación Dolby Vision IQ & Atmos Audio by Bang & Olufsen Game Master 144Hz VRR Apple AirPlay 2'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GVSMZR1J/?tag=tolees-21'
-descuento: '25.02'
-average: '1018.66'
+descuento: '32.52'
+average: '948.80333333333329'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color definitivo - Color sin concesiones: La tecnología 100 % de BT.2020 ofrece colores con calidad cinematográfica, cubriendo todo el estándar de color utilizado por los mejores contenidos de la industria. Desde los tonos más brillantes hasta los más finos, cada color se muestra según lo previsto.
-- Certificados verificados - Certificaciones verificadas: Dolby Vision IQ, Dolby Vision Gaming, HDR10+, IMAX Enhanced, Filmmaker Mode, FreeSync Premium Pro, Dolby Atmos, DTS:X.
-- Sonido de máxima calidad - Audio by Bang & Olufsen: Afinado por Bang & Olufsen, cada sonido se refina para lograr claridad y equilibrio. Con el respaldo de más de un siglo de experiencia en audio, las voces suenan naturales y cada nota se siente verdadera.
-- HDR definitivo - Un brillo sin límites: Un brillo máximo de hasta 3000 nits da vida al HDR, revelando detalles precisos tanto en las zonas iluminadas como en las sombras profundas.
-- SQD-Mini LED - El Mini LED definitivo: El SQD-Mini LED de TCL eleva el Mini LED con atenuación ultraprecisa para obtener reflejos impresionantes y negros auténticos. El panel de filtro Super QLED + UltraColor ofrece un color intenso y fiel.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GVSMZR1J{{</world>}}
